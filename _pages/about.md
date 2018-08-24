@@ -14,4 +14,4 @@ I received my B.Eng degree from Department of Automation, School of Information 
 
 I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. 
 
-[cv](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf)
+You can find my cv [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
