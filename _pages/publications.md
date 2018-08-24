@@ -13,7 +13,7 @@ author_profile: true
 
 # 2018
 
-* Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig. [Multi-Agent Path Finding with Deadlines](http://jiaoyang-li.github.io/files/2018-IJCAI.pdf "Download pdf"). In <i>Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)</i>, (in print), 2018. 
+* Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig. [**Multi-Agent Path Finding with Deadlines**](http://jiaoyang-li.github.io/files/2018-IJCAI.pdf "Download pdf"). In <i>Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)</i>, (in print), 2018. 
 
 * Hang Ma, Glenn Wager, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig. [Multi-Agent Path Finding with Deadlines: Preliminary Results](http://jiaoyang-li.github.io/files/2018-AAMAS.pdf "Download pdf"). In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. (in print), 2018.
 
