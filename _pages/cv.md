@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
+2017
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
