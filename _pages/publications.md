@@ -26,6 +26,6 @@ author_profile: true
 
 * Yinghao Jia, Huimiao Chen, **Jiaoyang Li**, Fang He, Meng Li, Zechun Hu and Zuo-Jun Max Shen. [Planning for Eletric Taxi Charging System from the Perspective of Transprotation Energy Supply Chain: A Data-Driven Approach in Beijing](http://jiaoyang-li.github.io/files/2017-ITEC.pdf "Download pdf"). In <i>Proceedings of the IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)</i>. pages 1-6, 2017.
 
-* **Jiaoyang Li**, Jianming Hu and Yi Zhang. [Optimal Combinations and Variable Departure Intervals for Micro Bus System](http://jiaoyang-li.github.io/files/2017-TST.pdf "Download pdf"). <i>Tsinghua Science and Technology</i>. 22(3), 2017.
+* **Jiaoyang Li**, Jianming Hu and Yi Zhang. [Optimal Combinations and Variable Departure Intervals for Micro Bus System](http://jiaoyang-li.github.io/files/2017-TST.pdf "Download pdf"). <i>Tsinghua Science and Technology</i>. 22(3), pages 282-292, 2017.
 
 
