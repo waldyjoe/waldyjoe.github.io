@@ -1,0 +1,13 @@
+---
+title: "Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks"
+collection: publications
+permalink: /publication/2017-AAMAS
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'AAMAS'
+paperurl:H. Ma, J. Li, S. Kumar and S. Koenig. Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks. In Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS), pages 837-845, 2017.
+citation: 'Hang Ma, Jiaoyang Li, Satish Kumar and Sven Koenig. (2017). &quot;Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks.&quot; In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. pages 837-845.'
+---
+
+
+[Download paper here](http://jiaoyang-li.github.io/files/2017-AAMAS.pdf)
