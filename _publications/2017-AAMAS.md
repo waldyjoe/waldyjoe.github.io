@@ -1,6 +1,6 @@
 ---
 title: "Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks"
-collection: publications
+collection:
 permalink: /publication/2017-AAMAS
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017-05-08
