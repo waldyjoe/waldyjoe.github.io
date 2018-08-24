@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+2018
+======
+
 2017
 ======
   <ul>{% for post in site.publications %}
