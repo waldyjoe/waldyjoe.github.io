@@ -14,7 +14,7 @@ author_profile: true
 # 2019
 
 * **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig. [**Symmetry-Breaking Constraints for Grid-
-Based Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2019. 
+Based Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. 
 
 * **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig. [**Multi-Agent Path Finding for
 Large Agents**](http://jiaoyang-li.github.io/files/2019-AAAI-2.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019.
@@ -24,7 +24,7 @@ for Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-3.p
 
 # 2018
 
-* Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig. [**Multi-Agent Path Finding with Deadlines**](http://jiaoyang-li.github.io/files/2018-IJCAI.pdf "Download pdf"). In <i>Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018. 
+* Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig. [**Multi-Agent Path Finding with Deadlines**](http://jiaoyang-li.github.io/files/2018-IJCAI.pdf "Download pdf"). In <i>Proceedings of the International Joint Conference on Artificial Intelligence (**IJCAI**)</i>. pages 417-423, 2018. 
 
 * Hang Ma, Glenn Wager, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig. [**Multi-Agent Path Finding with Deadlines: Preliminary Results**](http://jiaoyang-li.github.io/files/2018-AAMAS.pdf "Download pdf") (extended abstract). In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>. pages 2004-2006, 2018.
 
