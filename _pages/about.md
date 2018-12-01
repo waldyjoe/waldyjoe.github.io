@@ -15,3 +15,13 @@ I received my B.Eng degree from Department of Automation, School of Information 
 I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. 
 
 You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
+
+## News
+======
+
+* \[2018.11\] 3 papers accepted to [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
+* \[2018.04\] Paper accepted to [IJCAI 2018](https://www.ijcai-18.org/).
+* \[2018.01\] Paper accepted to [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/).
+* \[2018.01\] Paper accepted to [ICAPS 2018](http://icaps18.icaps-conference.org/).
+* \[2017.08\] PhD student at USC.
+
