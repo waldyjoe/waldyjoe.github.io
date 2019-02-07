@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<meta name="google-site-verification" content="QIRts3oZqWQVGIOSpn2zV9k53rAZ3dwjR7ji03DYD0M" />
 
 I am a second year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html) .
 
