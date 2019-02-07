@@ -20,7 +20,7 @@ author_profile: true
 Based Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")]
 
 * **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig. [**Multi-Agent Path Finding for
-Large Agents**](http://jiaoyang-li.github.io/files/2019-AAAI-2.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/posters/large-agent-slides.pdf "Download slides")]
+Large Agents**](http://jiaoyang-li.github.io/files/2019-AAAI-2.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]
 
 * Hang Ma, Daniel Harabor, Peter Stuckey, **Jiaoyang Li** and Sven Koenig. [**Searching with Consistent Prioritization
 for Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-3.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019.
