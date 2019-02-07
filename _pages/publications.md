@@ -17,10 +17,10 @@ author_profile: true
 * Minghua Liu, Hang Ma, **Jiaoyang Li** and S. Koenig. **Task and Path Planning for Multi-Agent Pickup and Delivery**. In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2019. 
 
 * **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig. [**Symmetry-Breaking Constraints for Grid-
-Based Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. 
+Based Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")]
 
 * **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig. [**Multi-Agent Path Finding for
-Large Agents**](http://jiaoyang-li.github.io/files/2019-AAAI-2.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019.
+Large Agents**](http://jiaoyang-li.github.io/files/2019-AAAI-2.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/posters/large-agent-slides.pdf "Download slides")]
 
 * Hang Ma, Daniel Harabor, Peter Stuckey, **Jiaoyang Li** and Sven Koenig. [**Searching with Consistent Prioritization
 for Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-3.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019.
