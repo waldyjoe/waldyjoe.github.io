@@ -8,7 +8,7 @@ collection: portfolio
 ## Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding
 
 <p align="center">
-  <img src='/images/rectangle.png'>
+  <img src='/images/rectangle.png' width=100>
 </p>
 
 We describe a new way of reasoning about symmetric collisions for Multi-Agent Path Finding (MAPF) on 4-neighbor grids. We also introduce a symmetry-breaking constraint to resolve these conflicts. This specialized technique allows us to identify and eliminate, in a single step, all permutations of two currently assigned but incompatible paths. Each such permutation
