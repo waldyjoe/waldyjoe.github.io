@@ -84,7 +84,7 @@ author:
   bio              : "Ph.D. student at University of Southern California"
   location         : 
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=F5qzvmkAAAAJ&hl=en"
+  googlescholar    : https://scholar.google.com/citations?user=F5qzvmkAAAAJ&hl=en
   email            : "jiaoyanl@usc.edu"
   uri              :
   bitbucket        :
