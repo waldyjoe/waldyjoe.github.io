@@ -4,7 +4,7 @@ excerpt: ""
 collection: portfolio
 ---
 
-* Multi-Agent Path Finding for Large Agents <br/>
+**Multi-Agent Path Finding for Large Agents <br/>
 <img src='/images/large-agent.png'> <br/> 
 Multi-Agent Path Finding (MAPF) has been widely studied in the AI community. For example, Conflict-Based Search (CBS) is a state-of-the-art MAPF algorithm based on a twolevel
 tree-search. However, previous MAPF algorithms assume that an agent occupies only a single location at any given time, e.g., a single cell in a grid. This limits their applicability
