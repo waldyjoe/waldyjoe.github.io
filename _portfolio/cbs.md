@@ -7,7 +7,7 @@ collection: portfolio
 
 
 <p align="center">
-  *Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding*<br>
+  ## Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding <br>
   <img src='/images/rectangle.png'>
 </p>
 
