@@ -12,9 +12,11 @@ author_profile: true
 {% include base_path %}
 
 ## 2019
+* **Jiaoyang Li**, Ariel Felner, Sven Koenig and T. K. Satish Kumar. **Using FastMap to Solve Graph Problems in a Euclidean Space** (short paper). In <i>Proceedings of the International Conference on Automated Planning and Scheduling (**ICAPS**)</i>. (in print), 2019.
+* **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Ariel Felner, Hang Ma and Sven Koenig. **Disjoint Splitting for Multi-Agent Path Finding with Conflict-Based Search** (short paper). In <i>Proceedings of the International Conference on Automated Planning and Scheduling (**ICAPS**)</i>. (in print), 2019.
 * Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar. **A New Constraint Satisfaction Perspective on Multi-Agent Path Finding** (extended abstract). In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2019.
 
-* Minghua Liu, Hang Ma, **Jiaoyang Li** and S. Koenig. **Task and Path Planning for Multi-Agent Pickup and Delivery**. In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2019. 
+* Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig. **Task and Path Planning for Multi-Agent Pickup and Delivery**. In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2019. 
 
 * **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig. [**Symmetry-Breaking Constraints for Grid-
 Based Multi-Agent Path Finding**](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")]
