@@ -18,12 +18,12 @@ author_profile: true
 * Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig. [Task and Path Planning for Multi-Agent Pickup and Delivery](http://jiaoyang-li.github.io/files/2019-AAMAS-1.pdf "Download pdf"). In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2019. 
 * **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig. [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. <details><summary>[bibtex]</summary>
 <p>
-@inproceedings{LiAAAI19b,
-	author = {J. Li and D. Harabor and P. J. Stuckey and H. Ma and T. K. S. Kumar and S. Koenig},
-	title = {Symmetry Breaking Constraints for Grid-based Multi-Agent Path Finding},
-	booktitle = {{AAAI} Conference on Artificial Intelligence},
+@inproceedings\{LiAAAI19b,
+	author = \{J. Li and D. Harabor and P. J. Stuckey and H. Ma and T. K. S. Kumar and S. Koenig\},
+	title = \{Symmetry Breaking Constraints for Grid-based Multi-Agent Path Finding\},
+	booktitle = \{\{AAAI\} Conference on Artificial Intelligence\},
 	year = 2019
-}
+\}
 </p>
 </details>[[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")] 
 * **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig. [Multi-Agent Path Finding for Large Agents](http://jiaoyang-li.github.io/files/2019-AAAI-2.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]
