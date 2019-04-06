@@ -17,7 +17,7 @@ author_profile: true
 * Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar. [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-AAMAS-2.pdf "Download pdf") (extended abstract). In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2019.
 * Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig. [Task and Path Planning for Multi-Agent Pickup and Delivery](http://jiaoyang-li.github.io/files/2019-AAMAS-1.pdf "Download pdf"). In <i>Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2019. 
 * **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig. [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf"). In <i>Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019. [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")] <details>
-	<summary>[bibtex]</summary>	
+	<summary>bibtex</summary>	
 
 	@inproceedings{LiAAAI19b,
 	
