@@ -25,7 +25,7 @@ author_profile: true
 	
 		title = {Symmetry Breaking Constraints for Grid-based Multi-Agent Path Finding},
 	
-		booktitle = {{AAAI} Conference on Artificial Intelligence},
+		booktitle = {AAAI Conference on Artificial Intelligence},
 	
 		year = 2019	
 	}
