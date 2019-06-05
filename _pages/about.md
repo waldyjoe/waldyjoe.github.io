@@ -17,6 +17,8 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
+* \[2019.05\] Summer research intern at Amazon Robotics.
+* \[2019.05\] Paper accepted to [IJCAI 2019](https://www.ijcai19.org/).
 * \[2019.03\] Received a Technology Commercialization Award from the USC Stevens Center for Innovation Technology.
 * \[2019.02\] 2 papers accepted to [ICAPS 2019](https://icaps19.icaps-conference.org/).
 * \[2019.01\] 2 spotlight talks at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
