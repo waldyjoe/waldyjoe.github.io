@@ -25,14 +25,14 @@ You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 * \[2019.01\] 2 spotlight talks at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
 * \[2019.01\] 2 papers accepted to [AAMAS 2019](http://aamas2019.encs.concordia.ca/).
 <details><summary>Show more</summary>
-<p>
-* \[2018.12\] Visited Prof. [Ariel Felner](https://felner.wixsite.com/home)'s group in Ben-Gurion University for 3 weeks. 
-* \[2018.11\] 3 papers accepted to [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
-* \[2018.04\] Paper accepted to [IJCAI 2018](https://www.ijcai-18.org/).
-* \[2018.01\] Paper accepted to [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/).
-* \[2018.01\] Paper accepted to [ICAPS 2018](http://icaps18.icaps-conference.org/).
-* \[2017.08\] PhD student at USC.
-</p>
+<ul>
+  <li>[2018.12] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group in Ben-Gurion University for 3 weeks. </li>
+  <li>[2018.11] 3 papers accepted to <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a>.</li>
+  <li>[2018.04] Paper accepted to <a href="https://www.ijcai-18.org/">IJCAI 2018</a>.</li>
+  <li>[2018.01] Paper accepted to <a href="http://celweb.vuse.vanderbilt.edu/aamas18/">AAMAS 2018</a>.</li>
+  <li>[2018.01] Paper accepted to <a href="http://icaps18.icaps-conference.org/">ICAPS 2018</a>.</li>
+  <li>[2017.08] PhD student at USC.
+</ul>
 </details>
 
 
