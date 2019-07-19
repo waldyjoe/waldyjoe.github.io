@@ -45,21 +45,21 @@ author_profile: true
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>. (in print), 2019.
 
 ## 2018
-* [Multi-Agent Path Finding with Deadlines](http://jiaoyang-li.github.io/files/2018-IJCAI.pdf "Download pdf").     
+* [Multi-Agent Path Finding with Deadlines](https://www.ijcai.org/proceedings/2018/0058.pdf "Download pdf").     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>. pages 417-423, 2018. 
-* [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2018-ICAPS.pdf "Download pdf") (short paper).     
+* [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "Download pdf") (short paper).     
     Ariel Felner, **Jiaoyang Li**, Eli Boyarski, Hang Ma, Liron Cohen, T. K. Satish Kumar and Sven Koenig.     
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>. pages 83-87, 2018.
 
 ## 2017
-* [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](http://jiaoyang-li.github.io/files/2017-AAMAS.pdf "Download pdf").     
+* [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://dl.acm.org/citation.cfm?id=3091243 "Download pdf").     
     Hang Ma, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>. pages 837-845, 2017.
-* [Planning for Eletric Taxi Charging System from the Perspective of Transprotation Energy Supply Chain: A Data-Driven Approach in Beijing](http://jiaoyang-li.github.io/files/2017-ITEC.pdf "Download pdf").     
+* [Planning for Electric Taxi Charging System from the Perspective of Transprotation Energy Supply Chain: A Data-Driven Approach in Beijing](https://ieeexplore.ieee.org/document/8080844 "Download pdf").     
     Yinghao Jia, Huimiao Chen, **Jiaoyang Li**, Fang He, Meng Li, Zechun Hu and Zuo-Jun Max Shen.     
     <i>IEEE Transportation Electrification Conference and Expo, Asia-Pacific (**ITEC Asia-Pacific**)</i>. pages 1-6, 2017.
-* [Optimal Combinations and Variable Departure Intervals for Micro Bus System](http://jiaoyang-li.github.io/files/2017-TST.pdf "Download pdf").    
+* [Optimal Combinations and Variable Departure Intervals for Micro Bus System](https://ieeexplore.ieee.org/document/7914200 "Download pdf").    
     **Jiaoyang Li**, Jianming Hu and Yi Zhang.      
     <i>Tsinghua Science and Technology</i>. 22(3):282-292, 2017.
 
