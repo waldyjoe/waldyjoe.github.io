@@ -31,7 +31,7 @@ You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
   <li>[2018.04] Paper accepted to <a href="https://www.ijcai-18.org/">IJCAI 2018</a>.</li>
   <li>[2018.01] Paper accepted to <a href="http://celweb.vuse.vanderbilt.edu/aamas18/">AAMAS 2018</a>.</li>
   <li>[2018.01] Paper accepted to <a href="http://icaps18.icaps-conference.org/">ICAPS 2018</a>.</li>
-  <li>[2017.08] PhD student at USC.
+  <li>[2017.08] PhD student at USC. </li>
 </ul>
 </details>
 
