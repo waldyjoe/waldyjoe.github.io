@@ -18,7 +18,7 @@ author_profile: true
 * [Scheduling and Airport Taxiway Path Planning under Uncertainty](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "Download pdf").  
     **Jiaoyang Li**, Han Zhang, Mimi Gong, Zi Liang, Weizi Liu, Zhongyi Tong, Liangchen Yi, Robert Morris, Corina Pasareanu and Sven Koenig.    
     <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.
-*  [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](http://jiaoyang-li.github.io/files/2019-SoCS-4.pdf "Download pdf") (Position Paper).    
+*  [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](http://jiaoyang-li.github.io/files/2019-SoCS-4.pdf "Download pdf") (position paper).    
     	Roni Stern, Nathan R. Sturtevant, Dor Atzmon, Thayne Walker, **Jiaoyang Li**, Liron Cohen, Hang Ma, T. K. Satish Kumar, Ariel Felner and Sven Koenig.    
       <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2019.
 * [Using FastMap to Solve Graph Problems in a Euclidean Space](https://aaai.org/ojs/index.php/ICAPS/article/view/3488/3356 "Download pdf") (short paper).    
