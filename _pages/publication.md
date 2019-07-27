@@ -35,13 +35,13 @@ author_profile: true
 * [Task and Path Planning for Multi-Agent Pickup and Delivery](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf "Download pdf").     
     Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig. 
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1152-1160, 2019. 
-* [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-AAAI-1.pdf "Download pdf").     
+* [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").     
     **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig. 
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2019.   
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 6087-6095, 2019.   
     [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")]
-* [Multi-Agent Path Finding for Large Agents](http://jiaoyang-li.github.io/files/2019-AAAI-2.pdf "Download pdf").     
+* [Multi-Agent Path Finding for Large Agents](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "Download pdf").     
     **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig.    
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2019.   
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7627-7634, 2019.   
     [[poster](http://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]
 * [Searching with Consistent Prioritization for Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-AAAI-3.pdf "Download pdf").     
     Hang Ma, Daniel Harabor, Peter Stuckey, **Jiaoyang Li** and Sven Koenig.     
