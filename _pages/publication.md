@@ -11,7 +11,8 @@ author_profile: true
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-IJCAI.pdf "Download pdf").   
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2019.     
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.
+    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
+    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]      
 * [Scheduling and Airport Taxiway Path Planning under Uncertainty](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "Download pdf").  
     **Jiaoyang Li**, Han Zhang, Mimi Gong, Zi Liang, Weizi Liu, Zhongyi Tong, Liangchen Yi, Robert Morris, Corina Pasareanu and Sven Koenig.    
     <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.
@@ -25,7 +26,7 @@ author_profile: true
 * [Disjoint Splitting for Multi-Agent Path Finding with Conflict-Based Search](https://aaai.org/ojs/index.php/ICAPS/article/view/3487/3355 "Download pdf") (short paper).    
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Ariel Felner, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 279-283, 2019.           
-    [[slides](http://jiaoyang-li.github.io/files/slides/ICAPS19-Disjoint-CBS.pdf "Download slides")]  
+    [[poster](http://jiaoyang-li.github.io/files/posters/disjoint-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/ICAPS19-Disjoint-CBS.pdf "Download slides")]  
 * [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf "Download pdf") (extended abstract).     
     Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.
