@@ -49,7 +49,8 @@ author_profile: true
 ## 2018
 * [Multi-Agent Path Finding with Deadlines](https://www.ijcai.org/proceedings/2018/0058.pdf "Download pdf").     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
-    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018. 
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018.      
+    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared in <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.      
 * [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "Download pdf") (short paper).     
     Ariel Felner, **Jiaoyang Li**, Eli Boyarski, Hang Ma, Liron Cohen, T. K. Satish Kumar and Sven Koenig.       
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.
