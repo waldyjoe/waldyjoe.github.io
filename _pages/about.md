@@ -17,6 +17,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
+* \[2019.07\] 2 talks at [IJCAI 2019](https://www.ijcai19.org/) in Macau, China.
 * \[2019.07\] 2 talks at [ICAPS 2019](https://icaps19.icaps-conference.org/) in Berkeley, CA, USA.
 * \[2019.05\] Summer research intern at Amazon Robotics.
 * \[2019.05\] Paper accepted to [IJCAI 2019](https://www.ijcai19.org/).
