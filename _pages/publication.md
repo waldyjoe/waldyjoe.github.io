@@ -12,10 +12,11 @@ author_profile: true
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
-    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code]](https://github.com/Jiaoyang-Li/CBSH2 "Source code")           
+    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]           
 * [Scheduling and Airport Taxiway Path Planning under Uncertainty](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "Download pdf").  
     **Jiaoyang Li**, Han Zhang, Mimi Gong, Zi Liang, Weizi Liu, Zhongyi Tong, Liangchen Yi, Robert Morris, Corina Pasareanu and Sven Koenig.    
-    <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.
+    <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.       
+    [[code](https://github.com/nasa-airport/airport-simulation/tree/scheduler/add-jiaoyang-scheduler "Source code")]       
 *  [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](http://jiaoyang-li.github.io/files/2019-SoCS-4.pdf "Download pdf") (position paper).    
     	Roni Stern, Nathan R. Sturtevant, Dor Atzmon, Thayne Walker, **Jiaoyang Li**, Liron Cohen, Hang Ma, T. K. Satish Kumar, Ariel Felner and Sven Koenig.       
       <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 151-159, 2019.
@@ -33,11 +34,11 @@ author_profile: true
 * [Task and Path Planning for Multi-Agent Pickup and Delivery](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf "Download pdf").     
     Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1152-1160, 2019. 
-* [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").     
+* [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").               
     **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 6087-6095, 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18379, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 184-185, 2019.     
-    [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")]
+    [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]     
 * [Multi-Agent Path Finding for Large Agents](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "Download pdf").     
     **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7627-7634, 2019.      
@@ -54,7 +55,8 @@ author_profile: true
     A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared in <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.      
 * [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "Download pdf") (short paper).     
     Ariel Felner, **Jiaoyang Li**, Eli Boyarski, Hang Ma, Liron Cohen, T. K. Satish Kumar and Sven Koenig.       
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.      
+    [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]        
 
 ## 2017
 * [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://dl.acm.org/citation.cfm?id=3091243 "Download pdf").     
