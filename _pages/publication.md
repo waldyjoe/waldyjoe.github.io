@@ -12,7 +12,7 @@ author_profile: true
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
-    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")]      
+    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code]](https://github.com/Jiaoyang-Li/CBSH2 "Source code")           
 * [Scheduling and Airport Taxiway Path Planning under Uncertainty](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "Download pdf").  
     **Jiaoyang Li**, Han Zhang, Mimi Gong, Zi Liang, Weizi Liu, Zhongyi Tong, Liangchen Yi, Robert Morris, Corina Pasareanu and Sven Koenig.    
     <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.
