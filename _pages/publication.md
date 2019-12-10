@@ -11,6 +11,7 @@ author_profile: true
 * [Model AI Assignments 2020](http://jiaoyang-li.github.io/files/2020-EAAI.pdf "Download pdf").                                     
     Todd W.Neller, Stephen Keeley, Michael Guerzhoy, Wolfgang Hoenig, **Jiaoyang Li**, Sven Koenig, Ameet Soni, Krista Thomason, Lisa Zhang, Bibin Sebatian, Cinjon Resnick, Avital Oliver, Surya Bhupatiraju, Kumar Krishna Agrawal, James Allingham, Sejong Yoon, Johnathan Chen, Tom Larsen, Marion Neumann, Narges Norouzi, Ryan Hausen and Matthew Evett.  
     <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, (in print), 2020.
+
 ## 2019
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-IJCAI.pdf "Download pdf").   
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
@@ -52,6 +53,7 @@ author_profile: true
     Hang Ma, Daniel Harabor, Peter Stuckey, **Jiaoyang Li** and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7643-7650, 2019.       
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18381, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 188-189, 2019.       
+
 ## 2018
 * [Multi-Agent Path Finding with Deadlines](https://www.ijcai.org/proceedings/2018/0058.pdf "Download pdf").     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
