@@ -18,7 +18,7 @@ You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
 * \[2019.11\] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group in Ben-Gurion University for 2 weeks.
-* \[2019.10\] Gave a talk at Amazon Research Award Symposium in Boston, MA, USA.
+* \[2019.10\] Gave a talk at the Amazon Research Awards – Robotics Symposium in Boston, MA, USA.
 * \[2019.07\] 2 talks at [IJCAI 2019](https://www.ijcai19.org/) in Macau, China.
 * \[2019.07\] 2 talks at [ICAPS 2019](https://icaps19.icaps-conference.org/) in Berkeley, CA, USA.
 * \[2019.05\] Summer research intern at Amazon Robotics.
