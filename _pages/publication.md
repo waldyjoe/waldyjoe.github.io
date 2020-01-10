@@ -77,27 +77,75 @@ author_profile: true
   pages     = {279--283},
   year      = {2019}
 }
-</pre></div>     
-* [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf "Download pdf") (extended abstract).     
-    Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.
+</pre></div>   
 * [Task and Path Planning for Multi-Agent Pickup and Delivery](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf "Download pdf").     
     Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1152-1160, 2019. 
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiuAAMAS19');">bibtex</a>]
+<div id="bibtex-LiuAAMAS19" style="display:none">
+<pre>@inproceedings{LiuAAMAS19,
+  author    = {Minghua Liu and Hang Ma and Jiaoyang Li and Sven Koenig},
+  title     = {Task and Path Planning for Multi-Agent Pickup and Delivery},
+  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  pages     = {1152--1160},
+  year      = {2019}
+}
+</pre></div>   
+* [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf "Download pdf") (extended abstract).     
+    Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WangAAMAS19');">bibtex</a>]
+<div id="bibtex-WangAAMAS19" style="display:none">
+<pre>@inproceedings{WangAAMAS19,
+  author    = {Jiangxing Wang and Jiaoyang Li and Hang Ma and Sven Koenig and T. K. Satish Kumar},
+  title     = {A New Constraint Satisfaction Perspective on Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  pages     = {2253--2255},
+  year      = {2019}
+}
+</pre></div>   
 * [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").               
     **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 6087-6095, 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18379, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 184-185, 2019.     
-    [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]     
+    [[poster](http://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI19a');">bibtex</a>]
+<div id="bibtex-LiAAAI19a" style="display:none">
+<pre>@inproceedings{LiAAAI19a,
+  author    = {Jiaoyang Li and Daniel Harabor and Peter Stuckey and Hang Ma and Sven Koenig},
+  title     = {Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 33rd {AAAI} Conference on Artificial Intelligence (AAAI)},
+  pages     = {6087--6095},
+  year      = {2019}
+}
+</pre></div>     
 * [Multi-Agent Path Finding for Large Agents](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "Download pdf").     
     **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7627-7634, 2019.      
      A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18380, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 186-187, 2019.     
-    [[poster](http://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]
+    [[poster](http://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI19b');">bibtex</a>]
+<div id="bibtex-LiAAAI19b" style="display:none">
+<pre>@inproceedings{LiAAAI19b,
+  author    = {Jiaoyang Li and Pavel Surynek and Ariel Felner and Hang Ma and T. K. Satish Kumar and Sven Koenig},
+  title     = {Multi-Agent Path Finding for Large Agents},
+  booktitle = {Proceedings of the 33rd {AAAI} Conference on Artificial Intelligence (AAAI)},
+  pages     = {7627--7634},
+  year      = {2019}
+}
+</pre></div>     
 * [Searching with Consistent Prioritization for Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4758 "Download pdf").     
     Hang Ma, Daniel Harabor, Peter Stuckey, **Jiaoyang Li** and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7643-7650, 2019.       
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18381, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 188-189, 2019.       
+    [[slides](http://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAAI19');">bibtex</a>]
+<div id="bibtex-MaAAAI19" style="display:none">
+<pre>@inproceedings{MaAAAI19,
+  author    = {Hang Ma and Daniel Harabor and Peter J. Stuckey and Jiaoyang Li and Sven Koenig},
+  title     = {Searching with Consistent Prioritization for Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 33rd {AAAI} Conference on Artificial Intelligence (AAAI)},
+  pages     = {7643--7650},
+  year      = {2019}
+}
+</pre></div>   
 
 ## 2018
 * [Multi-Agent Path Finding with Deadlines](https://www.ijcai.org/proceedings/2018/0058.pdf "Download pdf").     
