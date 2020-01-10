@@ -17,20 +17,28 @@ author_profile: true
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
-    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('BibTeX▼') } else { $('#' + id).show('fast'); $(target).text('BibTeX▲') } })(this, 'bibtex-LiIJCAI19');">BibTeX▼</a>]
+    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('BibTeX') } else { $('#' + id).show('fast'); $(target).text('BibTeX▲') } })(this, 'bibtex-LiIJCAI19');">BibTeX▼</a>]
 <div id="bibtex-LiIJCAI19" style="display:none">
 <pre>@inproceedings{LiIJCAI19,
-    author = {Jiaoyang Li and Eli Boyarski and Ariel Felner and Hang Ma and Sven Koenig},
-    booktitle = {International Joint Conference on Artificial Intelligence},
-    pages = {442--449},
-    title = {Improved Heuristics for Multi-Agent Path Finding with Conflict-Based Search},
-    year = {2019}
+    author    = {Jiaoyang Li and Ariel Felner and Eli Boyarski and Hang Ma and Sven Koenig},
+    title     = {Improved Heuristics for Multi-Agent Path Finding with Conflict-Based Search},
+    booktitle = {Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)},
+    pages     = {442--449},
+    year      = {2019}
 }
 </pre></div>     
 * [Scheduling and Airport Taxiway Path Planning under Uncertainty](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "Download pdf").  
     **Jiaoyang Li**, Han Zhang, Mimi Gong, Zi Liang, Weizi Liu, Zhongyi Tong, Liangchen Yi, Robert Morris, Corina Pasareanu and Sven Koenig.    
     <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.       
-    [[code](https://github.com/nasa-airport/airport-simulation/tree/scheduler/add-jiaoyang-scheduler "Source code")]       
+    [[code](https://github.com/nasa-airport/airport-simulation/tree/scheduler/add-jiaoyang-scheduler "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('BibTeX') } else { $('#' + id).show('fast'); $(target).text('BibTeX▲') } })(this, 'bibtex-LiAIAA19');">BibTeX▼</a>]
+<div id="bibtex-LiAIAA19" style="display:none">
+<pre>@inproceedings{LiAIAA19,
+    author    = {Jiaoyang Li and Han Zhang and Mimi Gong and Zi Liang and Weizi Liu and Zhongyi Tong and Liangchen Yi and Robert Morris and Corina Pasareanu and Sven Koenig},
+    title     = {Scheduling and Airport Taxiway Path Planning under Uncertainty},
+    booktitle = {Proceedings of the AIAA Aviation Forum},
+    year      = {2019}
+}
+</pre></div>      
 *  [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](http://jiaoyang-li.github.io/files/2019-SoCS-4.pdf "Download pdf") (position paper).    
     	Roni Stern, Nathan R. Sturtevant, Dor Atzmon, Thayne Walker, **Jiaoyang Li**, Liron Cohen, Hang Ma, T. K. Satish Kumar, Ariel Felner and Sven Koenig.       
       <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 151-159, 2019.
