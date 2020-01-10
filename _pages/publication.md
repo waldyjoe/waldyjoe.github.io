@@ -17,7 +17,7 @@ author_profile: true
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
-    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('BibTeX') } else { $('#' + id).show('fast'); $(target).text('BibTeX▲') } })(this, 'bibtex-LiIJCAI19');">BibTeX▼</a>]
+    [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI19');">bibtex</a>]
 <div id="bibtex-LiIJCAI19" style="display:none">
 <pre>@inproceedings{LiIJCAI19,
     author    = {Jiaoyang Li and Ariel Felner and Eli Boyarski and Hang Ma and Sven Koenig},
@@ -30,7 +30,7 @@ author_profile: true
 * [Scheduling and Airport Taxiway Path Planning under Uncertainty](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "Download pdf").  
     **Jiaoyang Li**, Han Zhang, Mimi Gong, Zi Liang, Weizi Liu, Zhongyi Tong, Liangchen Yi, Robert Morris, Corina Pasareanu and Sven Koenig.    
     <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.       
-    [[code](https://github.com/nasa-airport/airport-simulation/tree/scheduler/add-jiaoyang-scheduler "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('BibTeX') } else { $('#' + id).show('fast'); $(target).text('BibTeX▲') } })(this, 'bibtex-LiAIAA19');">BibTeX▼</a>]
+    [[code](https://github.com/nasa-airport/airport-simulation/tree/scheduler/add-jiaoyang-scheduler "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAIAA19');">bibtex</a>]
 <div id="bibtex-LiAIAA19" style="display:none">
 <pre>@inproceedings{LiAIAA19,
     author    = {Jiaoyang Li and Han Zhang and Mimi Gong and Zi Liang and Weizi Liu and Zhongyi Tong and Liangchen Yi and Robert Morris and Corina Pasareanu and Sven Koenig},
@@ -41,15 +41,43 @@ author_profile: true
 </pre></div>      
 *  [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](http://jiaoyang-li.github.io/files/2019-SoCS-4.pdf "Download pdf") (position paper).    
     	Roni Stern, Nathan R. Sturtevant, Dor Atzmon, Thayne Walker, **Jiaoyang Li**, Liron Cohen, Hang Ma, T. K. Satish Kumar, Ariel Felner and Sven Koenig.       
-      <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 151-159, 2019.
+      <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 151-159, 2019.    
+      [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SternSoCS19');">bibtex</a>]
+<div id="bibtex-SternSoCS19" style="display:none">
+<pre>@inproceedings{SternSoCS19,
+  author    = {Roni Stern and Nathan R. Sturtevant and Ariel Felner and Sven Koenig and Hang Ma and Thayne T. Walker and Jiaoyang Li and Dor Atzmon and Liron Cohen and T. K. Satish Kumar and Roman Bart{\'{a}}k and Eli Boyarski},
+  title     = {Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks},
+  booktitle = {Proceedings of the 12th International Symposium on Combinatorial Search (SoCS)},
+  pages     = {151--159},
+  year      = {2019}
+}
+</pre></div>   
 * [Using FastMap to Solve Graph Problems in a Euclidean Space](https://aaai.org/ojs/index.php/ICAPS/article/view/3488/3356 "Download pdf") (short paper).    
     **Jiaoyang Li**, Ariel Felner, Sven Koenig and T. K. Satish Kumar.       
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 273-278, 2019.   
-    [[slides](http://jiaoyang-li.github.io/files/slides/ICAPS19-FastMap.pdf "Download slides")]
+    [[slides](http://jiaoyang-li.github.io/files/slides/ICAPS19-FastMap.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS19a');">bibtex</a>]
+<div id="bibtex-LiICAPS19a" style="display:none">
+<pre>@inproceedings{LiICAPS19a,
+  author    = {Jiaoyang Li and Ariel Felner and Sven Koenig and T. K. Satish Kumar},
+  title     = {Using FastMap to Solve Graph Problems in a Euclidean Space},
+  booktitle = {Proceedings of the 29th International Conference on Automated Planning and Scheduling (ICAPS)},
+  pages     = {273--278},
+  year      = {2019}
+}
+</pre></div>     
 * [Disjoint Splitting for Multi-Agent Path Finding with Conflict-Based Search](https://aaai.org/ojs/index.php/ICAPS/article/view/3487/3355 "Download pdf") (short paper).    
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Ariel Felner, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 279-283, 2019.           
-    [[poster](http://jiaoyang-li.github.io/files/posters/disjoint-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/ICAPS19-Disjoint-CBS.pdf "Download slides")]  
+    [[poster](http://jiaoyang-li.github.io/files/posters/disjoint-poster.pdf "Download poster")] [[slides](http://jiaoyang-li.github.io/files/slides/ICAPS19-Disjoint-CBS.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS19b');">bibtex</a>]
+<div id="bibtex-LiICAPS19b" style="display:none">
+<pre>@inproceedings{LiICAPS19b,
+  author    = {Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
+  title     = {Disjoint Splitting for Multi-Agent Path Finding with Conflict-Based Search},
+  booktitle = {Proceedings of the 29th International Conference on Automated Planning and Scheduling (ICAPS)},
+  pages     = {279--283},
+  year      = {2019}
+}
+</pre></div>     
 * [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf "Download pdf") (extended abstract).     
     Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.
