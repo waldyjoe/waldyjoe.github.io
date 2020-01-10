@@ -93,7 +93,7 @@ author_profile: true
 </pre></div>   
 * [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf "Download pdf") (extended abstract).     
     Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WangAAMAS19');">bibtex</a>]
 <div id="bibtex-WangAAMAS19" style="display:none">
 <pre>@inproceedings{WangAAMAS19,
@@ -151,16 +151,45 @@ author_profile: true
 * [Multi-Agent Path Finding with Deadlines](https://www.ijcai.org/proceedings/2018/0058.pdf "Download pdf").     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018.      
-    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared in <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.      
+    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared in <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.     
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaIJCAI18');">bibtex</a>]
+<div id="bibtex-MaIJCAI18" style="display:none">
+<pre>@inproceedings{MaIJCAI18,
+  author    = {Hang Ma and Glenn Wagner and Ariel Felner and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+  title     = {Multi-Agent Path Finding with Deadlines},
+  booktitle = {Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI)},
+  pages     = {417--423},
+  year      = {2018}
+}
+</pre></div>     
 * [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "Download pdf") (short paper).     
     Ariel Felner, **Jiaoyang Li**, Eli Boyarski, Hang Ma, Liron Cohen, T. K. Satish Kumar and Sven Koenig.       
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.      
-    [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]        
+    [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-FelnerICAPS18');">bibtex</a>]
+<div id="bibtex-FelnerICAPS18" style="display:none">
+<pre>@inproceedings{FelnerICAPS18,
+  author    = {Ariel Felner and Jiaoyang Li and Eli Boyarski and Hang Ma and Liron Cohen and T. K. Satish Kumar and Sven Koenig},
+  title     = {Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 28th International Conference on Automated Planning and Scheduling (ICAPS)},
+  pages     = {83--87},
+  year      = {2018}
+}
+</pre></div>         
 
 ## 2017
 * [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://dl.acm.org/citation.cfm?id=3091243 "Download pdf").     
     Hang Ma, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 837-845, 2017.
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 837-845, 2017.    
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAMAS17');">bibtex</a>]
+<div id="bibtex-MaAAMAS17" style="display:none">
+<pre>@inproceedings{MaAAMAS17,
+  author    = {Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+  title     = {Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks},
+  booktitle = {Proceedings of the 16th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  pages     = {837--845},
+  year      = {2017}
+}
+</pre></div>     
 * [Planning for Electric Taxi Charging System from the Perspective of Transprotation Energy Supply Chain: A Data-Driven Approach in Beijing](https://ieeexplore.ieee.org/document/8080844 "Download pdf").     
     Yinghao Jia, Huimiao Chen, **Jiaoyang Li**, Fang He, Meng Li, Zechun Hu and Zuo-Jun Max Shen.     
     <i>IEEE Transportation Electrification Conference and Expo, Asia-Pacific (**ITEC Asia-Pacific**)</i>, pages 1-6, 2017.
