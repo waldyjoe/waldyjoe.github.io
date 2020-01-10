@@ -13,9 +13,9 @@ author_profile: true
     <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, (in print), 2020.
 
 ## 2019
-* [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2019-IJCAI.pdf "Download pdf").   
+* [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](https://www.ijcai.org/proceedings/2019/0063.pdf "Download pdf").   
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
-    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2019.     
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
     [[poster](http://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](http://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]           
 * [Scheduling and Airport Taxiway Path Planning under Uncertainty](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "Download pdf").  
