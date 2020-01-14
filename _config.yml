@@ -85,7 +85,7 @@ author:
   location         : 
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=F5qzvmkAAAAJ&hl=en
-  email            : "jiaoyanl@usc.edu"
+  email            : jiaoyanl@usc.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : https://github.com/Jiaoyang-Li
   google_plus      :
   keybase          :
   instagram        :
@@ -111,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : https://dblp.uni-trier.de/pers/hd/l/Li_0001:Jiaoyang
 
 
 # Reading Files
