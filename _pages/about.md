@@ -17,6 +17,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
+* \[2020.01\] 2 papers accepted to [ICAPS 2020](https://icaps20.icaps-conference.org/).
 * \[2020.01\] A paper and an extended abstract accepted to [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 * \[2019.11\] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group in Ben-Gurion University for 2 weeks.
 * \[2019.10\] A talk at the Amazon Research Awards – Robotics Symposium in Boston, MA, USA.
