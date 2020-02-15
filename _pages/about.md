@@ -27,9 +27,9 @@ You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 * \[2019.05\] Summer research intern at [Amazon Robotics](https://www.amazonrobotics.com/).
 * \[2019.05\] A paper accepted to [IJCAI 2019](https://www.ijcai19.org/).
 * \[2019.03\] Received a Technology Commercialization Award from the USC Stevens Center for Innovation Technology.
-* \[2019.02\] 2 short papers accepted to [ICAPS 2019](https://icaps19.icaps-conference.org/).
 <details><summary>Show more</summary>
 <ul>
+  <li>[2019.02] 2 short papers accepted to <a href="https://icaps19.icaps-conference.org/">ICAPS 2019</a>.</li>
   <li>[2019.01] 2 spotlight talks at <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a> in Honolulu, Hawaii, USA.
   <li>[2019.01] A paper and an extended abstract accepted to <a href="http://aamas2019.encs.concordia.ca/">AAMAS 2019</a>.</li>
   <li>[2018.12] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group in Ben-Gurion University for 3 weeks. </li>
