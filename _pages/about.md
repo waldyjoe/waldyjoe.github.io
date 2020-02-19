@@ -17,7 +17,8 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
-* \[2019.02\] A talk at [EAAI 2020](http://eaai.cs.mtu.edu) in New York, NY, USA.
+* \[2020.02\] Visiting the Optimization Research Group in Monash University for 3 months.
+* \[2020.02\] A talk at [EAAI 2020](http://eaai.cs.mtu.edu) in New York, NY, USA.
 * \[2020.01\] 2 papers accepted to [ICAPS 2020](https://icaps20.icaps-conference.org/).
 * \[2020.01\] A paper and an extended abstract accepted to [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 * \[2019.11\] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group in Ben-Gurion University for 2 weeks.
