@@ -35,7 +35,14 @@ author_profile: true
 * [Model AI Assignments 2020](http://jiaoyang-li.github.io/files/2020-EAAI.pdf "Download pdf").                                     
     Todd W.Neller, Stephen Keeley, Michael Guerzhoy, Wolfgang Hoenig, **Jiaoyang Li**, Sven Koenig, Ameet Soni, Krista Thomason, Lisa Zhang, Bibin Sebatian, Cinjon Resnick, Avital Oliver, Surya Bhupatiraju, Kumar Krishna Agrawal, James Allingham, Sejong Yoon, Johnathan Chen, Tom Larsen, Marion Neumann, Narges Norouzi, Ryan Hausen and Matthew Evett.  
     <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, (in print), 2020.
-
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-EAAI20');">bibtex</a>]
+<div id="bibtex-LiuAAMAS19" style="display:none">
+<pre>@inproceedings{EAAI20,
+  author    = {Todd W.Neller and Stephen Keeley and Michael Guerzhoy and Wolfgang Hoenig and Jiaoyang Li and Sven Koenig and Ameet Soni and Krista Thomason and Lisa Zhang and Bibin Sebatian and Cinjon Resnick and Avital Oliver and Surya Bhupatiraju and Kumar Krishna Agrawal and James Allingham and Sejong Yoon and Johnathan Chen and Tom Larsen and Marion Neumann and Narges Norouzi and Ryan Hausen and Matthew Evett},
+  title     = {Model AI Assignments 2020},
+  booktitle = {Proceedings of the Symposium on Educational Advances in Artificial Intelligence (EAAI)},
+  year      = {2020}
+}
 ## 2019
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](https://www.ijcai.org/proceedings/2019/0063.pdf "Download pdf").   
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
@@ -104,7 +111,7 @@ author_profile: true
 </pre></div>   
 * [Task and Path Planning for Multi-Agent Pickup and Delivery](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf "Download pdf").     
     Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig.      
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1152-1160, 2019. 
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1152-1160, 2019.       
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiuAAMAS19');">bibtex</a>]
 <div id="bibtex-LiuAAMAS19" style="display:none">
 <pre>@inproceedings{LiuAAMAS19,
