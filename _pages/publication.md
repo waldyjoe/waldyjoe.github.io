@@ -43,6 +43,8 @@ author_profile: true
   booktitle = {Proceedings of the Symposium on Educational Advances in Artificial Intelligence (EAAI)},
   year      = {2020}
 }
+</pre></div>    
+
 ## 2019
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](https://www.ijcai.org/proceedings/2019/0063.pdf "Download pdf").   
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
