@@ -8,6 +8,30 @@ author_profile: true
 {% include base_path %}
 
 ## 2020
+* [Moving Agents in Formation in Congested Environments](http://jiaoyang-li.github.io/files/2020-AAMAS-1.pdf "Download pdf").     
+    **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2020.            
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20a');">bibtex</a>]
+<div id="bibtex-LiuAAMAS19" style="display:none">
+<pre>@inproceedings{LiAAMAS20a,
+  author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
+  title     = {Moving Agents in Formation in Congested Environments},
+  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  year      = {2020}
+}
+</pre></div>   
+* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](http://jiaoyang-li.github.io/files/2020-AAMAS-2.pdf "Download pdf")  (extended abstract).          
+    **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.      
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2020.            
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20b');">bibtex</a>]
+<div id="bibtex-LiuAAMAS19" style="display:none">
+<pre>@inproceedings{LiAAMAS20b,
+  author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
+  title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
+  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  year      = {2020}
+}
+</pre></div>       
 * [Model AI Assignments 2020](http://jiaoyang-li.github.io/files/2020-EAAI.pdf "Download pdf").                                     
     Todd W.Neller, Stephen Keeley, Michael Guerzhoy, Wolfgang Hoenig, **Jiaoyang Li**, Sven Koenig, Ameet Soni, Krista Thomason, Lisa Zhang, Bibin Sebatian, Cinjon Resnick, Avital Oliver, Surya Bhupatiraju, Kumar Krishna Agrawal, James Allingham, Sejong Yoon, Johnathan Chen, Tom Larsen, Marion Neumann, Narges Norouzi, Ryan Hausen and Matthew Evett.  
     <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, (in print), 2020.
