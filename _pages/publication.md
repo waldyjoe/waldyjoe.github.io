@@ -8,6 +8,18 @@ author_profile: true
 {% include base_path %}
 
 ## 2020
+* [New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2020-ICAPS.pdf "Download pdf").     
+    **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.            
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
+<div id="bibtex-LiICAPS2020" style="display:none">
+<pre>@inproceedings{LiICAPS2020,
+  author    = {Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
+  title     = {New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2020}
+}
+</pre></div>  
 * [Moving Agents in Formation in Congested Environments](http://jiaoyang-li.github.io/files/2020-AAMAS-1.pdf "Download pdf").     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2020.            
@@ -16,7 +28,7 @@ author_profile: true
 <pre>@inproceedings{LiAAMAS20a,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
   title     = {Moving Agents in Formation in Congested Environments},
-  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
   year      = {2020}
 }
 </pre></div>   
@@ -28,7 +40,7 @@ author_profile: true
 <pre>@inproceedings{LiAAMAS20b,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
-  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
   year      = {2020}
 }
 </pre></div>       
