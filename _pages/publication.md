@@ -23,7 +23,7 @@ author_profile: true
 * [Multi-Agent Path Finding with Mutex Propagation](http://jiaoyang-li.github.io/files/2020-ICAPS-2.pdf "Download pdf").     
     Han Zhang, **Jiaoyang Li**, Pavel Surnek, Sven Koenig and T. K. Satish Kumar.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.            
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
 <pre>@inproceedings{ZhangICAPS2020,
   author    = {Han Zhang and Jiaoyang Li and Pavel Surnek and Sven Koenig and T. K. Satish Kumar},
