@@ -20,6 +20,18 @@ author_profile: true
   year      = {2020}
 }
 </pre></div>  
+* [Multi-Agent Path Finding with Mutex Propagation](http://jiaoyang-li.github.io/files/2020-ICAPS-2.pdf "Download pdf").     
+    Han Zhang, **Jiaoyang Li**, Pavel Surnek, Sven Koenig and T. K. Satish Kumar.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.            
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
+<div id="bibtex-ZhangICAPS2020" style="display:none">
+<pre>@inproceedings{ZhangICAPS2020,
+  author    = {Han Zhang and Jiaoyang Li and Pavel Surnek and Sven Koenig and T. K. Satish Kumar},
+  title     = {Multi-Agent Path Finding with Mutex Propagation},
+  booktitle = {Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2020}
+}
+</pre></div>  
 * [Moving Agents in Formation in Congested Environments](http://jiaoyang-li.github.io/files/2020-AAMAS-1.pdf "Download pdf").     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2020.            
