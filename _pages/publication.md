@@ -8,6 +8,30 @@ author_profile: true
 {% include base_path %}
 
 ## 2020
+* Multi-Directional Heuristic Search.     
+    Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.            
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonIJCAI2020');">bibtex</a>]
+<div id="bibtex-AtzmonIJCAI2020" style="display:none">
+<pre>@inproceedings{AtzmonIJCAI2020,
+  author    = {Dor Atzmon and Jiaoyang Li and Ariel Felner and Eliran Nachmani and Shahaf Shperberg and Nathan Sturtevant and Sven Koenig},
+  title     = {Multi-Directional Heuristic Search},
+  booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
+  year      = {2020}
+}
+</pre></div>  
+* Iterative-Deepening Conflict-Based Search.     
+    Eli Boyarski, Ariel Felner, Daniel Harabor, Peter J. Stuckey, Liron Cohen, **Jiaoyang Li** and Sven Koenig.      
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.            
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiIJCAI2020');">bibtex</a>]
+<div id="bibtex-BoyarskiIJCAI2020" style="display:none">
+<pre>@inproceedings{BoyarskiIJCAI2020,
+  author    = {Eli Boyarski and Ariel Felner and Daniel Harabor and Peter J. Stuckey and Liron Cohen and Jiaoyang Li and Sven Koenig},
+  title     = {Iterative-Deepening Conflict-Based Search},
+  booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
+  year      = {2020}
+}
+</pre></div>  
 * [New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2020-ICAPS.pdf "Download pdf").     
     **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.            
