@@ -56,27 +56,29 @@ author_profile: true
   year      = {2020}
 }
 </pre></div>  
-* [Moving Agents in Formation in Congested Environments](http://jiaoyang-li.github.io/files/2020-AAMAS-1.pdf "Download pdf").     
+* [Moving Agents in Formation in Congested Environments](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "Download pdf").     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2020.            
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 726-734, 2020.            
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20a');">bibtex</a>]
 <div id="bibtex-LiAAMAS20a" style="display:none">
 <pre>@inproceedings{LiAAMAS20a,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
   title     = {Moving Agents in Formation in Congested Environments},
   booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  pages     = {726--734},
   year      = {2020}
 }
 </pre></div>   
-* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](http://jiaoyang-li.github.io/files/2020-AAMAS-2.pdf "Download pdf")  (extended abstract).          
+* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Download pdf")  (extended abstract).          
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.      
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2020.            
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20b');">bibtex</a>]
 <div id="bibtex-LiAAMAS20b" style="display:none">
 <pre>@inproceedings{LiAAMAS20b,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
   booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  pages     = {1898--1900},
   year      = {2020}
 }
 </pre></div>       
