@@ -17,6 +17,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
+* \[2020.05\] [2 virtual talks](https://underline.io/speakers/307) at [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 * \[2020.04\] Our paper "Multi-Agent Path Finding with Mutex Propogation" received the outstanding student paper award at [ICAPS 2020](https://icaps20.icaps-conference.org/program/awards/).
 * \[2020.04\] 2 papers accepted to [IJCAI 2020](https://www.ijcai20.org/).
 * \[2020.02\] Visiting the Optimization Research Group for 3 months at Monash University, Melbourne, VIC, Australia.
@@ -27,9 +28,9 @@ You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 * \[2019.10\] A talk at the Amazon Research Awards – Robotics Symposium in Boston, MA, USA.
 * \[2019.08\] 2 talks at [IJCAI 2019](https://www.ijcai19.org/) in Macau, China.
 * \[2019.07\] 2 talks at [ICAPS 2019](https://icaps19.icaps-conference.org/) in Berkeley, CA, USA.
-* \[2019.05\] Summer research intern at [Amazon Robotics](https://www.amazonrobotics.com/), Seattle, WA, USA.
 <details><summary>Show more</summary>
 <ul>
+  <li>[2019.05] Summer research intern at <a href="https://www.amazonrobotics.com/">Amazon Robotics</a>, Seattle, WA, USA.</li>
   <li>[2019.05] A paper accepted to <a href="https://www.ijcai19.org/">IJCAI 2019</a>.</li>
   <li>[2019.03] Received a Technology Commercialization Award from the USC Stevens Center for Innovation Technology.</li>
   <li>[2019.02] 2 short papers accepted to <a href="https://icaps19.icaps-conference.org/">ICAPS 2019</a>.</li>
