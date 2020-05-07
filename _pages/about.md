@@ -17,6 +17,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
+* \[2020.04\] Our paper "Multi-Agent Path Finding with Mutex Propogation" received the outstanding student paper award at [ICAPS 2020](https://icaps20.icaps-conference.org/program/awards/).
 * \[2020.04\] 2 papers accepted to [IJCAI 2020](https://www.ijcai20.org/).
 * \[2020.02\] Visiting the Optimization Research Group for 3 months at Monash University, Melbourne, VIC, Australia.
 * \[2020.02\] A talk at [EAAI 2020](http://eaai.cs.mtu.edu) in New York, NY, USA.
