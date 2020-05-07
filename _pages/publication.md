@@ -59,7 +59,7 @@ author_profile: true
 * [Moving Agents in Formation in Congested Environments](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "Download pdf").     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 726-734, 2020.            
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20a');">bibtex</a>]
+    [[talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]  [[slides](http://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20a');">bibtex</a>]
 <div id="bibtex-LiAAMAS20a" style="display:none">
 <pre>@inproceedings{LiAAMAS20a,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
@@ -72,7 +72,7 @@ author_profile: true
 * [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Download pdf")  (extended abstract).          
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20b');">bibtex</a>]
+    [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](http://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20b');">bibtex</a>]
 <div id="bibtex-LiAAMAS20b" style="display:none">
 <pre>@inproceedings{LiAAMAS20b,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
