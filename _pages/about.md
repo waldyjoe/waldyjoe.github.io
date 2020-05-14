@@ -26,10 +26,10 @@ You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 * \[2020.01\] A paper and an extended abstract accepted to [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 <details><summary>Show more</summary>
 <ul>
-  <li>[2019.11] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group for 2 weeks at Ben-Gurion University, Be'er Sheva, Israel.
-  <li>[2019.10] A <a href="https://www.twitch.tv/videos/513668031?collection=muQS7ntJ2RVwXQ"> talk</a> at the Amazon Research Awards – Robotics Symposium in Boston, MA, USA.
-  <li>[2019.08] 2 talks at <a href="https://www.ijcai19.org/"> IJCAI 2019</a> in Macau, China.
-  <li>[2019.07] 2 talks at <a href="https://icaps19.icaps-conference.org/"> ICAPS 2019</a> in Berkeley, CA, USA.
+  <li>[2019.11] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group for 2 weeks at Ben-Gurion University, Be'er Sheva, Israel.</li>
+  <li>[2019.10] A <a href="https://www.twitch.tv/videos/513668031?collection=muQS7ntJ2RVwXQ"> talk</a> at the Amazon Research Awards – Robotics Symposium in Boston, MA, USA.</li>
+  <li>[2019.08] 2 talks at <a href="https://www.ijcai19.org/"> IJCAI 2019</a> in Macau, China.</li>
+  <li>[2019.07] 2 talks at <a href="https://icaps19.icaps-conference.org/"> ICAPS 2019</a> in Berkeley, CA, USA.</li>
   <li>[2019.05] Summer research intern at <a href="https://www.amazonrobotics.com/">Amazon Robotics</a>, Seattle, WA, USA.</li>
   <li>[2019.05] A paper accepted to <a href="https://www.ijcai19.org/">IJCAI 2019</a>.</li>
   <li>[2019.03] Received a Technology Commercialization Award from the USC Stevens Center for Innovation Technology.</li>
