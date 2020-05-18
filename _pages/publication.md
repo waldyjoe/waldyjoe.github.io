@@ -71,7 +71,8 @@ author_profile: true
 </pre></div>   
 * [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Download pdf")  (extended abstract).          
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.      
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
+    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.       
+    A preprint full version can be found [here](https://urldefense.com/v3/__http://arxiv.org/abs/2005.07371__;!!LIr3w8kk_Xxm!-pSKcE08nhGn0NSad6xZ0fZiGOY6BPAmNkSYFJ8OzoR5dXtfjR9Y4PC6uVwyjlo$).        
     [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](http://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20b');">bibtex</a>]
 <div id="bibtex-LiAAMAS20b" style="display:none">
 <pre>@inproceedings{LiAAMAS20b,
