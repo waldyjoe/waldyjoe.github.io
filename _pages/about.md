@@ -14,14 +14,14 @@ I received my B.Eng degree from Department of Automation, School of Information 
 
 I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. 
 
-You can find my CV [here](http://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
+You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
 * \[2020.05\] [2 virtual talks](https://underline.io/speakers/307) at [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 * \[2020.04\] Our paper "Multi-Agent Path Finding with Mutex Propogation" received the outstanding student paper award at [ICAPS 2020](https://icaps20.icaps-conference.org/program/awards/).
 * \[2020.04\] 2 papers accepted to [IJCAI 2020](https://www.ijcai20.org/).
 * \[2020.02\] Visiting the [Optimization Research Group](https://www.monash.edu/it/dsai/optimisation) for 6 months at Monash University, Melbourne, VIC, Australia.
-* \[2020.02\] A talk at [EAAI 2020](http://eaai.cs.mtu.edu) in New York, NY, USA.
+* \[2020.02\] A talk at [EAAI 2020](https://pages.mtu.edu/~lebrown/eaai/) in New York, NY, USA.
 * \[2020.01\] 2 papers accepted to [ICAPS 2020](https://icaps20.icaps-conference.org/).
 * \[2020.01\] A paper and an extended abstract accepted to [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 <details><summary>Show more</summary>
