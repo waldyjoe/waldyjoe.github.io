@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](https://idm-lab.org/index.html) .
+I am a third year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html) .
 
 I received my B.Eng degree from Department of Automation, School of Information Science and Technology, Tsinghua University.
 
@@ -55,7 +55,7 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
       [2019.01] 2 spotlight talks at <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a> in Honolulu, Hawaii, USA.
     </li>
     <li>
-      [2019.01] A paper and an extended abstract accepted to <a href="https://aamas2019.encs.concordia.ca/">AAMAS 2019</a>.
+      [2019.01] A paper and an extended abstract accepted to <a href="http://aamas2019.encs.concordia.ca/">AAMAS 2019</a>.
     </li>
     <li>
       [2018.12] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group for 3 weeks at Ben-Gurion University, Be'er Sheva, Israel. 
@@ -67,10 +67,10 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
       [2018.04] A paper accepted to <a href="https://www.ijcai-18.org/">IJCAI 2018</a>.
     </li>
     <li>
-      [2018.01] An extended abstract accepted to <a href="https://celweb.vuse.vanderbilt.edu/aamas18/">AAMAS 2018</a>.
+      [2018.01] An extended abstract accepted to <a href="http://celweb.vuse.vanderbilt.edu/aamas18/">AAMAS 2018</a>.
     </li>
     <li>
-      [2018.01] A short paper accepted to <a href="https://icaps18.icaps-conference.org/">ICAPS 2018</a>.
+      [2018.01] A short paper accepted to <a href="http://icaps18.icaps-conference.org/">ICAPS 2018</a>.
     </li>
     <li>
       [2017.08] PhD student at USC! 
