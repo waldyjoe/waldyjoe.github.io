@@ -17,7 +17,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
-* \[2020.05\] [2 virtual talks](https://www.youtube.com/watch?v=j6PGa9mAdd4&feature=youtu.be) at [SoCS 2020](https://aamas2020.conference.auckland.ac.nz/).
+* \[2020.05\] [2 virtual talks](https://www.youtube.com/watch?v=j6PGa9mAdd4&feature=youtu.be) at [SoCS 2020](https://helios.hud.ac.uk/scommv/socs2020/).
 * \[2020.05\] [2 virtual talks](https://underline.io/speakers/307) at [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 * \[2020.04\] Our paper "Multi-Agent Path Finding with Mutex Propogation" received the outstanding student paper award at [ICAPS 2020](https://icaps20.icaps-conference.org/program/awards/).
 * \[2020.04\] 2 papers accepted to [IJCAI 2020](https://www.ijcai20.org/).
