@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Jiaoyang Li / Home"
 title_separator          : "-"
 name                     : &name "Jiaoyang Li"
 description              : &description "Ph.D. student at University of Southern California"
