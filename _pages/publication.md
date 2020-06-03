@@ -11,7 +11,7 @@ author_profile: true
 * Multi-Directional Heuristic Search.     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.         
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18528/17671, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 121-122, 2020.                
+    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18528/17671, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 121-122, 2020.                
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonIJCAI2020');">bibtex</a>]
 <div id="bibtex-AtzmonIJCAI2020" style="display:none">
 <pre>@inproceedings{AtzmonIJCAI2020,
@@ -36,7 +36,7 @@ author_profile: true
 * [New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2020-ICAPS.pdf "Download pdf").        
     **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.        
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/viewFile/18534/17675, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
+    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/viewFile/18534/17675, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
 <div id="bibtex-LiICAPS2020" style="display:none">
 <pre>@inproceedings{LiICAPS2020,
@@ -61,7 +61,7 @@ author_profile: true
 * [Moving Agents in Formation in Congested Environments](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "Download pdf").     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 726-734, 2020.       
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18535/17676, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 131-132, 2020.       
+    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18535/17676, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 131-132, 2020.       
     [[talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20a');">bibtex</a>]
 <div id="bibtex-LiAAMAS20a" style="display:none">
 <pre>@inproceedings{LiAAMAS20a,
@@ -103,7 +103,7 @@ author_profile: true
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](https://www.ijcai.org/proceedings/2019/0063.pdf "Download pdf").   
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
+    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
     [[poster](https://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](https://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI19');">bibtex</a>]
 <div id="bibtex-LiIJCAI19" style="display:none">
 <pre>@inproceedings{LiIJCAI19,
@@ -194,7 +194,7 @@ author_profile: true
 * [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").               
     **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 6087-6095, 2019.     
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18379, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 184-185, 2019.     
+    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18379, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 184-185, 2019.     
     [[poster](https://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](https://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI19a');">bibtex</a>]
 <div id="bibtex-LiAAAI19a" style="display:none">
 <pre>@inproceedings{LiAAAI19a,
@@ -208,7 +208,7 @@ author_profile: true
 * [Multi-Agent Path Finding for Large Agents](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "Download pdf").     
     **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7627-7634, 2019.      
-     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18380, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 186-187, 2019.     
+     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18380, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 186-187, 2019.     
     [[poster](https://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")] [[slides](https://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI19b');">bibtex</a>]
 <div id="bibtex-LiAAAI19b" style="display:none">
 <pre>@inproceedings{LiAAAI19b,
@@ -222,7 +222,7 @@ author_profile: true
 * [Searching with Consistent Prioritization for Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4758 "Download pdf").     
     Hang Ma, Daniel Harabor, Peter Stuckey, **Jiaoyang Li** and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7643-7650, 2019.       
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18381, "Download pdf") appeared in <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 188-189, 2019.       
+    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18381, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 188-189, 2019.       
     [[slides](https://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAAI19');">bibtex</a>]
 <div id="bibtex-MaAAAI19" style="display:none">
 <pre>@inproceedings{MaAAAI19,
@@ -238,7 +238,7 @@ author_profile: true
 * [Multi-Agent Path Finding with Deadlines](https://www.ijcai.org/proceedings/2018/0058.pdf "Download pdf").     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018.      
-    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared in <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.     
+    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaIJCAI18');">bibtex</a>]
 <div id="bibtex-MaIJCAI18" style="display:none">
 <pre>@inproceedings{MaIJCAI18,
