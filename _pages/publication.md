@@ -14,7 +14,7 @@ author_profile: true
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18528/17671, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 121-122, 2020.                
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonIJCAI2020');">bibtex</a>]
 <div id="bibtex-AtzmonIJCAI2020" style="display:none">
-<pre>@inproceedings{AtzmonIJCAI2020,
+<pre>@inproceedings{AtzmonIJCAI20,
   author    = {Dor Atzmon and Jiaoyang Li and Ariel Felner and Eliran Nachmani and Shahaf Shperberg and Nathan Sturtevant and Sven Koenig},
   title     = {Multi-Directional Heuristic Search},
   booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
@@ -26,7 +26,7 @@ author_profile: true
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.            
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiIJCAI2020');">bibtex</a>]
 <div id="bibtex-BoyarskiIJCAI2020" style="display:none">
-<pre>@inproceedings{BoyarskiIJCAI2020,
+<pre>@inproceedings{BoyarskiIJCAI20,
   author    = {Eli Boyarski and Ariel Felner and Daniel Harabor and Peter J. Stuckey and Liron Cohen and Jiaoyang Li and Sven Koenig},
   title     = {Iterative-Deepening Conflict-Based Search},
   booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
@@ -39,7 +39,7 @@ author_profile: true
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/viewFile/18534/17675, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
 <div id="bibtex-LiICAPS2020" style="display:none">
-<pre>@inproceedings{LiICAPS2020,
+<pre>@inproceedings{LiICAPS20,
   author    = {Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
   title     = {New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding},
   booktitle = {Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)},
@@ -51,7 +51,7 @@ author_profile: true
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.            
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
-<pre>@inproceedings{ZhangICAPS2020,
+<pre>@inproceedings{ZhangICAPS20,
   author    = {Han Zhang and Jiaoyang Li and Pavel Surnek and Sven Koenig and T. K. Satish Kumar},
   title     = {Multi-Agent Path Finding with Mutex Propagation},
   booktitle = {Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)},
