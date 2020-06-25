@@ -33,9 +33,9 @@ author_profile: true
   year      = {2020}
 }
 </pre></div>  
-* [New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding](http://jiaoyang-li.github.io/files/2020-ICAPS.pdf "Download pdf").        
+* [New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661/6515 "Download pdf").        
     **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.        
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 193-201, 2020.        
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/viewFile/18534/17675, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
     [[talk](https://www.youtube.com/watch?v=ckdSb750gEc&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=31)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
 <div id="bibtex-LiICAPS2020" style="display:none">
@@ -43,18 +43,20 @@ author_profile: true
   author    = {Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
   title     = {New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding},
   booktitle = {Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)},
+  pages     = {193--201},
   year      = {2020}
 }
 </pre></div>  
-* [Multi-Agent Path Finding with Mutex Propagation](http://jiaoyang-li.github.io/files/2020-ICAPS-2.pdf "Download pdf") (**Outstanding Student Paper**).     
+* [Multi-Agent Path Finding with Mutex Propagation](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531 "Download pdf") (**Outstanding Student Paper**).     
     Han Zhang, **Jiaoyang Li**, Pavel Surnek, Sven Koenig and T. K. Satish Kumar.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2020.            
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 323-332, 2020.            
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
 <pre>@inproceedings{ZhangICAPS20,
   author    = {Han Zhang and Jiaoyang Li and Pavel Surnek and Sven Koenig and T. K. Satish Kumar},
   title     = {Multi-Agent Path Finding with Mutex Propagation},
   booktitle = {Proceedings of the 30th International Conference on Automated Planning and Scheduling (ICAPS)},
+  pages     = {323--332},
   year      = {2020}
 }
 </pre></div>  
