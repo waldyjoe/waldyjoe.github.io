@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2020
-* Multi-Directional Heuristic Search.     
+* [Multi-Directional Heuristic Search](https://www.ijcai.org/Proceedings/2020/0562.pdf).     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.         
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18528/17671, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 121-122, 2020.                
@@ -21,7 +21,7 @@ author_profile: true
   year      = {2020}
 }
 </pre></div>  
-* Iterative-Deepening Conflict-Based Search.     
+* [Iterative-Deepening Conflict-Based Search](https://www.ijcai.org/Proceedings/2020/0565.pdf).     
     Eli Boyarski, Ariel Felner, Daniel Harabor, Peter J. Stuckey, Liron Cohen, **Jiaoyang Li** and Sven Koenig.      
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.            
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiIJCAI2020');">bibtex</a>]
