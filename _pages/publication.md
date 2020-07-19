@@ -10,7 +10,7 @@ author_profile: true
 ## 2020
 * [Multi-Directional Heuristic Search](https://www.ijcai.org/Proceedings/2020/0562.pdf).     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
-    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.         
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4062-4068, 2020.         
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18528/17671, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 121-122, 2020.                
    [[talk](https://www.youtube.com/watch?v=W0REYOwnMKg&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=30&t=0s)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonIJCAI2020');">bibtex</a>]
 <div id="bibtex-AtzmonIJCAI2020" style="display:none">
@@ -18,18 +18,20 @@ author_profile: true
   author    = {Dor Atzmon and Jiaoyang Li and Ariel Felner and Eliran Nachmani and Shahaf Shperberg and Nathan Sturtevant and Sven Koenig},
   title     = {Multi-Directional Heuristic Search},
   booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
+  pages     = {4062--4068},
   year      = {2020}
 }
 </pre></div>  
 * [Iterative-Deepening Conflict-Based Search](https://www.ijcai.org/Proceedings/2020/0565.pdf).     
     Eli Boyarski, Ariel Felner, Daniel Harabor, Peter J. Stuckey, Liron Cohen, **Jiaoyang Li** and Sven Koenig.      
-    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2020.            
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4084-4090, 2020.            
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiIJCAI2020');">bibtex</a>]
 <div id="bibtex-BoyarskiIJCAI2020" style="display:none">
 <pre>@inproceedings{BoyarskiIJCAI20,
   author    = {Eli Boyarski and Ariel Felner and Daniel Harabor and Peter J. Stuckey and Liron Cohen and Jiaoyang Li and Sven Koenig},
   title     = {Iterative-Deepening Conflict-Based Search},
   booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)},
+  pages     = {4084--4090},
   year      = {2020}
 }
 </pre></div>  
