@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html) .
+I am a fourth year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html) .
 
 I received my B.Eng degree from Department of Automation, School of Information Science and Technology, Tsinghua University.
 
