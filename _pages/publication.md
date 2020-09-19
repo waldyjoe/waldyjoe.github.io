@@ -130,7 +130,7 @@ author_profile: true
     year      = {2019}
 }
 </pre></div>      
-*  [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](https://jiaoyang-li.github.io/files/2019-SoCS-4.pdf "Download pdf") (position paper).    
+*  [Multi-Agent Pathfinding: Definitions, Variants, and Benchmarks](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/viewFile/18341/17457 "Download pdf") (position paper).    
     	Roni Stern, Nathan R. Sturtevant, Dor Atzmon, Thayne Walker, **Jiaoyang Li**, Liron Cohen, Hang Ma, T. K. Satish Kumar, Ariel Felner and Sven Koenig.       
       <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 151-159, 2019.    
       [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SternSoCS19');">bibtex</a>]
