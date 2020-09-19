@@ -90,7 +90,7 @@ author_profile: true
   year      = {2020}
 }
 </pre></div>       
-* [Model AI Assignments 2020](https://jiaoyang-li.github.io/files/2020-EAAI.pdf "Download pdf").                                     
+* [Model AI Assignments 2020](https://aaai.org/ojs/index.php/AAAI/article/view/7072/6926 "Download pdf").                                     
     Todd W.Neller, Stephen Keeley, Michael Guerzhoy, Wolfgang Hoenig, **Jiaoyang Li**, Sven Koenig, Ameet Soni, Krista Thomason, Lisa Zhang, Bibin Sebatian, Cinjon Resnick, Avital Oliver, Surya Bhupatiraju, Kumar Krishna Agrawal, James Allingham, Sejong Yoon, Johnathan Chen, Tom Larsen, Marion Neumann, Narges Norouzi, Ryan Hausen and Matthew Evett.  
     <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, (in print), 2020.          
     [[website](http://modelai.gettysburg.edu/2020/mapf/)]   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-EAAI20');">bibtex</a>]
