@@ -39,7 +39,7 @@ author_profile: true
     **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 193-201, 2020.        
     A [short version](https://www.aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18534/17675, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
-    [[long talk](https://www.youtube.com/watch?v=ClmfMNErYo8&feature=youtu.be)] [[short talk](https://www.youtube.com/watch?v=ckdSb750gEc&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=31)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
+    [[long talk](https://www.youtube.com/watch?v=ClmfMNErYo8&feature=youtu.be)] [[short talk](https://www.youtube.com/watch?v=ckdSb750gEc&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=31)] [[poster](https://jiaoyang-li.github.io/files/posters/corridor-poster.pdf "Download poster")]  [[slides](https://jiaoyang-li.github.io/files/slides/ICAPS20-corridor.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
 <div id="bibtex-LiICAPS2020" style="display:none">
 <pre>@inproceedings{LiICAPS20,
   author    = {Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
