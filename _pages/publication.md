@@ -71,7 +71,7 @@ author_profile: true
 <pre>@inproceedings{LiAAMAS20a,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
   title     = {Moving Agents in Formation in Congested Environments},
-  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
   pages     = {726--734},
   year      = {2020}
 }
@@ -85,7 +85,7 @@ author_profile: true
 <pre>@inproceedings{LiAAMAS20b,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
-  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
   pages     = {1898--1900},
   year      = {2020}
 }
@@ -189,7 +189,7 @@ author_profile: true
 <pre>@inproceedings{LiuAAMAS19,
   author    = {Minghua Liu and Hang Ma and Jiaoyang Li and Sven Koenig},
   title     = {Task and Path Planning for Multi-Agent Pickup and Delivery},
-  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
   pages     = {1152--1160},
   year      = {2019}
 }
@@ -288,7 +288,7 @@ author_profile: true
 <pre>@inproceedings{MaAAMAS17,
   author    = {Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks},
-  booktitle = {Proceedings of the 16th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
+  booktitle = {Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
   pages     = {837--845},
   year      = {2017}
 }
