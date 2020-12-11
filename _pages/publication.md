@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 ## 2021
 * EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding.                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
@@ -15,8 +16,8 @@ author_profile: true
 <div id="bibtex-LiAAAI21a" style="display:none">
 <pre>@inproceedings{LiAAAI21a,
   author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
-  title     = {{EECBS}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
-  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  title     = {EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
   year      = {2021}
 }
 </pre></div>   
@@ -29,7 +30,7 @@ author_profile: true
 <pre>@inproceedings{LiAAAI21b,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
-  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
   year      = {2021}
 }
 </pre></div>   
@@ -41,7 +42,7 @@ author_profile: true
 <pre>@inproceedings{ChenAAAI21a,
   author    = {Jingkai Chen and Jiaoyang Li and Chuchu Fan and Brian Williams},
   title     = {Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances},
-  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
   year      = {2021}
 }
 </pre></div>   
@@ -53,7 +54,7 @@ author_profile: true
 <pre>@inproceedings{ChenAAAI21b,
   author    = {Zhe Chen and Daniel Harabor and Jiaoyang Li and Peter J. Stuckey},
   title     = {Symmetry Breaking for k-Robust Multi-Agent Path Finding},
-  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
   year      = {2021}
 }
 </pre></div> 
