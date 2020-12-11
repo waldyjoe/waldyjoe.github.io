@@ -7,6 +7,56 @@ author_profile: true
 
 {% include base_path %}
 
+## 2021
+* EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding.                     
+    **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
+<div id="bibtex-LiAAAI21a" style="display:none">
+<pre>@inproceedings{LiAAAI21a,
+  author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
+  title     = {{EECBS}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  year      = {2021}
+}
+</pre></div>   
+* Lifelong Multi-Agent Path Finding in Large-Scale Warehouses.                      
+    **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.           
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
+    [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21b');">bibtex</a>]
+<div id="bibtex-LiAAAI21b" style="display:none">
+<pre>@inproceedings{LiAAAI21b,
+  author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
+  title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
+  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  year      = {2021}
+}
+</pre></div>   
+* Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances.               
+    Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.    
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21');">bibtex</a>]
+<div id="bibtex-ChenAAAI21" style="display:none">
+<pre>@inproceedings{ChenAAAI21a,
+  author    = {Jingkai Chen and Jiaoyang Li and Chuchu Fan and Brian Williams},
+  title     = {Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances},
+  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  year      = {2021}
+}
+</pre></div>   
+* Symmetry Breaking for k-Robust Multi-Agent Path Finding.          
+    Zhe Chen, Daniel Harabor, **Jiaoyang Li** and Peter J. Stuckey.    
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21b');">bibtex</a>]
+<div id="bibtex-ChenAAAI21b" style="display:none">
+<pre>@inproceedings{ChenAAAI21b,
+  author    = {Zhe Chen and Daniel Harabor and Jiaoyang Li and Peter J. Stuckey},
+  title     = {Symmetry Breaking for k-Robust Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 35th {AAAI} Conference on Artificial Intelligence (AAAI)},
+  year      = {2021}
+}
+</pre></div> 
 ## 2020
 * [Multi-Directional Heuristic Search](https://www.ijcai.org/Proceedings/2020/0562.pdf).     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
@@ -73,20 +123,6 @@ author_profile: true
   title     = {Moving Agents in Formation in Congested Environments},
   booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
   pages     = {726--734},
-  year      = {2020}
-}
-</pre></div>   
-* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Download pdf")  (extended abstract).          
-    **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.      
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.       
-    A preprint full version can be found [here](https://urldefense.com/v3/__http://arxiv.org/abs/2005.07371__;!!LIr3w8kk_Xxm!-pSKcE08nhGn0NSad6xZ0fZiGOY6BPAmNkSYFJ8OzoR5dXtfjR9Y4PC6uVwyjlo$).        
-    [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20b');">bibtex</a>]
-<div id="bibtex-LiAAMAS20b" style="display:none">
-<pre>@inproceedings{LiAAMAS20b,
-  author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
-  title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
-  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
-  pages     = {1898--1900},
   year      = {2020}
 }
 </pre></div>       
@@ -208,13 +244,13 @@ author_profile: true
 }
 </pre></div>   
 * [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "Download pdf").               
-    **Jiaoyang Li**, Daniel Harabor, Peter Stuckey, Hang Ma and Sven Koenig.    
+    **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 6087-6095, 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18379, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 184-185, 2019.     
     [[poster](https://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")] [[slides](https://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI19a');">bibtex</a>]
 <div id="bibtex-LiAAAI19a" style="display:none">
 <pre>@inproceedings{LiAAAI19a,
-  author    = {Jiaoyang Li and Daniel Harabor and Peter Stuckey and Hang Ma and Sven Koenig},
+  author    = {Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
   title     = {Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding},
   booktitle = {Proceedings of the 33rd {AAAI} Conference on Artificial Intelligence (AAAI)},
   pages     = {6087--6095},
@@ -236,7 +272,7 @@ author_profile: true
 }
 </pre></div>     
 * [Searching with Consistent Prioritization for Multi-Agent Path Finding](https://aaai.org/ojs/index.php/AAAI/article/view/4758 "Download pdf").     
-    Hang Ma, Daniel Harabor, Peter Stuckey, **Jiaoyang Li** and Sven Koenig.       
+    Hang Ma, Daniel Harabor, Peter J. Stuckey, **Jiaoyang Li** and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7643-7650, 2019.       
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18381, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 188-189, 2019.       
     [[slides](https://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAAI19');">bibtex</a>]
