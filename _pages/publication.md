@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## 2021
-* EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding.                     
+* [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
@@ -21,7 +21,7 @@ author_profile: true
   year      = {2021}
 }
 </pre></div>   
-* Lifelong Multi-Agent Path Finding in Large-Scale Warehouses.                      
+* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](https://arxiv.org/abs/2005.07371).                      
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.           
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
     A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
@@ -34,7 +34,7 @@ author_profile: true
   year      = {2021}
 }
 </pre></div>   
-* Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances.               
+* [Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances](https://jiaoyang-li.github.io/files/2021-AAAI-3.pdf).               
     Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21');">bibtex</a>]
@@ -46,7 +46,7 @@ author_profile: true
   year      = {2021}
 }
 </pre></div>   
-* Symmetry Breaking for k-Robust Multi-Agent Path Finding.          
+* [Symmetry Breaking for k-Robust Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2021-AAAI-4.pdf).          
     Zhe Chen, Daniel Harabor, **Jiaoyang Li** and Peter J. Stuckey.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21b');">bibtex</a>]
@@ -140,7 +140,7 @@ author_profile: true
   year      = {2020}
 }
 </pre></div>    
-* Mutex Propagation for SAT-based Multi-Agent Path Finding.                                     
+* [Mutex Propagation for SAT-based Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2020-PRIMA.pdf).                                     
     Pavel Surynek, **Jiaoyang Li**, Han Zhang, T. K. Satish Kumar and Sven Koenig.
     <i>International Conference on Principles and Practice of Multi-Agent Systems (**PRIMA**)</i>, (in print), 2020.          
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SurynekPRIMA20');">bibtex</a>]
