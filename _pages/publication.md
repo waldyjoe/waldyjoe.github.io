@@ -58,7 +58,7 @@ author_profile: true
   year      = {2021}
 }
 </pre></div> 
-* Anytime Multi-Agent Path Finding via Large Neighborhood Search.     
+* Anytime Multi-Agent Path Finding via Large Neighborhood Search (extended abstract).     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2021.         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS21');">bibtex</a>]
