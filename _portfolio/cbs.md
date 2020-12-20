@@ -7,7 +7,7 @@ The symmetry arises commonly in practice and can produce an exponential explosio
 To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths. <br/>
 Relevant publications: 
 "
-collection: portfolio
+collection: research
 ---
 
 
