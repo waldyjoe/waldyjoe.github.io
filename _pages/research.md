@@ -37,3 +37,10 @@ Relevant publications:
 [3] [inadmissible heuristic for bounded-suboptimal CBS](https://arxiv.org/abs/2010.01367 "AAAI 2021").
 
 
+## Lifelong Multi-Agent Path Finding for Warehouse Applications
+Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. However, Multi-Agent Path Finding (MAPF) is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.
+
+Relevant publications: 
+[1] [MAPF with online task assignment](https://dl.acm.org/citation.cfm?id=3091243 "AAMAS 2017"), 
+[2] [MAPF with offline task assignment](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf "AAMAS 2019"), and
+[3] [bounded-horizon collision resolution](https://arxiv.org/abs/2005.07371 "AAAI 2021").
