@@ -6,7 +6,6 @@ pairwise incompatible because they result in a collision.
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
 To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths. <br/>
 Relevant publications: 
-<a href="https://aaai.org/ojs/index.php/AAAI/article/view/4565">rectangle symmetry</a>
 "
 collection: portfolio
 ---
