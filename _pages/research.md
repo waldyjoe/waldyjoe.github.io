@@ -19,7 +19,12 @@ pairwise incompatible because they result in a collision.
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
 To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.
 
-Relevant publications: [rectangle symmetry](https://aaai.org/ojs/index.php/AAAI/article/view/4565), [corridor and target symmetries](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661/6515 "Download pdf"), [automatic symmetry reasoning by mutex propagation](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531), [symmetry reasoning for k-robust MAPF](https://jiaoyang-li.github.io/files/2021-AAAI-4.pdf), and [symmetry reasoning for bounded-suboptimal MAPF algorithms](https://arxiv.org/abs/2010.01367)
+Relevant publications: 
+[rectangle symmetry](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "AAAI 2019"), 
+[corridor and target symmetries](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661/6515 "ICAPS 2020"), 
+[automatic symmetry reasoning by mutex propagation](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531 "ICAPS 2020"), 
+[symmetry reasoning for k-robust MAPF](https://jiaoyang-li.github.io/files/2021-AAAI-4.pdf "AAAI 2021"), and 
+[symmetry reasoning for bounded-suboptimal MAPF algorithms](https://arxiv.org/abs/2010.01367 "AAAI 2021").
 
 {% for post in site.research %}
   {% include archive-single.html %}
