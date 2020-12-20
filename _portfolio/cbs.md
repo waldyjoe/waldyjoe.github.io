@@ -1,11 +1,12 @@
 ---
 title: "Symmetry Reasoning for Multi-Agent Path Finding"
 excerpt: "
-<img src='/images/rectangle.png'><br/>
+<img src='/images/rectangle.png' width='500'><br/>
 Multi-Agent Path Finding (MAPF) is a challenging combinatorial problem that asks us to plan collision-free paths for team of cooperative agents. One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
-To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths."
+To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.<br/>
+Relevant publications: [rectangle symmetry](https://aaai.org/ojs/index.php/AAAI/article/view/4565), [corridor and target symmetries](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661/6515 "Download pdf"), [automatic symmetry reasoning by mutex propagation](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531), [symmetry reasoning for k-robust MAPF](https://jiaoyang-li.github.io/files/2021-AAAI-4.pdf), and [applying symmetry reasoning to bounded-suboptimal MAPF algorithms](https://arxiv.org/abs/2010.01367)."
 collection: portfolio
 ---
 
@@ -16,5 +17,16 @@ collection: portfolio
   <img src='/images/rectangle.png' width='500'>
 </p>
 
-We describe a new way of reasoning about symmetric collisions for Multi-Agent Path Finding (MAPF) on 4-neighbor grids. We also introduce a symmetry-breaking constraint to resolve these conflicts. This specialized technique allows us to identify and eliminate, in a single step, all permutations of two currently assigned but incompatible paths. Each such permutation has exactly the same cost as a current path, and each one results in a new collision between the same two agents. We show that the addition of symmetry-breaking techniques can lead to an exponential reduction in the size of the search space of CBS, a popular framework for MAPF, and report significant improvements in both runtime and success rate versus CBSH and EPEA* – two recent and state-of-the-art MAPF algorithms.
+Multi-Agent Path Finding (MAPF) is a challenging combinatorial problem that asks us to plan collision-free paths for team of cooperative agents. One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
+pairwise incompatible because they result in a collision. 
+The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
+To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.
 
+Manually designed symmetry reasoning techniques:
+- Rectangle symmetry arises when two agents attempt to cross each other in an open area but all pairs of their shortest paths are in collision;
+- Corridor symmetry arises when two agents attempt to pass through the same narrow passage in opposite directions; and
+- Target symmetry arises when the shortest path of one agent passes through the target location of a second agent after the second agent has already arrived at it.
+
+Mutex propagation
+
+Symmetry reasoning for k-robust MAPF
