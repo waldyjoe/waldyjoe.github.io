@@ -10,12 +10,14 @@ author_profile: true
 
 ## Symmetry Reasoning for Multi-Agent Path Finding
 
-![rectangle symmetry](/images/rectangle.png | width=500){: style="float: left"}
+<p>
+<img src="/images/rectangle.png" title="rectangle symmetry" style="float:left;width:500;" />
 Multi-Agent Path Finding (MAPF) is a challenging combinatorial problem that asks us to plan collision-free paths for a team of cooperative agents. One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
 To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.
-
+<p/>
+  
 Relevant publications: 
 [1] [rectangle symmetry](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "AAAI 2019"), 
 [2] [corridor and target symmetries](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661/6515 "ICAPS 2020"), 
