@@ -24,7 +24,7 @@ Relevant publications:
 [corridor and target symmetries](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661/6515 "ICAPS 2020"), 
 [automatic symmetry reasoning by mutex propagation](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531 "ICAPS 2020"), 
 [symmetry reasoning for k-robust MAPF](https://jiaoyang-li.github.io/files/2021-AAAI-4.pdf "AAAI 2021"), and 
-[symmetry reasoning for bounded-suboptimal MAPF algorithms](https://arxiv.org/abs/2010.01367 "AAAI 2021").
+[symmetry reasoning with bounded-suboptimal CBS](https://arxiv.org/abs/2010.01367 "AAAI 2021").
 
 {% for post in site.research %}
   {% include archive-single.html %}
