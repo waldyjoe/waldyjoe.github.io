@@ -28,8 +28,8 @@ Relevant publications:
 <img src="/images/heuristics.png" title="heuristic graph" style="float:left;width:250pt;padding-right:10px;" />
 Conflict-Based Search (CBS) and its enhancements are among the strongest algorithms for Multi-Agent Path Finding. 
 However, existing variants of CBS do not use any heuristics that estimate future work.
-Introducing admissibles heuristics to guide the high-level search of CBS can significantly reduce the size of the CBS search tree and runtime.
-Introducing more informed but potentially inadmissible heuritics to guide the high-level search of bounded-suboptimal CBS can further reduce the size of its search tree and runtime. 
+Introducing admissibles heuristics to guide the high-level search of CBS can significantly reduce the size of the CBS search tree and its runtime.
+Introducing more informed but potentially inadmissible heuritics to guide the high-level search of bounded-suboptimal CBS with Explicit Estimation Search can further reduce the size of its search tree and its runtime. 
 
 Relevant publications: 
 [1] [CG heuristicy for CBS](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "ICAPS 2018"), 
