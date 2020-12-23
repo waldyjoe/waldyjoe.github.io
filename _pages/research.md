@@ -54,6 +54,6 @@ Relevant publications:
 Agents in MAPF are homogeneous, in the sense that each agent occupies exactly one vertex at any timestep and traverses exactly one edge or wait at its current vertex from one timestep to the next one. In the real world, however, agents might be of different shapes and have different kinematic constraints. In addition, agents sometimes are required to move to their goal locations while maintaining a desired formation (i.e., spatial pattern), in order to reduce the system cost, increase the robustness and efficiency of the system.
 
 Relevant publications: 
-[1] [Agents of different shapes](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "AAAI 2019"), 
-[2] [Agents of high-dimensional, nonlinear, and nonholonomic dynamics](https://arxiv.org/abs/2012.09052 "AAAI 2021"), and
-[3] [Agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
+[1] [agents of different shapes](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "AAAI 2019"), 
+[2] [agents of high-dimensional, nonlinear, and nonholonomic dynamics](https://arxiv.org/abs/2012.09052 "AAAI 2021"), and
+[3] [agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
