@@ -7,10 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+<img src="/images/mapf-demo.gif" title="mapf demo" style="float:right;width:250pt;padding-left:10px;" />
+Recent advances in robotics have laid the foundation for building large-scale multi-agent systems. A great deal of research has focused on coordinating agents to fulfill different types of tasks. In my research, I focus on one fundamental task - to navigate teams of agents in a shared environment to their goal locations without colliding with obstacles or other agents.
+Applications include evacuation, object transportation, traffic management, search and rescue, autonomous driving, video games, and large-scale warehouse automation, to list a few.
+One well-studied abstract model for this problem is known as \emph{Multi-Agent Path Finding} (MAPF). It is defined on a general graph with given start and goal vertices for agents on this graph. Each agent is allowed to wait at its current vertex or move to an adjacent vertex from one discrete timestep to the next one. We are asked to find a path for each agent such that no two agents are at the same vertex or cross the same edge at any timestep (because this would result in a collision). The objective is to minimize the sum of the arrival times of all agents.
+
 
 ## Symmetry Reasoning for Multi-Agent Path Finding
 <img src="/images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;" />
-Multi-Agent Path Finding (MAPF) is a challenging combinatorial problem that asks us to plan collision-free paths for a team of cooperative agents. One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
+One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
 To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.
@@ -44,3 +49,12 @@ Relevant publications:
 [1] [MAPF with online task assignment](https://dl.acm.org/citation.cfm?id=3091243 "AAMAS 2017"), 
 [2] [MAPF with offline task assignment](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf "AAMAS 2019"), and
 [3] [bounded-horizon collision resolution](https://arxiv.org/abs/2005.07371 "AAAI 2021").
+
+
+## Multi-Agent Path Finding for Heterogeneous and Nonholonomic Robots
+Agents in MAPF are homogeneous, in the sense that each agent occupies exactly one vertex at any timestep and traverses exactly one edge or wait at its current vertex from one timestep to the next one. In the real world, however, agents might be of different shapes and have different kinematic constraints. In addition, agents sometimes are required to move to their goal locations while maintaining a desired formation (i.e., spatial pattern), in order to reduce the system cost, increase the robustness and efficiency of the system.
+
+Relevant publications: 
+[1] [Agents of different shapes](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "AAAI 2019"), 
+[2] [Agents of high-dimensional, nonlinear, and nonholonomic dynamics](https://arxiv.org/abs/2012.09052 "AAAI 2021"), and
+[3] [Agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
