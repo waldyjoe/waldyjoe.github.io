@@ -46,7 +46,8 @@ Relevant publications:
 <img src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" title="pbs" style="float:left;width:250pt;padding-right:10px;" />
 -->
 <figure class="video_container">
-  <video controls="false" allowfullscreen="false">
+  <video width="320" controls="false" allowfullscreen="false">
+    <source src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" type="video/mp4">
     <source src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" type="video/mp4">
   </video>
 </figure>
