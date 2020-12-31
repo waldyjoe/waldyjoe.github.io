@@ -25,7 +25,7 @@ author_profile: true
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.           
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
     A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
-    [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21b');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/RHCR)] [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21b');">bibtex</a>]
 <div id="bibtex-LiAAAI21b" style="display:none">
 <pre>@inproceedings{LiAAAI21b,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
@@ -160,7 +160,7 @@ author_profile: true
 <pre>@inproceedings{SurynekPRIMA20,
   author    = {Pavel Surynek and Jiaoyang Li and Han Zhang and T. K. Satish Kumar and Sven Koenig},
   title     = {Mutex Propagation for {SAT-based} Multi-Agent Path Finding},
-  booktitle = {Proceedings of the International Conference on Principles and Practice of Multi-Agent Systems (EAAI)},
+  booktitle = {Proceedings of the International Conference on Principles and Practice of Multi-Agent Systems (PRIMA)},
   year      = {2020}
 }
 </pre></div>    
