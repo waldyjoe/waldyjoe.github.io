@@ -20,6 +20,7 @@ author_profile: true
   booktitle = {Proceedings of the 20th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
   year      = {2021}
 }
+</pre></div>   
 * [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
