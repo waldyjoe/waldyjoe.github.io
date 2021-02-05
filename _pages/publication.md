@@ -8,19 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## 2021
-* Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract.
-    **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.    
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2021.        
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAMAS21');">bibtex</a>]
-<div id="bibtex-LiAAAMAS21" style="display:none">
-<pre>@inproceedings{LiAAAMAS21,
-  author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-  title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract},
-  booktitle = {Proceedings of the 20th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
-  year      = {2021}
-}
-</pre></div>   
+## 2021  
 * [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
@@ -70,14 +58,14 @@ author_profile: true
   year      = {2021}
 }
 </pre></div> 
-* Anytime Multi-Agent Path Finding via Large Neighborhood Search (extended abstract).     
+* Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract.     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2021.         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS21');">bibtex</a>]
 <div id="bibtex-LiAAMAS21" style="display:none">
 <pre>@inproceedings{LiAAMAS21,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-  title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search},
+  title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract},
   booktitle = {Proceedings of the 20th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
   year      = {2021}
 }
