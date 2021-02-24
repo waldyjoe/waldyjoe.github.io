@@ -17,6 +17,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
+* \[2021.02\] 2 papers accepted at [ICAPS 2021](https://icaps21.icaps-conference.org/).
 * \[2020.12\] Our team "An_Old_Driver" won both [Round 1](https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465) and [Round 2](https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010) of the [2020 Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge), a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competation track.
 * \[2020.12\] 4 papers accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * \[2020.10\] 2 virtual talks at [ICAPS 2020](https://icaps20.icaps-conference.org/).
