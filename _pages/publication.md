@@ -9,6 +9,39 @@ author_profile: true
 
 
 ## 2021  
+* Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge.
+    **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chen, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
+    [[code](https://github.com/Jiaoyang-Li/Flatland)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
+<div id="bibtex-LiICAPS21" style="display:none">
+<pre>@inproceedings{LiICAPS21,
+  author    = {Zhe Chen and Yi Zheng and Shao-Hung Chen and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
+  title     = {Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge},
+  booktitle = {Proceedings of the 31th International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2021}
+}
+* Conflict-Based Increasing Cost Search.
+    Thayne Walker, Nathan R. Sturtevant, Han Zhang, **Jiaoyang Li**, Sven Koenig, Ariel Felner and T. K. Satish Kumar.    
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
+<div id="bibtex-WalkerICAPS21" style="display:none">
+<pre>@inproceedings{WalkerICAPS21,
+  author    = {Thayne Walker and Nathan R. Sturtevant and Han Zhang and Jiaoyang Li and Sven Koenig and Ariel Felner and T. K. Satish Kumar},
+  title     = {Conflict-Based Increasing Cost Search},
+  booktitle = {Proceedings of the 31th International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2021}
+}
+* [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
+    **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    [[code](https://github.com/Jiaoyang-Li/EECBS)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
+<div id="bibtex-LiAAAI21a" style="display:none">
+<pre>@inproceedings{LiAAAI21a,
+  author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
+  title     = {{EECBS:} Bounded-Suboptimal Search for Multi-Agent Path Finding},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
+  year      = {2021}
+}
 * [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
@@ -24,7 +57,7 @@ author_profile: true
 * [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](https://arxiv.org/abs/2005.07371).                      
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.           
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
-    A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
+    A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
     [[code](https://github.com/Jiaoyang-Li/RHCR)] [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21b');">bibtex</a>]
 <div id="bibtex-LiAAAI21b" style="display:none">
 <pre>@inproceedings{LiAAAI21b,
@@ -60,13 +93,13 @@ author_profile: true
 </pre></div> 
 * Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract.     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, (in print), 2021.         
+    <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2021.         
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS21');">bibtex</a>]
 <div id="bibtex-LiAAMAS21" style="display:none">
 <pre>@inproceedings{LiAAMAS21,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
   title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract},
-  booktitle = {Proceedings of the 20th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  booktitle = {Proceedings of the 20th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
   year      = {2021}
 }
 </pre></div>  
@@ -127,14 +160,14 @@ author_profile: true
 </pre></div>  
 * [Moving Agents in Formation in Congested Environments](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "Download pdf").     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 726-734, 2020.       
+    <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, pages 726-734, 2020.       
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18535/17676, "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 131-132, 2020.       
     [[long talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]  [[short talk](https://www.youtube.com/watch?v=snTG2yL-dgI&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=35)] [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20a');">bibtex</a>]
 <div id="bibtex-LiAAMAS20a" style="display:none">
 <pre>@inproceedings{LiAAMAS20a,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
   title     = {Moving Agents in Formation in Congested Environments},
-  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  booktitle = {Proceedings of the 19th International Joint Conference on Autonomous Agents and Mult-Agent Systems (AAMAS)},
   pages     = {726--734},
   year      = {2020}
 }
@@ -232,26 +265,26 @@ author_profile: true
 </pre></div>   
 * [Task and Path Planning for Multi-Agent Pickup and Delivery](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf "Download pdf").     
     Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig.      
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 1152-1160, 2019.       
+    <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, pages 1152-1160, 2019.       
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiuAAMAS19');">bibtex</a>]
 <div id="bibtex-LiuAAMAS19" style="display:none">
 <pre>@inproceedings{LiuAAMAS19,
   author    = {Minghua Liu and Hang Ma and Jiaoyang Li and Sven Koenig},
   title     = {Task and Path Planning for Multi-Agent Pickup and Delivery},
-  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
   pages     = {1152--1160},
   year      = {2019}
 }
 </pre></div>   
 * [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf "Download pdf") (extended abstract).     
     Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.     
+    <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WangAAMAS19');">bibtex</a>]
 <div id="bibtex-WangAAMAS19" style="display:none">
 <pre>@inproceedings{WangAAMAS19,
   author    = {Jiangxing Wang and Jiaoyang Li and Hang Ma and Sven Koenig and T. K. Satish Kumar},
   title     = {A New Constraint Satisfaction Perspective on Multi-Agent Path Finding},
-  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  booktitle = {Proceedings of the 18th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
   pages     = {2253--2255},
   year      = {2019}
 }
@@ -303,7 +336,7 @@ author_profile: true
 * [Multi-Agent Path Finding with Deadlines](https://www.ijcai.org/proceedings/2018/0058.pdf "Download pdf").     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018.      
-    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.     
+    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf, "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaIJCAI18');">bibtex</a>]
 <div id="bibtex-MaIJCAI18" style="display:none">
 <pre>@inproceedings{MaIJCAI18,
@@ -331,13 +364,13 @@ author_profile: true
 ## 2017
 * [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://dl.acm.org/citation.cfm?id=3091243 "Download pdf").     
     Hang Ma, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
-    <i>International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**)</i>, pages 837-845, 2017.    
+    <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 837-845, 2017.    
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAMAS17');">bibtex</a>]
 <div id="bibtex-MaAAMAS17" style="display:none">
 <pre>@inproceedings{MaAAMAS17,
   author    = {Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks},
-  booktitle = {Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+  booktitle = {Proceedings of the 16th International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
   pages     = {837--845},
   year      = {2017}
 }
