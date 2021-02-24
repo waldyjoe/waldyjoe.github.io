@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## 2021  
-* Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge.
+* Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge.       
     **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chen, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
     [[code](https://github.com/Jiaoyang-Li/Flatland)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
@@ -21,7 +21,7 @@ author_profile: true
   year      = {2021}
 }
 </pre></div>  
-* Conflict-Based Increasing Cost Search.
+* Conflict-Based Increasing Cost Search.       
     Thayne Walker, Nathan R. Sturtevant, Han Zhang, **Jiaoyang Li**, Sven Koenig, Ariel Felner and T. K. Satish Kumar.    
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
