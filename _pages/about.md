@@ -17,7 +17,8 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
-* \[2021.02\] 2 papers accepted at [ICAPS 2021](https://icaps21.icaps-conference.org/).
+* \[2021.02\] 2 papers accepted to [ICAPS 2021](https://icaps21.icaps-conference.org/).
+* \[2021.02\] 2 virtual talks at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * \[2020.12\] Our team "An_Old_Driver" won both [Round 1](https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465) and [Round 2](https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010) of the [2020 Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge), a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competation track.
 * \[2020.12\] 4 papers accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * \[2020.10\] 2 virtual talks at [ICAPS 2020](https://icaps20.icaps-conference.org/).
@@ -25,14 +26,21 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 * \[2020.05\] [2 virtual talks](https://underline.io/speakers/307-jiaoyang-li) at [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 * \[2020.04\] Our paper "Multi-Agent Path Finding with Mutex Propogation" received the outstanding student paper award at [ICAPS 2020](https://icaps20.icaps-conference.org/program/awards/).
 * \[2020.04\] 2 papers accepted to [IJCAI 2020](https://www.ijcai20.org/).
-* \[2020.02\] Visiting the [Optimization Research Group](https://www.monash.edu/it/dsai/optimisation) for 6 months at Monash University, Melbourne, VIC, Australia.
-* \[2020.02\] A talk at [EAAI 2020](https://pages.mtu.edu/~lebrown/eaai/) in New York, NY, USA.
-* \[2020.01\] 2 papers accepted to [ICAPS 2020](https://icaps20.icaps-conference.org/).
-* \[2020.01\] A paper and an extended abstract accepted to [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 
 <details>
   <summary>Show more</summary>
   <ul>
+     <li>
+      [2020.02] Visiting the <a href="https://www.monash.edu/it/dsai/optimisation"> Optimization Research Group]</a> for 6 months at Monash University, Melbourne, VIC, Australia.
+    </li>
+    <li>
+      [2020.02] A talk at <a href="https://pages.mtu.edu/~lebrown/eaai/" EAAI 2020</a> in New York, NY, USA.
+    </li>
+    <li>
+      [2020.01] 2 papers accepted to <a href="https://icaps20.icaps-conference.org/" ICAPS 2020</a>.
+    </li>
+    <li>
+      [2020.01] A paper and an extended abstract accepted to [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
     <li>
       [2019.11] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group for 2 weeks at Ben-Gurion University, Be'er Sheva, Israel.
     </li>
