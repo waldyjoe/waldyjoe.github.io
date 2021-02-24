@@ -41,6 +41,7 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
     </li>
     <li>
       [2020.01] A paper and an extended abstract accepted to <a href="https://aamas2020.conference.auckland.ac.nz/"> AAMAS 2020</a>.
+    </li>
     <li>
       [2019.11] Visited Prof. <a href="https://felner.wixsite.com/home">Ariel Felner</a>'s group for 2 weeks at Ben-Gurion University, Be'er Sheva, Israel.
     </li>
