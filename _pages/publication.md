@@ -20,6 +20,7 @@ author_profile: true
   booktitle = {Proceedings of the 31th International Conference on Automated Planning and Scheduling (ICAPS)},
   year      = {2021}
 }
+</pre></div>  
 * Conflict-Based Increasing Cost Search.
     Thayne Walker, Nathan R. Sturtevant, Han Zhang, **Jiaoyang Li**, Sven Koenig, Ariel Felner and T. K. Satish Kumar.    
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
@@ -31,17 +32,7 @@ author_profile: true
   booktitle = {Proceedings of the 31th International Conference on Automated Planning and Scheduling (ICAPS)},
   year      = {2021}
 }
-* [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
-    **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
-    [[code](https://github.com/Jiaoyang-Li/EECBS)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
-<div id="bibtex-LiAAAI21a" style="display:none">
-<pre>@inproceedings{LiAAAI21a,
-  author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
-  title     = {{EECBS:} Bounded-Suboptimal Search for Multi-Agent Path Finding},
-  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
-  year      = {2021}
-}
+</pre></div>  
 * [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
