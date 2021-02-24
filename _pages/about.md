@@ -31,7 +31,7 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
   <summary>Show more</summary>
   <ul>
      <li>
-      [2020.02] Visiting the <a href="https://www.monash.edu/it/dsai/optimisation"> Optimization Research Group]</a> for 6 months at Monash University, Melbourne, VIC, Australia.
+      [2020.02] Visiting the <a href="https://www.monash.edu/it/dsai/optimisation"> Optimization Research Group</a> for 6 months at Monash University, Melbourne, VIC, Australia.
     </li>
     <li>
       [2020.02] A talk at <a href="https://pages.mtu.edu/~lebrown/eaai/"> EAAI 2020</a> in New York, NY, USA.
