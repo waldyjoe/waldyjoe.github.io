@@ -12,7 +12,7 @@ author_profile: true
 * Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge.       
     **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chen, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
-    [[code](https://github.com/Jiaoyang-Li/Flatland)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/Flatland)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@inproceedings{LiICAPS21,
   author    = {Zhe Chen and Yi Zheng and Shao-Hung Chen and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
@@ -24,7 +24,7 @@ author_profile: true
 * Conflict-Based Increasing Cost Search.       
     Thayne Walker, Nathan R. Sturtevant, Han Zhang, **Jiaoyang Li**, Sven Koenig, Ariel Felner and T. K. Satish Kumar.    
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WalkerICAPS21');">bibtex</a>]
 <div id="bibtex-WalkerICAPS21" style="display:none">
 <pre>@inproceedings{WalkerICAPS21,
   author    = {Thayne Walker and Nathan R. Sturtevant and Han Zhang and Jiaoyang Li and Sven Koenig and Ariel Felner and T. K. Satish Kumar},
