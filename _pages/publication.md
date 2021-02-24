@@ -15,7 +15,7 @@ author_profile: true
     [[code](https://github.com/Jiaoyang-Li/Flatland)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@inproceedings{LiICAPS21,
-  author    = {Zhe Chen and Yi Zheng and Shao-Hung Chen and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
+  author    = {Jiaoyang Li and Zhe Chen and Yi Zheng and Shao-Hung Chen and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
   title     = {Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge},
   booktitle = {Proceedings of the 31th International Conference on Automated Planning and Scheduling (ICAPS)},
   year      = {2021}
