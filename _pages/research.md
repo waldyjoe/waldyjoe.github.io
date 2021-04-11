@@ -17,7 +17,7 @@ My research concentrates on developing AI techniques to bridge the gap between M
   - Introducing **heuristics** to conflict-based search to speed up optimal and bounded-suboptimal MAPF algorithms.
 - Generalizing MAPF to more realistic models:
   - Applying MAPF to **automated warehousing**.
-  - Applying MAPF to ** traffic management**.
+  - Applying MAPF to **traffic management**.
   - Applying MAPF to multi-robot systems with **heterogeneous and nonholonomic robots**.
 
 ## Symmetry Reasoning for MAPF
