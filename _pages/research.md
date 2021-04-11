@@ -51,16 +51,19 @@ Relevant publications:
     <source src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" type="video/mp4">
   </video>
 </figure>
---> 
 <video width="320" height="240" controls>
   <source src="ttps://jiaoyang-li.github.io/images/warehouse.mkv" type="video/mkv">
 </video>
+--> 
+
 
 
  <div id="wrapper" align="center"> 
+     Single-agent solver:
      <video id="single-agent" width="350pt"  autoplay loop controls> 
          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" /> 
      </video>
+     Multi-agent solver:
      <video id="multi-agent" width="350pt"  autoplay loop controls> 
          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" /> 
      </video>
