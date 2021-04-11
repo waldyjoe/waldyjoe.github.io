@@ -9,10 +9,11 @@ author_profile: true
 
 
 ## 2021  
-* Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge.       
+* [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](https://jiaoyang-li.github.io/files/2021-ICAPS.pdf).       
     **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chen, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.        
-    [[code](https://github.com/Jiaoyang-Li/Flatland)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.   
+    A preprint version that summarizes our solution and top RL solutions can be found [here](https://arxiv.org/abs/2103.16511).     
+    [[code](https://github.com/Jiaoyang-Li/Flatland)] [[talk](https://slideslive.com/38942745/2020-flatland-challenge)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@inproceedings{LiICAPS21,
   author    = {Jiaoyang Li and Zhe Chen and Yi Zheng and Shao-Hung Chen and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
