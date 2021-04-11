@@ -56,17 +56,16 @@ Relevant publications:
   <source src="ttps://jiaoyang-li.github.io/images/warehouse.mkv" type="video/mkv">
 </video>
 
-<p align="center">
-  <div id="wrapper"> 
-      <video id="single-agent" width="350pt"  autoplay loop controls> 
-          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" /> 
-      </video>
-      <video id="multi-agent" width="350pt"  autoplay loop controls> 
-          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" /> 
-      </video>
-      <div class="clear"></div> 
-  </div>
-</p>    
+
+ <div id="wrapper" align="center"> 
+     <video id="single-agent" width="350pt"  autoplay loop controls> 
+         <source type="video/mp4" src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" /> 
+     </video>
+     <video id="multi-agent" width="350pt"  autoplay loop controls> 
+         <source type="video/mp4" src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" /> 
+     </video>
+     <div class="clear"></div> 
+ </div>
 
 Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. However, MAPF is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.
 
