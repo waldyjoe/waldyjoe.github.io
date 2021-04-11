@@ -59,14 +59,14 @@ Relevant publications:
 
 
  <div id="wrapper" align="center"> 
-     Single-agent solver:
      <video id="single-agent" width="350pt"  autoplay loop controls> 
          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" /> 
      </video>
-     Multi-agent solver:
+    <figcaption>{Single-agent solver}</figcaption>
      <video id="multi-agent" width="350pt"  autoplay loop controls> 
          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" /> 
      </video>
+     <figcaption>{MAPF solver}</figcaption>
      <div class="clear"></div> 
  </div>
 
