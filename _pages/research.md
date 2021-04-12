@@ -49,7 +49,7 @@ Introducing admissibles heuristics to guide the high-level search of CBS can sig
 Introducing more informed but potentially inadmissible heuritics to guide the high-level search of bounded-suboptimal CBS with Explicit Estimation Search can further reduce the size of its search tree and its runtime.           
 
 Highlights: 
-The addition of the admissible heuristics proposed in [2] can reduce the number of expanded nodes and runtime of CBS by up to **a factor of 50**.
+The addition of the admissible heuristics proposed in [2] can reduce the number of expanded nodes and runtime of CBS by up to **a factor of 50** and thus an handle up to **3 times more agents** than possible before within one minute.
 
 Relevant publications: 
 [1] [CG heuristicy for CBS](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "ICAPS 2018"), 
