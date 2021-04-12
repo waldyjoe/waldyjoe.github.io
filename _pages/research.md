@@ -28,8 +28,7 @@ The symmetry arises commonly in practice and can produce an exponential explosio
 To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.     
  
 Highlights: 
-The addition of the symmetry-reasoning techniques proposed in [3] can reduce the number of expanded nodes and runtime of the optimal algorithm CBS by up to **4 orders of magnitude** and thus can handle up to **30 times more agents** than possible before within one minute. 
-
+The addition of the symmetry-reasoning techniques proposed in [3] can reduce the number of expanded nodes and runtime of the optimal algorithm CBS by up to **4 orders of magnitude** and thus can handle up to **30 times more agents** than possible before within one minute.         
 
 Relevant publications: 
 [1] [rectangle symmetry](https://aaai.org/ojs/index.php/AAAI/article/view/4565 "AAAI 2019"), 
@@ -50,6 +49,8 @@ Introducing more informed but potentially inadmissible heuritics to guide the hi
 
 Highlights: 
 The addition of the admissible heuristics proposed in [2] can reduce the number of expanded nodes and runtime of CBS by up to **a factor of 50** and thus an handle up to **3 times more agents** than possible before within one minute.
+The bounded-suboptimal MAPF algorithm proposed in [3] can find solutions that are **provably at most 2% worse than optimal** with **1,000 agents** in one minute, while, on the
+same map, state-of-the-art optimal algorithms can handle at most 200 agents.             
 
 Relevant publications: 
 [1] [CG heuristicy for CBS](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "ICAPS 2018"), 
