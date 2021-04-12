@@ -102,12 +102,13 @@ Relevant publications:
 MAPF can also be used for traffic manangement for autonomous vehicle, trains, or airplanes. This can reduce traffic congestion, energy consumption, and air pollution. The main challenges of applying MAPF to traffic management systems are two-fold. First, the systems are neither perfect nor deterministic. For example, the environment might cause unexpected disturbances, the communication network might not be stable, the agents might have incomplete knowledge of the environment, and the agents might not be able to execute their deterministic MAPF plans perfectly. We need to take such uncertainties into account during path planning and generate robust plans. Second, the sysmtem needs to operate thousands of (or even more) agents in real-time, so extremely efficient MAPF algorithms are required.          
 
 Highlights:
-The MAPF-based software we developed in [1] can plan collision-free paths for **more than 3000 agents** within a few minutes and
-deliver deadlock-free actions **in real-time** during execution that are robust to unexpexted delays.
+The MAPF-based software we developed for NeurIPS'20 Flatland Challenge in [1] can plan collision-free paths for **more than 3000 agents** within a few minutes and
+deliver deadlock-free actions **in real-time** during execution that are robust to unexpexted delays. It outperformed all other solutions, including all reinforcement learning solutions, to win overall first place in both rounds. A comparison of our solution with top reinforcement learning solutions can be found in [2].
 
 Relevant publications: 
-[1] [railway planing and replaning](https://jiaoyangli.me/files/2021-ICAPS.pdf "ICAPS 2021") (**winner of the NeurIPS'20 Flatland Challenge**) and 
-[2] [airport taxiway planning](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "AIAA 2019").         
+[1] [railway planing and replaning](https://jiaoyangli.me/files/2021-ICAPS.pdf "ICAPS 2021") (**winner of the NeurIPS'20 Flatland Challenge**),
+[2] [railway planing and replaning with MAPF and MARL](https://arxiv.org/abs/2103.16511), and     
+[3] [airport taxiway planning](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "AIAA 2019").         
 
 ## MAPF for Heterogeneous and Nonholonomic Robots
 <div id="wrapper" align="center" style="float:left;width:250pt;padding-right:10px;"> 
