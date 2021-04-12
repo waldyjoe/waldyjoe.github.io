@@ -58,7 +58,7 @@ Relevant publications:
 [3] [inadmissible heuristic for bounded-suboptimal CBS](https://arxiv.org/abs/2010.01367 "AAAI 2021").
 
 
-## Lifelong MAPF for Warehouse Applications
+## Lifelong MAPF for Automated Warehousing
 <!--
 <img src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" title="warehouse demo" style="float:left;width:250pt;padding-right:10px;" />
 <figure class="video_container">
