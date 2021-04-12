@@ -96,7 +96,7 @@ Relevant publications:
 
 ## MAPF for Heterogeneous and Nonholonomic Robots
 <div id="wrapper" align="center" style="float:left;width:250pt;padding-right:10px;"> 
-  <img src="/images/drone_side.gif" title="drones" style="width:120pt" />
+  <img src="/images/drone_side.gif" title="drones" style="width:130pt" />
   <figcaption>Top view</figcaption>
   <img src="/images/drone_top.gif" title="drones" style="width:250pt" />
   <figcaption>Side view</figcaption>
