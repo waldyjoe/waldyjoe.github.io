@@ -70,11 +70,11 @@ Relevant publications:
      <video id="single-agent" width="250pt"  autoplay loop controls> 
          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" /> 
      </video>
-    <figcaption>Single-agent solver</figcaption>
+    <figcaption>Traditional single-agent solver</figcaption>
      <video id="multi-agent" width="250pt"  autoplay loop controls> 
          <source type="video/mp4" src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" /> 
      </video>
-     <figcaption>MAPF solver</figcaption>
+     <figcaption>Our MAPF solver</figcaption>
      <div class="clear"></div> 
  </div>
 Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. However, MAPF is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.
