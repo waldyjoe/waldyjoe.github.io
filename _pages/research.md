@@ -25,7 +25,7 @@ My research concentrates on developing AI techniques to bridge the gap between M
 One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
-To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.
+To break symmetries, we propose a variety of constraint-based reasoning techniques, to detect the symmetries as they arise and to efficiently eliminate, in a single branching step, all permutations of two currently assigned but pairwise incompatible paths.     
  
 Highlights: 
 The addition of the symmetry-reasoning techniques proposed in [3] can reduce the number of expanded nodes and runtime of the optimal algorithm CBS by up to **4 orders of magnitude** and thus can handle up to **30 times more agents** than possible before within one minute. 
@@ -46,7 +46,7 @@ Relevant publications:
 Conflict-Based Search (CBS) and its enhancements are among the strongest algorithms for MAPF. 
 However, existing variants of CBS do not use any heuristics that estimate future work.
 Introducing admissibles heuristics to guide the high-level search of CBS can significantly reduce the size of the CBS search tree and its runtime.
-Introducing more informed but potentially inadmissible heuritics to guide the high-level search of bounded-suboptimal CBS with Explicit Estimation Search can further reduce the size of its search tree and its runtime. 
+Introducing more informed but potentially inadmissible heuritics to guide the high-level search of bounded-suboptimal CBS with Explicit Estimation Search can further reduce the size of its search tree and its runtime.           
 
 Highlights: 
 The addition of the admissible heuristics proposed in [2] can reduce the number of expanded nodes and runtime of CBS by up to **a factor of 50**.
@@ -84,7 +84,7 @@ Relevant publications:
      <figcaption>Our MAPF solver</figcaption>
      <div class="clear"></div> 
  </div>
-Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. However, MAPF is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.
+Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. However, MAPF is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.               
 
 Highlights:
 The RHCR algorithm propoased in [3] can produce high-quality solutions for **1,000 agents** (= **38.9% of the empty cells** on the map) for simulated warehouse instances (the left videos show 800 agents on the same map).
@@ -98,7 +98,7 @@ Relevant publications:
 ## MAPF for Traffic Management
 <img src="/images/flatland.gif" title="flatland demo" style="float:left;width:250pt;padding-right:10px;" />
 
-MAPF can also be used for traffic manangement for autonomous vehicle, trains, or airplanes. This can reduce traffic congestion, energy consumption, and air pollution. The main challenges of applying MAPF to traffic management systems are two-fold. First, the systems are neither perfect nor deterministic. For example, the environment might cause unexpected disturbances, the communication network might not be stable, the agents might have incomplete knowledge of the environment, and the agents might not be able to execute their deterministic MAPF plans perfectly. We need to take such uncertainties into account during path planning and generate robust plans. Second, the sysmtem needs to operate thousands of (or even more) agents in real-time, so extremely efficient MAPF algorithms are required.       
+MAPF can also be used for traffic manangement for autonomous vehicle, trains, or airplanes. This can reduce traffic congestion, energy consumption, and air pollution. The main challenges of applying MAPF to traffic management systems are two-fold. First, the systems are neither perfect nor deterministic. For example, the environment might cause unexpected disturbances, the communication network might not be stable, the agents might have incomplete knowledge of the environment, and the agents might not be able to execute their deterministic MAPF plans perfectly. We need to take such uncertainties into account during path planning and generate robust plans. Second, the sysmtem needs to operate thousands of (or even more) agents in real-time, so extremely efficient MAPF algorithms are required.          
 
 Highlights:
 The MAPF-based software we developed in [1] can plan collision-free paths for **more than 3000 agents** within a few minutes and
