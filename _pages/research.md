@@ -103,7 +103,7 @@ MAPF can also be used for traffic manangement for autonomous vehicle, trains, or
 
 Highlights:
 The MAPF-based software we developed for the NeurIPS'20 Flatland Challenge in [1] can plan collision-free paths for **more than 3000 agents** within a few minutes and
-deliver deadlock-free actions **in real-time** during execution that are robust to unexpexted delays. It outperformed all other solutions, including all reinforcement learning solutions, to win the overall first place in both rounds. A comparison of our solution with top reinforcement learning solutions can be found in [2].
+deliver deadlock-free actions **in real-time** during execution that are robust to unexpexted delays. It outperformed all other solutions, including all reinforcement learning solutions, to **win the overall first place** in both rounds. A comparison of our solution with top reinforcement learning solutions can be found in [2].
 
 Relevant publications: 
 [1] [railway planing and replaning](https://jiaoyangli.me/files/2021-ICAPS.pdf "ICAPS 2021") (**winner of the NeurIPS'20 Flatland Challenge**),
