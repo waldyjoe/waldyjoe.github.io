@@ -181,7 +181,7 @@ author_profile: true
 </pre></div>    
 * [Mutex Propagation for SAT-based Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2020-PRIMA.pdf).                                     
     Pavel Surynek, **Jiaoyang Li**, Han Zhang, T. K. Satish Kumar and Sven Koenig.
-    <i>International Conference on Principles and Practice of Multi-Agent Systems (**PRIMA**)</i>, (in print), 2020.          
+    <i>International Conference on Principles and Practice of Multi-Agent Systems (**PRIMA**)</i>, 2020.          
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SurynekPRIMA20');">bibtex</a>]
 <div id="bibtex-SurynekPRIMA20" style="display:none">
 <pre>@inproceedings{SurynekPRIMA20,
