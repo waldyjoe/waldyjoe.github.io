@@ -9,6 +9,19 @@ author_profile: true
 
 
 ## 2021  
+* [Anytime Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyang-li.github.io/files/2021-IJCAI.pdf).     
+    **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2021.         
+     A [short version](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1581.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1581-1583, 2021.  
+    [[code](https://github.com/Jiaoyang-Li/MAPF-LNS)] [[poster](https://jiaoyang-li.github.io/files/posters/MAPF-LNS-poster.pdf "Download poster")][<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICJAI21');">bibtex</a>]
+<div id="bibtex-LiICJAI21" style="display:none">
+<pre>@inproceedings{LiICJAI21,
+  author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
+  title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract},
+  booktitle = {Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI)},
+  year      = {2021}
+}
+</pre></div>  
 * [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](https://jiaoyang-li.github.io/files/2021-ICAPS.pdf) (**Winner of the NeurIPS'20 Flatland Challenge**).         
     **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chan, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2021.      
@@ -84,19 +97,6 @@ author_profile: true
   year      = {2021}
 }
 </pre></div> 
-* [Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1581.pdf).     
-    **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
-    <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1581-1583, 2021.         
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS21');">bibtex</a>]
-<div id="bibtex-LiAAMAS21" style="display:none">
-<pre>@inproceedings{LiAAMAS21,
-  author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-  title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract},
-  booktitle = {Proceedings of the 20th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
-  pages     = {1581--1583},
-  year      = {2021}
-}
-</pre></div>  
 ## 2020
 * [Multi-Directional Heuristic Search](https://www.ijcai.org/Proceedings/2020/0562.pdf).     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
