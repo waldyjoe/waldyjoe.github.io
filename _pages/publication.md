@@ -17,7 +17,7 @@ author_profile: true
 <div id="bibtex-LiICJAI21" style="display:none">
 <pre>@inproceedings{LiICJAI21,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-  title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search: Extended Abstract},
+  title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search},
   booktitle = {Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI)},
   year      = {2021}
 }
