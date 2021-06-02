@@ -52,19 +52,20 @@ author_profile: true
 </pre></div>  
 * [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://arxiv.org/abs/2010.01367).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12353-12362, 2021.        
     [[code](https://github.com/Jiaoyang-Li/EECBS)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
 <div id="bibtex-LiAAAI21a" style="display:none">
 <pre>@inproceedings{LiAAAI21a,
   author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
   title     = {EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding},
   booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {12353--12362},
   year      = {2021}
 }
 </pre></div>   
-* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](https://arxiv.org/abs/2005.07371).                      
+* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](https://ojs.aaai.org/index.php/AAAI/article/view/17344).                      
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.           
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11272-11281, 2021.        
     A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
     [[code](https://github.com/Jiaoyang-Li/RHCR)] [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21b');">bibtex</a>]
 <div id="bibtex-LiAAAI21b" style="display:none">
@@ -72,30 +73,33 @@ author_profile: true
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
   booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {11272--11281},
   year      = {2021}
 }
 </pre></div>   
-* [Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances](https://jiaoyang-li.github.io/files/2021-AAAI-3.pdf).               
+* [Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances](https://ojs.aaai.org/index.php/AAAI/article/view/17340).               
     Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.    
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11237-11245, 2021.        
     [[code](https://github.com/jkchengh/s2m2)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21');">bibtex</a>]
 <div id="bibtex-ChenAAAI21" style="display:none">
 <pre>@inproceedings{ChenAAAI21a,
   author    = {Jingkai Chen and Jiaoyang Li and Chuchu Fan and Brian Williams},
   title     = {Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances},
   booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {11237--11245},
   year      = {2021}
 }
 </pre></div>   
-* [Symmetry Breaking for k-Robust Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2021-AAAI-4.pdf).          
+* [Symmetry Breaking for k-Robust Multi-Agent Path Finding](https://ojs.aaai.org/index.php/AAAI/article/view/17456).          
     Zhe Chen, Daniel Harabor, **Jiaoyang Li** and Peter J. Stuckey.    
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2021.        
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12267-12274, 2021.        
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21b');">bibtex</a>]
 <div id="bibtex-ChenAAAI21b" style="display:none">
 <pre>@inproceedings{ChenAAAI21b,
   author    = {Zhe Chen and Daniel Harabor and Jiaoyang Li and Peter J. Stuckey},
   title     = {Symmetry Breaking for k-Robust Multi-Agent Path Finding},
   booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {12267--12274},
   year      = {2021}
 }
 </pre></div> 
