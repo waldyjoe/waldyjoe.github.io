@@ -57,7 +57,7 @@ author_profile: true
 <div id="bibtex-LiAAAI21a" style="display:none">
 <pre>@inproceedings{LiAAAI21a,
   author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
-  title     = {\{EECBS\}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
+  title     = { {EECBS}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
   booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
   pages     = {12353--12362},
   year      = {2021}
