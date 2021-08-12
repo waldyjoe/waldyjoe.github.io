@@ -12,7 +12,7 @@ author_profile: true
 * [Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search](https://doi.org/10.1016/j.artint.2021.103574).     
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma, Graeme Gange and Sven Koenig.       
     <i>Artifical Intelligence</i>, (in press), 2021.          
-    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIAIJ21');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAIJ21');">bibtex</a>]
 <div id="bibtex-LiAIJ21" style="display:none">
 <pre>@article{LiAIJ21,
   author    = {Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Hang Ma and Graeme Gange and Sven Koenig},
@@ -21,7 +21,7 @@ author_profile: true
   pages     = {103574},
   year      = {2021},
   issn      = {0004-3702},
-  doi       = {https://doi.org/10.1016/j.artint.2021.103574},
+  doi       = {j.artint.2021.103574},
 }
 </pre></div> 
 * [Anytime Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyang-li.github.io/files/2021-IJCAI.pdf).     
