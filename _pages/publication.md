@@ -118,6 +118,19 @@ author_profile: true
   year      = {2021}
 }
 </pre></div> 
+* A Hierarchical Approach to Multi-Agent Path Finding.          
+    Han Zhang, Mingze Yao, Ziang Liu, **Jiaoyang Li**, Lucas Terr, Shao-Hung Chan, T. K. Satish Kumar and Sven Koenig.          
+    <i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.        
+    A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.         
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangHPLAN21');">bibtex</a>]
+<div id="bibtex-ZhangHPLAN21" style="display:none">
+<pre>@inproceedings{ZhangHPLAN21,
+  author    = {Han Zhang and Mingze Yao and Ziang Liu and Jiaoyang Li and Lucas Terr and Shao-Hung Chan and T. K. Satish Kumar and Sven Koenig},
+  title     = {A Hierarchical Approach to Multi-Agent Path Finding},
+  booktitle = {ICAPS Workshop on Hierarchical Planning (HPLAN)},
+  year      = {2021}
+}
+</pre></div> 
 ## 2020
 * [Multi-Directional Heuristic Search](https://www.ijcai.org/Proceedings/2020/0562.pdf).     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
@@ -162,7 +175,7 @@ author_profile: true
 </pre></div>  
 * [Multi-Agent Path Finding with Mutex Propagation](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531 "Download pdf") (**Outstanding Student Paper**).     
     Han Zhang, **Jiaoyang Li**, Pavel Surynek, Sven Koenig and T. K. Satish Kumar.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 323-332, 2020.            
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 323-332, 2020.                 
     [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
 <pre>@inproceedings{ZhangICAPS20,
