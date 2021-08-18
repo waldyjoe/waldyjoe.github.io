@@ -24,9 +24,9 @@ author_profile: true
   doi       = {j.artint.2021.103574},
 }
 </pre></div> 
-* [Anytime Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyang-li.github.io/files/2021-IJCAI.pdf).     
+* [Anytime Multi-Agent Path Finding via Large Neighborhood Search](https://www.ijcai.org/proceedings/2021/568).     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
-    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2021.         
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4127-4135, 2021.         
      A [short version](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1581.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1581-1583, 2021.  
     [[code](https://github.com/Jiaoyang-Li/MAPF-LNS)] [[poster](https://jiaoyang-li.github.io/files/posters/MAPF-LNS-poster.pdf "Download poster")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICJAI21');">bibtex</a>]
 <div id="bibtex-LiICJAI21" style="display:none">
@@ -34,6 +34,7 @@ author_profile: true
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
   title     = {Anytime Multi-Agent Path Finding via Large Neighborhood Search},
   booktitle = {Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI)},
+  pages     = {4127--4135},
   year      = {2021}
 }
 </pre></div>  
