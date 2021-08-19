@@ -18,10 +18,11 @@ author_profile: true
   author    = {Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Hang Ma and Graeme Gange and Sven Koenig},
   title     = {Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search},
   journal   = {Artificial Intelligence},
+  volume    = {301},
   pages     = {103574},
   year      = {2021},
   issn      = {0004-3702},
-  doi       = {j.artint.2021.103574},
+  doi       = {https://doi.org/10.1016/j.artint.2021.103574},
 }
 </pre></div> 
 * [Anytime Multi-Agent Path Finding via Large Neighborhood Search](https://www.ijcai.org/proceedings/2021/568).     
