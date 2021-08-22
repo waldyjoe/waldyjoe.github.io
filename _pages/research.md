@@ -107,7 +107,7 @@ deliver deadlock-free actions **in real-time** during execution that are robust 
 
 Relevant publications: 
 [1] [railway planing and replaning](https://jiaoyangli.me/files/2021-ICAPS.pdf "ICAPS 2021") (**winner of the NeurIPS'20 Flatland Challenge**),
-[2] [railway planing and replaning with MAPF and MARL](https://arxiv.org/abs/2103.16511), and
+[2] [railway planing and replaning with MAPF and MARL](http://proceedings.mlr.press/v133/laurent21a.html), and
 [3] [airport taxiway planning](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "AIAA 2019").         
 
 ## MAPF for Heterogeneous and Nonholonomic Robots
