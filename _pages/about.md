@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently on the 2021-2022 academic job market**
+**I am currently on the 2021-2022 academic job market.**
 
 I am a final year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html) .
 
