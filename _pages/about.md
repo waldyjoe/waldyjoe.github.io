@@ -10,7 +10,7 @@ redirect_from:
 
 **I am currently on the 2021-2022 academic job market.**
 
-I am a final year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html).
+I am a fifth year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html).
 I received my B.Eng degree from Department of Automation, School of Information Science and Technology, Tsinghua University.
 
 I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. You can find more about my research [here](https://jiaoyangli.me/research/).
@@ -25,13 +25,16 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 * \[2021.02\] Our Flatland paper and CBICS paper were accepted to [ICAPS 2021](https://icaps21.icaps-conference.org/).
 * \[2021.02\] I gave 2 virtual talks on our EECBS paper and RHCR paper at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * \[2020.12\] Our team "An_Old_Driver" won both [Round 1](https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465) and [Round 2](https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010) of the [2020 Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge), a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competation track.
-* \[2020.12\] 4 papers accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-* \[2020.10\] 2 virtual talks at [ICAPS 2020](https://icaps20.icaps-conference.org/).
-
 
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+      [2020.12] 4 papers accepted to <a href="https://aaai.org/Conferences/AAAI-21/"> AAAI 2021</a>.
+    </li>
+    <li>
+      [2020.10] 2 virtual talks at <a href="https://icaps20.icaps-conference.org/"> ICAPS 2020</a>.
+    </li>
     <li>
       [2020.05] <a href="https://www.youtube.com/watch?v=j6PGa9mAdd4&feature=youtu.be"> 2 virtual talks</a> at <a href="https://helios.hud.ac.uk/scommv/socs2020/"> SoCS 2020</a>.
     </li>
