@@ -18,6 +18,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## News
+* \[2021.08\] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at [ICAPS 2021](https://icaps21.icaps-conference.org/awards/). Check out our video [here](https://youtu.be/Pw4GBL1UhPA).
 * \[2021.05\] I received a WISE Merit Award from USC.
 * \[2021.05\] I received a Computer Science Best Research Assistant Award from USC.
 * \[2021.04\] Our MAPF-LNS paper was accepted to [IJCAI 2021](https://ijcai-21.org/).
