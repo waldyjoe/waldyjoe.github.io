@@ -10,8 +10,7 @@ redirect_from:
 
 **I am currently on the 2021-2022 academic job market.**
 
-I am a final year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html) .
-
+I am a final year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html).
 I received my B.Eng degree from Department of Automation, School of Information Science and Technology, Tsinghua University.
 
 I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. You can find more about my research [here](https://jiaoyangli.me/research/).
