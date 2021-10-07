@@ -23,14 +23,23 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 * \[2021.08\] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at [ICAPS 2021](https://icaps21.icaps-conference.org/awards/). Check out our video [here](https://youtu.be/Pw4GBL1UhPA).
 * \[2021.05\] I received a WISE Merit Award from USC.
 * \[2021.05\] I received a Computer Science Best Research Assistant Award from USC.
-* \[2021.04\] Our MAPF-LNS paper was accepted to [IJCAI 2021](https://ijcai-21.org/).
-* \[2021.02\] Our Flatland paper and CBICS paper were accepted to [ICAPS 2021](https://icaps21.icaps-conference.org/).
-* \[2021.02\] I gave 2 virtual talks on our EECBS paper and RHCR paper at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-* \[2020.12\] Our team "An_Old_Driver" won both [Round 1](https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465) and [Round 2](https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010) of the [2020 Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge), a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competation track.
+
 
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+      [2021.04] Our MAPF-LNS paper was accepted to <a href="https://ijcai-21.org/">IJCAI 2021</a>.
+    </li>
+    <li>
+      [2021.02] Our Flatland paper and CBICS paper were accepted to <a href="https://icaps21.icaps-conference.org/">ICAPS 2021</a>.
+    </li>
+    <li>
+      [2021.02] I gave 2 virtual talks on our EECBS paper and RHCR paper at <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>.
+    </li>
+    <li>
+      [2020.12] Our team "An_Old_Driver" won both <a href="https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465">Round 1</a> and <a href="https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010">Round 2</a> of the <a href="https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge">2020 Flatland Challenge</a>, a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competation track.
+    </li>
     <li>
       [2020.12] 4 papers accepted to <a href="https://aaai.org/Conferences/AAAI-21/"> AAAI 2021</a>.
     </li>
