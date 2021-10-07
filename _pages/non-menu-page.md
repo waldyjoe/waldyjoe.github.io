@@ -28,7 +28,8 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
-## News
+News
+======
 * \[2021/08\] I was selected to participate in the [Rising Stars in EECS 2021](https://risingstars21-eecs.mit.edu/) workshop at MIT.
 * \[2021.08\] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at [ICAPS 2021](https://icaps21.icaps-conference.org/awards/). Check out our video [here](https://youtu.be/Pw4GBL1UhPA).
 * \[2021.05\] I received a WISE Merit Award from USC.
@@ -122,5 +123,5 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 </details>
 
 
-## Research Summary
-
+Research Summary
+======
