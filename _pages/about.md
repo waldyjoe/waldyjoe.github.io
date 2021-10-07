@@ -16,7 +16,7 @@ redirect_from:
 I am a fifth year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html).
 I received my B.Eng degree from Department of Automation, School of Information Science and Technology, Tsinghua University.
 
-I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. You can find more about my research [here](https://jiaoyangli.me/research/).
+I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
@@ -128,7 +128,7 @@ My research concentrates on developing AI techniques to bridge the gap between M
   - Applying MAPF to multi-robot systems with **heterogeneous and nonholonomic robots**.
 
 ## Symmetry Breaking for MAPF
-<img src="/images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;" />
+<img src="/images/rectangle.png" title="rectangle symmetry" style="float:left;width:200pt;padding-right:10px;" />
 One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
