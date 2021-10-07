@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Jiaoyang Li"
 excerpt: "Homepage"
 layout: archive
 author_profile: true
