@@ -1,13 +1,13 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
 layout: archive
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
-<!--excerpt: "This is a page not in th emain menu"-->
+<!--title: "Page not in menu"
+excerpt: "This is a page not in the main menu"-->
 {% include base_path %}
 <!--{% include toc %}-->
 
