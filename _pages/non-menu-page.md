@@ -22,6 +22,7 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 News
 ======
+<span style="font-size:1em">
 * \[2021/08\] I was selected to participate in the [Rising Stars in EECS 2021](https://risingstars21-eecs.mit.edu/) workshop at MIT.
 * \[2021.08\] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at [ICAPS 2021](https://icaps21.icaps-conference.org/awards/). Check out our video [here](https://youtu.be/Pw4GBL1UhPA).
 * \[2021.05\] I received a WISE Merit Award from USC.
@@ -30,7 +31,7 @@ News
 * \[2021.02\] Our Flatland paper and CBICS paper were accepted to [ICAPS 2021](https://icaps21.icaps-conference.org/).
 * \[2021.02\] I gave 2 virtual talks on our EECBS paper and RHCR paper at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * \[2020.12\] Our team "An_Old_Driver" won both [Round 1](https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465) and [Round 2](https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010) of the [2020 Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge), a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competation track.
-
+</span>
 <details>
   <summary>Show more</summary>
   <ul>
