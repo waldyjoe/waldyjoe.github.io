@@ -2,6 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "Homepage"
+layout: archive
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +20,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
-## News
+# News
 * \[2021/08\] I was selected to participate in the [Rising Stars in EECS 2021](https://risingstars21-eecs.mit.edu/) workshop at MIT.
 * \[2021.08\] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at [ICAPS 2021](https://icaps21.icaps-conference.org/awards/). Check out our video [here](https://youtu.be/Pw4GBL1UhPA).
 * \[2021.05\] I received a WISE Merit Award from USC.
@@ -112,21 +113,21 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
   </ul>
 </details>
 
-## Research
+# Research
 <img src="/images/mapf-demo.gif" title="mapf demo" style="float:right;width:200pt;padding-left:10px;" />
 Recent advances in robotics have laid the foundation for building large-scale multi-agent systems. 
 However, how to coordinate the robots intelligently is a difficult problem because the joint-state space increases exponentially with the number of agents.
 To tackle this challenge, I started with one fundamental problem called **Multi-Agent Path Finding (MAPF)**, which is to plan collision-free paths on a graph for a team of agents while minimizing their travel times.
 My research concentrates on developing AI techniques to bridge the gap between MAPF and real-world applications. My main contributions are summarized as follows: 
 - Improving the scalability of MAPF algorithms:
-  - Developing **symmetry breaking** techniques to speed up optimal and bounded-suboptimal MAPF algorithms.
-  - Introducing **heuristics** to conflict-based search to speed up optimal and bounded-suboptimal MAPF algorithms.
+  - Developing **symmetry breaking** techniques to reduce the search space.
+  - Introducing **informed heuristics** to conflict-based search to guide the search direction.
 - Applying MAPF to various multi-agent systems:
   - Applying MAPF to **automated warehousing**.
   - Applying MAPF to **traffic management**.
   - Applying MAPF to multi-robot systems with **heterogeneous and nonholonomic robots**.
 
-### Symmetry Breaking for MAPF
+## Symmetry Breaking for MAPF
 <img src="/images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;" />
 One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
@@ -146,7 +147,7 @@ Relevant publications:
 [7] [symmetry reasoning with bounded-suboptimal CBS](https://arxiv.org/abs/2010.01367 "AAAI 2021").
 
 
-### Heuristics for MAPF with Conflict-Based Search
+## Heuristics for MAPF with Conflict-Based Search
 <img src="/images/heuristics.png" title="heuristic graph" style="float:left;width:250pt;padding-right:10px;" />
 Conflict-Based Search (CBS) and its enhancements are among the strongest algorithms for MAPF. 
 However, existing variants of CBS do not use any heuristics that estimate future work.
@@ -164,7 +165,7 @@ Relevant publications:
 [3] [inadmissible heuristic for bounded-suboptimal CBS](https://arxiv.org/abs/2010.01367 "AAAI 2021").
 
 
-### Lifelong MAPF for Automated Warehousing
+## Lifelong MAPF for Automated Warehousing
 <!--
 <img src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" title="warehouse demo" style="float:left;width:250pt;padding-right:10px;" />
 <figure class="video_container">
@@ -202,7 +203,7 @@ Relevant publications:
 [3] [rolling-horizon collision resolution](https://arxiv.org/abs/2005.07371 "AAAI 2021"), and
 [4] [column generation for tasks with time windows](https://arxiv.org/abs/2103.08835 "Preprint 2021").
 
-### MAPF for Traffic Management
+## MAPF for Traffic Management
 <img src="/images/flatland.gif" title="flatland demo" style="float:left;width:250pt;padding-right:10px;" />
 
 MAPF can also be used for traffic manangement for autonomous vehicle, trains, or airplanes. This can reduce traffic congestion, energy consumption, and air pollution. The main challenges of applying MAPF to traffic management systems are two-fold. First, the systems are neither perfect nor deterministic. For example, the environment might cause unexpected disturbances, the communication network might not be stable, the agents might have incomplete knowledge of the environment, and the agents might not be able to execute their deterministic MAPF plans perfectly. We need to take such uncertainties into account during path planning and generate robust plans. Second, the sysmtem needs to operate thousands of (or even more) agents in real-time, so extremely efficient MAPF algorithms are required.          
@@ -216,7 +217,7 @@ Relevant publications:
 [2] [railway planing and replaning with MAPF and MARL](http://proceedings.mlr.press/v133/laurent21a.html), and
 [3] [airport taxiway planning](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "AIAA 2019").         
 
-### MAPF for Heterogeneous and Nonholonomic Robots
+## MAPF for Heterogeneous and Nonholonomic Robots
 <div id="wrapper" align="center" style="float:left;width:250pt;padding-right:10px;"> 
   <img src="/images/drone_side.gif" title="drones" style="width:130pt" />
   <figcaption>Top view</figcaption>
