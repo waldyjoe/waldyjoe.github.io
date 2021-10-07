@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% include toc %}
+<!--{% include toc %}-->
 
 **I am currently on the 2021-2022 academic job market.**
 
