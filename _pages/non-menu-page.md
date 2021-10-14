@@ -222,7 +222,7 @@ Relevant publications:
 [3] [airport taxiway planning](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "AIAA 2019").         
 
 ## MAPF for Heterogeneous and Nonholonomic Robots
-<div id="wrapper" align="center" style="float:left;width:250pt;padding-right:10px;"> 
+<div id="wrapper" align="center" style="float:left;width:150pt;padding-right:10px;"> 
   <img src="/images/arena.gif" title="drones" style="width:250pt" />
   <figcaption>Mobile robot team</figcaption>
   <video id="lego" width="250pt"  autoplay loop controls> 
