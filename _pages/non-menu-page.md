@@ -223,12 +223,16 @@ Relevant publications:
 
 ## MAPF for Heterogeneous and Nonholonomic Robots
 <div id="wrapper" align="center" style="float:left;width:250pt;padding-right:10px;"> 
-  <img src="/images/drone_side.gif" title="drones" style="width:130pt" />
-  <figcaption>Top view</figcaption>
-  <img src="/images/drone_top.gif" title="drones" style="width:250pt" />
-  <figcaption>Side view</figcaption>
+  <img src="/images/arena.gif" title="drones" style="width:250pt" />
+  <figcaption>Mobile robot team</figcaption>
+  <video id="lego" width="250pt"  autoplay loop controls> 
+       <source type="video/mp4" src="https://jiaoyang-li.github.io/images/lego.mp4" /> 
+   </video>
+  <figcaption>Multi-arm assembly</figcaption>
 </div>
 Agents in MAPF are homogeneous, in the sense that each agent occupies exactly one vertex at any timestep and traverses exactly one edge or wait at its current vertex from one timestep to the next one. In the real world, however, agents might be of different shapes and have different kinematic constraints. In addition, agents sometimes are required to move to their goal locations while maintaining a desired formation (i.e., spatial pattern), in order to reduce the system cost, increase the robustness and efficiency of the system.
+
+
 
 Relevant publications: 
 [1] [agents of different shapes](https://aaai.org/ojs/index.php/AAAI/article/view/4756 "AAAI 2019"), 
