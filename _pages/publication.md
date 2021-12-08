@@ -20,7 +20,7 @@ author_profile: true
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.        
 * Flex Distribution for Bounded-suboptimal Multi-Agent Path Finding.     
     Shao-Hung Chan, **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.        
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.
 ## 2021  
 * [Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search](https://doi.org/10.1016/j.artint.2021.103574).     
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma, Graeme Gange and Sven Koenig.       
