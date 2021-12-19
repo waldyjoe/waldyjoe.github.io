@@ -19,6 +19,7 @@ I am interested in a variety of topics related to Artificial Intelligence, such 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 # News
+* \[2021/12\] Our paper on MAPF with precedence constraints was accepted to [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/). 
 * \[2021/12\] 4 papers accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).   
 * \[2021/08\] I was selected to participate in the [Rising Stars in EECS 2021](https://risingstars21-eecs.mit.edu/) workshop at MIT.
 * \[2021.08\] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at [ICAPS 2021](https://icaps21.icaps-conference.org/awards/). Check out our video [here](https://youtu.be/Pw4GBL1UhPA).
