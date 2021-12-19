@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## 2022  
-* RMAPF: Repairing Multi-Agent Path Finding via Large Neighborhood Search.     
+* MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search.     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.        
 * Anytime Multi-Agent Path Finding via Machine-Learning Guided Large Neighborhood Search.     
