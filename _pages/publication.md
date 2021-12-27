@@ -9,6 +9,18 @@ author_profile: true
 
 
 ## 2022  
+* Multi-Agent Path Finding for Precedence-Constrained Goal Sequences.     
+    Han Zhang, Jingkai Chen, **Jiaoyang Li**, Brian Williams and Sven Koenig.       
+    <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2022.   
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAMAS22');">bibtex</a>]
+<div id="bibtex-ZhangAAMAS22" style="display:none">
+<pre>@inproceedings{ZhangAAMAS22,
+  author    = {Han Zhang and Jingkai Chen and Jiaoyang Li and Brian Williams and Sven Koenig},
+  title     = {Multi-Agent Path Finding for Precedence-Constrained Goal Sequences},
+  booktitle = {Proceedings of the 21th International Joint Conference on Autonomous Agents and Mult-Agent Systems (AAMAS)},
+  year      = {2022}
+}
+</pre></div>   
 * [MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyang-li.github.io/files/2022-AAAI-1.pdf).     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.  
@@ -48,9 +60,9 @@ author_profile: true
 * Flex Distribution for Bounded-suboptimal Multi-Agent Path Finding.     
     Shao-Hung Chan, **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.      
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LeetAAAI22');">bibtex</a>]
-<div id="bibtex-LeetAAAI22" style="display:none">
-<pre>@inproceedings{LeetAAAI22,
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
+<div id="bibtex-ChanAAAI22" style="display:none">
+<pre>@inproceedings{ChanAAAI22,
   author    = {Shao-Hung Chan and Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
   title     = {Flex Distribution for Bounded-suboptimal Multi-Agent Path Finding},
   booktitle = {Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)},
