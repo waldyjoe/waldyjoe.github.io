@@ -57,7 +57,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>   
-* (Shard Systems: Scalable, Robust and Persistent Multi-Agent Path Finding with Performance Guarantees](https://jiaoyang-li.github.io/files/2022-AAAI-3.pdf).     
+* [Shard Systems: Scalable, Robust and Persistent Multi-Agent Path Finding with Performance Guarantees](https://jiaoyang-li.github.io/files/2022-AAAI-3.pdf).     
     Christopher Leet, **Jiaoyang Li** and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.       
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LeetAAAI22');">bibtex</a>]
