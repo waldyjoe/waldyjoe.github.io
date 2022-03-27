@@ -9,7 +9,19 @@ author_profile: true
 
 
 ## 2022  
-* Multi-Agent Path Finding for Precedence-Constrained Goal Sequences.     
+* [Optimal and Bounded-Suboptimal Multi-Goal Task Assignment and Path Finding](https://jiaoyang-li.github.io/files/2022-ICRA.pdf).        
+    Xinyi Zhong, **Jiaoyang Li**, Sven Koenig and Hang Ma.       
+    <i>IEEE International Conference on Robotics and Automation (**ICRA**)</i>, (in print), 2022.   
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhongICRA22');">bibtex</a>]
+<div id="bibtex-ZhongICRA22" style="display:none">
+<pre>@inproceedings{ZhongICRA22,
+  author    = {Xinyi Zhong and Jiaoyang Li and Sven Koenig and Hang Ma},
+  title     = {Optimal and Bounded-Suboptimal Multi-Goal Task Assignment and Path Finding},
+  booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2022}
+}
+</pre></div>  
+* [Multi-Agent Path Finding for Precedence-Constrained Goal Sequences](https://jiaoyang-li.github.io/files/2022-ICAPS.pdf).     
     Han Zhang, Jingkai Chen, **Jiaoyang Li**, Brian Williams and Sven Koenig.       
     <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2022.   
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAMAS22');">bibtex</a>]
@@ -33,7 +45,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>   
-* Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search.     
+* [Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search](https://jiaoyang-li.github.io/files/2022-AAAI-2.pdf).     
     Taoan Huang, **Jiaoyang Li**, Sven Koenig and Bistra Dilkina.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.   
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-HuangAAAI22');">bibtex</a>]
@@ -45,7 +57,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>   
-* Shard Systems: Scalable, Robust and Persistent Multi-Agent Path Finding with Performance Guarantees.     
+* (Shard Systems: Scalable, Robust and Persistent Multi-Agent Path Finding with Performance Guarantees](https://jiaoyang-li.github.io/files/2022-AAAI-3.pdf).     
     Christopher Leet, **Jiaoyang Li** and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.       
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LeetAAAI22');">bibtex</a>]
@@ -57,7 +69,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>   
-* Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding.     
+* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2022-AAAI-4.pdf).     
     Shao-Hung Chan, **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.      
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
