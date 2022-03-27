@@ -21,7 +21,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>  
-* [Multi-Agent Path Finding for Precedence-Constrained Goal Sequences](https://jiaoyang-li.github.io/files/2022-ICAPS.pdf).     
+* [Multi-Agent Path Finding for Precedence-Constrained Goal Sequences](https://jiaoyang-li.github.io/files/2022-AAMAS.pdf).     
     Han Zhang, Jingkai Chen, **Jiaoyang Li**, Brian Williams and Sven Koenig.       
     <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2022.   
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAMAS22');">bibtex</a>]
