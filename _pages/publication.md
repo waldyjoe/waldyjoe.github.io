@@ -192,7 +192,7 @@ author_profile: true
   year      = {2021}
 }
 </pre></div> 
-* [A Hierarchical Approach to Multi-Agent Path Finding.](https://jiaoyang-li.github.io/files/2021-HPLAN.pdf)          
+* [A Hierarchical Approach to Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2021-HPLAN.pdf).          
     Han Zhang, Mingze Yao, Ziang Liu, **Jiaoyang Li**, Lucas Terr, Shao-Hung Chan, T. K. Satish Kumar and Sven Koenig.          
     <i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.        
     A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.         
