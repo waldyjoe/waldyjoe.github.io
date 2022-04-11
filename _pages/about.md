@@ -16,7 +16,7 @@ I received my B.Eng degree from Department of Automation, School of Information 
 I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
-Starting in Fall 2022, I will be an Assistant Professor in the Robotics Institute at Carneige Mellon University. 
+Starting in Fall 2022, I will be an Assistant Professor in the Robotics Institute at Carnegie Mellon University. 
 
 # News   
 * \[2022/02\] 1 paper accepted to [ICRA 2022](https://www.icra2022.org/). 
