@@ -9,6 +9,18 @@ author_profile: true
 
 
 ## 2022  
+* Multi-Agent Path Finding with Mutex Propagation.     
+    Han Zhang, Pavel Surynek, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.      
+    <i>Artificial Intelligence (**AIJ**)</i>, (in print), 2021.                           
+    [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
+<div id="bibtex-ZhangICAPS2020" style="display:none">
+<pre>@article{ZhangAIJ22,
+  author    = {Han Zhang and Pavel Surynek and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+  title     = {Multi-Agent Path Finding with Mutex Propagation},
+  journal   = {Artificial Intelligence},
+  year      = {2022}
+}
+</pre></div>  
 * Multi-Goal Multi-Agent Pickup and Delivery.        
     Qinghong Xu, **Jiaoyang Li**, Sven Koenig and Hang Ma.       
     <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>, (in print), 2022.   
