@@ -21,7 +21,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>  
-* A MIP-Based Approach for Multi-Robot Geometric Task-and-Motion Planning.        
+* [A MIP-Based Approach for Multi-Robot Geometric Task-and-Motion Planning](https://jiaoyang-li.github.io/files/2022-CASE.pdf).        
     Hejia Zhang, Shao-Hung Chan, Jie Zhong, **Jiaoyang Li**, Sven Koenig and Stefanos Nikolaidis.       
     <i>IEEE International Conference on Automation Science and Engineering (**CASE**)</i>, (in print), 2022.   
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangCASE22');">bibtex</a>]
@@ -33,7 +33,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>  
-* Which MAPF Model Works Best for Automated Warehousing?          
+* [Which MAPF Model Works Best for Automated Warehousing?](https://jiaoyang-li.github.io/files/2022-SoCS-model.pdf)          
     Sumanth Varambally, **Jiaoyang Li** and Sven Koenig.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.   
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-VaramballySoCS22');">bibtex</a>]
@@ -45,7 +45,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>  
-* [Learning a Priority Ordering for Prioritized Planning in Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2022-ICRA.pdf).        
+* [Learning a Priority Ordering for Prioritized Planning in Multi-Agent Path Finding](https://jiaoyang-li.github.io/files/2022-SoCS-pp.pdf).        
     Shuyang Zhang, **Jiaoyang Li**, Taoan Huang, Sven Koenig and Bistra Dilkina.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.      
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22');">bibtex</a>]
@@ -57,7 +57,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>  
-* [Multi-Train Path Finding Revisited](https://jiaoyang-li.github.io/files/2022-ICRA.pdf).        
+* [Multi-Train Path Finding Revisited](https://jiaoyang-li.github.io/files/2022-SoCS-train.pdf).        
     Zhe Chen, **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.      
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenSoCS22');">bibtex</a>]
@@ -69,7 +69,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>  
-* [Mutex Propagation in Multi-Agent Path Finding for Large Agents](https://jiaoyang-li.github.io/files/2022-ICRA.pdf) (short paper).        
+* [Mutex Propagation in Multi-Agent Path Finding for Large Agents](https://jiaoyang-li.github.io/files/2022-SOCS-mutex.pdf) (short paper).        
     Han Zhang, Yutong Li, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.      
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22mutex');">bibtex</a>]
