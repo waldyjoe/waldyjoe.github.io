@@ -19,6 +19,7 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 Starting in Fall 2022, I will be an Assistant Professor in the Robotics Institute at Carnegie Mellon University. 
 
 # News   
+* \[2022/06\] Invited talk at ICAPS-22 workshop [HSDIP](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
 * \[2022/02\] 1 paper accepted to [ICRA 2022](https://www.icra2022.org/). 
 * \[2021/12\] Our paper on MAPF with precedence constraints was accepted to [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/). 
 * \[2021/12\] 4 papers accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).   
