@@ -81,7 +81,7 @@ author_profile: true
   year      = {2022}
 }
 </pre></div>  
-* [Mutex Propagation in Multi-Agent Path Finding for Large Agents](https://jiaoyang-li.github.io/files/2022-SOCS-mutex.pdf) (short paper).        
+* [Mutex Propagation in Multi-Agent Path Finding for Large Agents](https://jiaoyang-li.github.io/files/2022-SoCS-mutex.pdf) (short paper).        
     Han Zhang, Yutong Li, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.      
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22mutex');">bibtex</a>]
