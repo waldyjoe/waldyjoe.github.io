@@ -578,9 +578,9 @@ author_profile: true
   year      = {2017}
 }
 </pre></div>     
-* [Planning for Electric Taxi Charging System from the Perspective of Transprotation Energy Supply Chain: A Data-Driven Approach in Beijing](https://ieeexplore.ieee.org/document/8080844 "Download pdf").     
+<!--* [Planning for Electric Taxi Charging System from the Perspective of Transprotation Energy Supply Chain: A Data-Driven Approach in Beijing](https://ieeexplore.ieee.org/document/8080844 "Download pdf").     
     Yinghao Jia, Huimiao Chen, **Jiaoyang Li**, Fang He, Meng Li, Zechun Hu and Zuo-Jun Max Shen.     
     <i>IEEE Transportation Electrification Conference and Expo, Asia-Pacific (**ITEC Asia-Pacific**)</i>, pages 1-6, 2017.
 * [Optimal Combinations and Variable Departure Intervals for Micro Bus System](https://ieeexplore.ieee.org/document/7914200 "Download pdf").    
     **Jiaoyang Li**, Jianming Hu and Yi Zhang.      
-    <i>Tsinghua Science and Technology</i>, 22(3):282-292, 2017.
+    <i>Tsinghua Science and Technology</i>, 22(3):282-292, 2017.-->
