@@ -7,8 +7,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /research/
-  - /research.html
 ---
 
 I am a fifth year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html).
