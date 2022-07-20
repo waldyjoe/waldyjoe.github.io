@@ -9,6 +9,7 @@
     font-size: 1em;
     font-weight: bold;
     align-self: center;
+    text-align: center;
     margin-top: 1.0em;
 }
 
@@ -16,6 +17,7 @@
     font-size: 1em;
     margin-top: 0.25em;
     margin-left: 0.25em;
+    text-align: center;
 }
 
 .image__img {

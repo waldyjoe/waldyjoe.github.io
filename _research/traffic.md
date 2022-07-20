@@ -10,7 +10,17 @@ author_profile: true
 ## MAPF for Traffic Management
 <img src="/images/flatland.gif" title="flatland demo" style="float:left;width:250pt;padding-right:10px;" />
 
-MAPF can also be used for traffic manangement for autonomous vehicle, trains, or airplanes. This can reduce traffic congestion, energy consumption, and air pollution. The main challenges of applying MAPF to traffic management systems are two-fold. First, the systems are neither perfect nor deterministic. For example, the environment might cause unexpected disturbances, the communication network might not be stable, the agents might have incomplete knowledge of the environment, and the agents might not be able to execute their deterministic MAPF plans perfectly. We need to take such uncertainties into account during path planning and generate robust plans. Second, the sysmtem needs to operate thousands of (or even more) agents in real-time, so extremely efficient MAPF algorithms are required.          
+MAPF can also be used for traffic management for autonomous vehicle, trains, or airplanes. 
+This can reduce traffic congestion, energy consumption, and air pollution. 
+The main challenges of applying MAPF to traffic management systems are two-fold. 
+First, the systems are neither perfect nor deterministic. 
+For example, the environment might cause unexpected disturbances, 
+the communication network might not be stable, 
+the agents might have incomplete knowledge of the environment, 
+and the agents might not be able to execute their deterministic MAPF plans perfectly. 
+We need to take such uncertainties into account during path planning and generate robust plans. 
+Second, the sysmtem needs to operate thousands of (or even more) agents in real-time, 
+so extremely efficient MAPF algorithms are required.          
 
 Highlights:
 The MAPF-based software we developed for the NeurIPS'20 Flatland Challenge in [1] can plan collision-free paths for **more than 3000 agents** within a few minutes and

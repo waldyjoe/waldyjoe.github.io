@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+# Multi-Arm Assembly
 <div id="wrapper" align="center" style="float:left;width:150pt;padding-right:10px;"> 
   <img src="/images/arena.gif" title="mobile robots" style="width:250pt" />
   <figcaption>Mobile robot team</figcaption>

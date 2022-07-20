@@ -8,17 +8,27 @@ author_profile: true
 {% include base_path %}
 
 <img src="/images/mapf-demo.gif" title="mapf demo" style="float:right;width:200pt;padding-left:10px;" />
-Recent advances in robotics have laid the foundation for building large-scale multi-agent systems. A great deal of research has focused on coordinating agents to fulfill different types of tasks. In my research, I focus on one fundamental task - to navigate teams of agents in a shared environment to their goal locations without colliding with obstacles or other agents.
-One well-studied abstract model for this problem is known as **Multi-Agent Path Finding (MAPF)**. It is defined on a general graph with given start and goal vertices for agents on this graph. Each agent is allowed to wait at its current vertex or move to an adjacent vertex from one discrete timestep to the next one. We are asked to find a path for each agent such that no two agents are at the same vertex or cross the same edge at any timestep (because this would result in a collision). The objective is to minimize the sum of the arrival times of all agents.
+Recent advances in robotics have laid the foundation for building large-scale multi-agent systems. 
+A great deal of research has focused on coordinating agents to fulfill different types of tasks. 
+In my research, I focus on one fundamental task - 
+to navigate teams of agents in a shared environment to their goal locations 
+without colliding with obstacles or other agents.
+One well-studied abstract model for this problem is known as **Multi-Agent Path Finding (MAPF)**. 
+It is defined on a general graph with given start and goal vertices for agents on this graph. 
+Each agent is allowed to wait at its current vertex or 
+move to an adjacent vertex from one discrete timestep to the next one. 
+We are asked to find a path for each agent such that no two agents are at the same vertex or 
+cross the same edge at any timestep (because this would result in a collision). 
+The objective is to minimize the sum of the arrival times of all agents.
 
-My research concentrates on developing AI techniques to bridge the gap between MAPF and real-world applications. My main contributions are summarized as follows: 
+<!-- My research concentrates on developing AI techniques to bridge the gap between MAPF and real-world applications. My main contributions are summarized as follows: 
 - Improving the scalability of MAPF algorithms:
   - Developing **symmetry reasoning** techniques to speed up optimal and bounded-suboptimal MAPF algorithms.
   - Introducing **heuristics** to conflict-based search to speed up optimal and bounded-suboptimal MAPF algorithms.
 - Applying MAPF to various multi-agent systems:
   - Applying MAPF to **automated warehousing**.
   - Applying MAPF to **traffic management**.
-  - Applying MAPF to multi-robot systems with **heterogeneous and nonholonomic robots**.
+  - Applying MAPF to multi-robot systems with **heterogeneous and nonholonomic robots**. -->
 
 ## Symmetry Reasoning for MAPF
 <img src="/images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;" />
