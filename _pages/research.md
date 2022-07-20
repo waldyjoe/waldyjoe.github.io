@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+<div id="wrapper" align="center"> 
+  <img src="/images/mapf-demo.gif" title="mapf demo" style="width:250pt" />
+  <figcaption>Foundations of Multi-Agent Path Finding</figcaption>
+  <img src="/images/bar.gif" title="robotic arms" style="width:250pt" />
+  <figcaption>Automated Warehousing</figcaption>
+  <img src="/images/bar.gif" title="robotic arms" style="width:250pt" />
+  <figcaption>Multi-Arm Assembly</figcaption>
+  <img src="/images/flatland.gif" title="flatland demo" style="width:250pt" />
+  <figcaption>Traffic Management</figcaption>
+</div>
+
+
 <img src="/images/mapf-demo.gif" title="mapf demo" style="float:right;width:200pt;padding-left:10px;" />
 Recent advances in robotics have laid the foundation for building large-scale multi-agent systems. A great deal of research has focused on coordinating agents to fulfill different types of tasks. In my research, I focus on one fundamental task - to navigate teams of agents in a shared environment to their goal locations without colliding with obstacles or other agents.
 One well-studied abstract model for this problem is known as **Multi-Agent Path Finding (MAPF)**. It is defined on a general graph with given start and goal vertices for agents on this graph. Each agent is allowed to wait at its current vertex or move to an adjacent vertex from one discrete timestep to the next one. We are asked to find a path for each agent such that no two agents are at the same vertex or cross the same edge at any timestep (because this would result in a collision). The objective is to minimize the sum of the arrival times of all agents.
