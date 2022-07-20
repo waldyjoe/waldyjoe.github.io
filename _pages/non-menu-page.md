@@ -11,6 +11,18 @@ excerpt: "This is a page not in the main menu"-->
 {% include base_path %}
 <!--{% include toc %}-->
 
+<div id="wrapper" align="center"> 
+  <img src="/images/mapf-demo.gif" title="mapf demo" style="width:250pt" />
+  <figcaption>Foundations of Multi-Agent Path Finding</figcaption>
+  <img src="/images/bar.gif" title="robotic arms" style="width:250pt" />
+  <figcaption>Automated Warehousing</figcaption>
+  <img src="/images/bar.gif" title="robotic arms" style="width:250pt" />
+  <figcaption>Multi-Arm Assembly</figcaption>
+  <img src="/images/flatland.gif" title="flatland demo" style="width:250pt" />
+  <figcaption>Traffic Management</figcaption>
+</div>
+
+
 **I am currently on the 2021-2022 academic job market.**
 
 I am a fifth year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html).
