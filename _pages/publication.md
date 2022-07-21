@@ -614,7 +614,7 @@ You can also find my articles on
 </pre></div>   
 
 ## 2018
-* [Multi-Agent Path Finding with Deadlines](https://jiaoyangli.me/publications/).     
+* [Multi-Agent Path Finding with Deadlines](https://jiaoyangli.me/publications/MaIJCAI18).     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018.      
     A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.     
@@ -630,7 +630,7 @@ You can also find my articles on
 }
 </pre></div>     
 
-* [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/) (short paper).     
+* [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/FelnerICAPS18) (short paper).     
     Ariel Felner, **Jiaoyang Li**, Eli Boyarski, Hang Ma, Liron Cohen, T. K. Satish Kumar and Sven Koenig.       
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.      
     [[doi](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965)]
@@ -647,7 +647,7 @@ You can also find my articles on
 </pre></div>         
 
 ## 2017
-* [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://jiaoyangli.me/publications/).     
+* [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://jiaoyangli.me/publications/MaAAMAS17).     
     Hang Ma, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
     <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 837-845, 2017.    
     [[doi](https://dl.acm.org/citation.cfm?id=3091243)]
