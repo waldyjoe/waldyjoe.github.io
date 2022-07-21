@@ -115,8 +115,9 @@ Relevant publications:
 [6] [improved mutex propagation](https://jiaoyangli.me/publications/ZhangAIJ22),
 [7] [symmetry reasoning for k-robust MAPF](https://jiaoyangli.me/publications/ChenAAAI21robust),
 [8] [symmetry reasoning for agents of different shapes](https://jiaoyangli.me/publications/ZhangSoCS22),
-[9] [symmetry reasoning for train-like agents](https://jiaoyangli.me/publications/ChenSoCS22), and
-[10] [symmetry reasoning with bounded-suboptimal CBS](https://jiaoyangli.me/publications/LiAAAI21eecbs).
+[9] [symmetry reasoning for train-like agents](https://jiaoyangli.me/publications/ChenSoCS22), 
+[10] [target symmetries used for MAPF with precedence constraints](https://jiaoyangli.me/publications/ZhangAAMAS22), and
+[11] [symmetry reasoning with bounded-suboptimal CBS](https://jiaoyangli.me/publications/LiAAAI21eecbs).
 
 
 ## Heuristics for MAPF with Conflict-Based Search

@@ -9,12 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D. student in Computer Science at University of Southern California. My advisor is Professor [Sven Koenig](http://idm-lab.org/index.html).
-I received my B.Eng degree from Department of Automation, School of Information Science and Technology, Tsinghua University.
-I am interested in a variety of topics related to Artificial Intelligence, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
+I am an assistant professor in [the Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
+I received my Ph.D. degree in Computer Science at [University of Southern California](https://www.usc.edu/) in 2022, advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
+I received my B.Eng degree from Department of Automation, School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
+I am interested in a variety of topics related to Artificial Intelligence and optimization, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
-Starting in Fall 2022, I will be an Assistant Professor in the Robotics Institute at Carnegie Mellon University. 
 
 # News   
 * \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
