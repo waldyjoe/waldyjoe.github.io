@@ -1,4 +1,5 @@
 ---
+author_profile: true
 title: "Multi-Agent Path Finding with Deadlines: Preliminary Results"
 collection: publications
 permalink: /publication/2018-AAMAS

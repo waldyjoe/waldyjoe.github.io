@@ -1,4 +1,5 @@
 ---
+author_profile: true
 title: "Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks"
 collection:
 permalink: /publication/2017-AAMAS

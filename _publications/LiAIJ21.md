@@ -1,7 +1,8 @@
 ---
+author_profile: true
 title: "A Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search"
 collection:
-permalink: /publications/LiAIJ21
+permalink: /publications/LiAIJ21/
 excerpt: 
 date: 2018-06-24
 venue: 'Artificial Intelligence (AIJ)'

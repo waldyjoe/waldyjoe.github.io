@@ -1,4 +1,5 @@
 ---
+author_profile: true
 title: "Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding"
 collection:
 permalink: /publication/2018-ICAPS

@@ -1,7 +1,8 @@
 ---
+author_profile: true
 title: "MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search"
 collection:
-permalink: /publications/LiAAAI22
+permalink: /publications/LiAAAI22/
 excerpt: 
 date: 2018-06-24
 venue: 'AAAI Conference on Artificial Intelligence (**AAAI**)'

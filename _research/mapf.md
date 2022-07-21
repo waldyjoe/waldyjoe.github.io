@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="../images/mapf-demo.gif" title="mapf demo" style="float:right;width:200pt;padding-left:10px;"  alt="mapf demo"/>
+<img src="https://jiaoyangli.me/images/mapf-demo.gif" title="mapf demo" style="float:right;width:200pt;padding-left:10px;"  alt="mapf demo"/>
 Recent advances in robotics have laid the foundation for building large-scale multi-agent systems. 
 A great deal of research has focused on coordinating agents to fulfill different types of tasks. 
 We focus on one fundamental task - 
@@ -29,7 +29,7 @@ The diagram below summarizes the empirical performance of some of our MAPF algor
 in comparison to some baseline MAPF algorithms (dashed lines).
 Success rate is the percentage of MAPF instances solved within a runtime limit of one minute.
 
-<img src="../images/benchmark.png" title="mapf demo" style="width:400pt;align-self:center"  alt="benchmark"/>
+<img src="https://jiaoyangli.me/images/benchmark.png" title="mapf demo" style="width:400pt;align-self:center"  alt="benchmark"/>
 
 <details>
     <summary>Show the details of this empirical result.</summary>
@@ -53,22 +53,22 @@ Success rate is the percentage of MAPF instances solved within a runtime limit o
     </li>
     <li>
         CBSH2-RTC is ICBS with the WDG heuristic from our IJCAI'20 paper, 
-        the RTC symmetry reasoning from <a href="../publications/LiAIJ21">our AIJ'21 paper</a>, and 
+        the RTC symmetry reasoning from <a href="https://jiaoyangli.me/publications/LiAIJ21">our AIJ'21 paper</a>, and 
         the bypassing technique. 
         Check out the code <a href="https://github.com/Jiaoyang-Li/CBSH2-RTC">here</a>.  
     </li>
     <li>
         EECBS is the most advanced version of EECBS from 
-        <a href="../_publications/LiAAAI21eecbs">our AAAI'21 paper</a> plus SIPPS from 
-        <a href="../_publications/LiAAAI22"> our AAAI'22 paper</a>.
+        <a href="https://jiaoyangli.me/publications/LiAAAI21eecbs">our AAAI'21 paper</a> plus SIPPS from 
+        <a href="https://jiaoyangli.me/publications/LiAAAI22"> our AAAI'22 paper</a>.
         Check out the code <a href="https://github.com/Jiaoyang-Li/EECBS">here</a>.  
     </li>
     <li>
-        PBS is PBS from <a href="../_pages/publication.md/#MaAAAI19">our AAAI'19 paper</a> plus SIPPS from <a href="../_publications/LiAAAI22"> our AAAI'22 paper</a>.
+        PBS is PBS from <a href="https://jiaoyangli.me/publications/MaAAAI19">our AAAI'19 paper</a> plus SIPPS from <a href="../_publications/LiAAAI22"> our AAAI'22 paper</a>.
         Check out the code <a href="https://github.com/Jiaoyang-Li/PBS">here</a>.  
     </li>
     <li>
-        MAPF-LNS2 is from <a href="../_publications/LiAAAI22"> our AAAI'22 paper</a>. 
+        MAPF-LNS2 is from <a href="https://jiaoyangli.me/publications/LiAAAI22"> our AAAI'22 paper</a>. 
         Check out the code <a href="https://github.com/Jiaoyang-Li/CBSH2-RTC">here</a>.  
     </li>
     </ul>
@@ -85,7 +85,7 @@ Success rate is the percentage of MAPF instances solved within a runtime limit o
 
 
 ## Symmetry Reasoning for MAPF
-<img src="../images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;"  alt="symmetry"/>
+<img src="images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;"  alt="symmetry"/>
 One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
@@ -105,7 +105,7 @@ Relevant publications:
 
 
 ## Heuristics for MAPF with Conflict-Based Search
-<img src="../images/heuristics.png" title="heuristic graph" style="float:left;width:250pt;padding-right:10px;" alt="heuristics"/>
+<img src="images/heuristics.png" title="heuristic graph" style="float:left;width:250pt;padding-right:10px;" alt="heuristics"/>
 Conflict-Based Search (CBS) and its enhancements are among the strongest algorithms for MAPF. 
 However, existing variants of CBS do not use any heuristics that estimate future work.
 Introducing admissibles heuristics to guide the high-level search of CBS can significantly reduce the size of the CBS search tree and its runtime.
@@ -120,3 +120,24 @@ Relevant publications:
 [1] [CG heuristicy for CBS](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "ICAPS 2018"), 
 [2] [DG and WDG heuristics for CBS](https://www.ijcai.org/proceedings/2019/0063.pdf "IJCAI 2019"), and
 [3] [inadmissible heuristic for bounded-suboptimal CBS](https://arxiv.org/abs/2010.01367 "AAAI 2021").
+
+
+## Large Neighborhood Search for MAPF
+<img src="../images/lns-framework.png" title="LNS framework" style="float:left;width:300pt;padding-right:10px;" alt="heuristics"/>
+Sometimes, we are interested in a good solution but not necessarily a proof of how good the solution is. 
+Since providing optimality proofs is computationally expensive, 
+We develop stochastic local search algorithms 
+that repeatedly replan paths for subsets of agents via prioritized planning. 
+They give up optimality guarantees 
+but find near-optimal solutions for thousands of agents in practice, 
+solve 80\% of the most challenging instances in the MAPF benchmark suite 
+(while previously best suboptimal algorithms solve at most 65\%), and 
+improve the solution quality by up to 36 times. 
+
+## Learning-Guided Planning
+Machine learning can complement the search algorithms and boost their performance 
+by automatically discovering policies that are better than the hand-crafted ones. 
+% and tailoring the randomized heuristics to the instances at hand.
+Examples include learning to generate priority orderings for prioritized planning
+and to select subsets of agents
+and determine the stopping criterion for stochastic local search. 

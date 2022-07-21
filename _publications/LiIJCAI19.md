@@ -1,7 +1,8 @@
 ---
+author_profile: true
 title: "Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding"
 collection:
-permalink: /publications/LiAIJ21
+permalink: /publications/LiAIJ21/
 excerpt: 
 date: 2018-06-24
 venue: 'Artificial Intelligence (AIJ)'
