@@ -342,7 +342,7 @@ You can also find my articles on
 </pre></div> 
 
 ## 2020
-* [Multi-Directional Heuristic Search](https://jiaoyangli.me/publications/).     
+* [Multi-Directional Heuristic Search](https://jiaoyangli.me/publications/AtzmonIJCAI20).     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4062-4068, 2020.         
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18528/17671 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 121-122, 2020.                
@@ -357,7 +357,7 @@ You can also find my articles on
 }
 </pre></div>  
 
-* [Iterative-Deepening Conflict-Based Search](https://jiaoyangli.me/publications/).     
+* [Iterative-Deepening Conflict-Based Search](https://jiaoyangli.me/publications/BoyarskiIJCAI20).     
     Eli Boyarski, Ariel Felner, Daniel Harabor, Peter J. Stuckey, Liron Cohen, **Jiaoyang Li** and Sven Koenig.      
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4084-4090, 2020.            
     [[doi](https://www.ijcai.org/Proceedings/2020/0565.pdf)] [[code](https://github.com/eli-b/idcbs)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiIJCAI2020');">bibtex</a>]
@@ -371,7 +371,7 @@ You can also find my articles on
 }
 </pre></div>  
 
-* [New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding](https://jiaoyangli.me/publications/).        
+* [New Techniques for Pairwise Symmetry Breaking in Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiICAPS20).        
     **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 193-201, 2020.        
     A [short version](https://www.aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18534/17675 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
@@ -386,11 +386,14 @@ You can also find my articles on
 }
 </pre></div>  
 
-* [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/) (**Outstanding Student Paper**).     
+* [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangICAPS20) (**Outstanding Student Paper**).     
     Han Zhang, **Jiaoyang Li**, Pavel Surynek, Sven Koenig and T. K. Satish Kumar.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 323-332, 2020.                 
-    [[doi](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531)] [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
-<div id="bibtex-ZhangICAPS2020" style="display:none">
+    [[doi](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531)] 
+    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] 
+    [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)] 
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS20');">bibtex</a>]
+<div id="bibtex-ZhangICAPS20" style="display:none">
 <pre>@inproceedings{ZhangICAPS20,
   author    = {Han Zhang and Jiaoyang Li and Pavel Surynek and Sven Koenig and T. K. Satish Kumar},
   title     = {Multi-Agent Path Finding with Mutex Propagation},
@@ -400,13 +403,17 @@ You can also find my articles on
 }
 </pre></div>  
 
-* [Moving Agents in Formation in Congested Environments](https://jiaoyangli.me/publications/).     
+* [Moving Agents in Formation in Congested Environments](https://jiaoyangli.me/publications/LiAAMAS20formation).     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, pages 726-734, 2020.       
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18535/17676 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 131-132, 2020.       
-    [[doi](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf)] [[long talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]  [[short talk](https://www.youtube.com/watch?v=snTG2yL-dgI&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=35)] [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20a');">bibtex</a>]
-<div id="bibtex-LiAAMAS20a" style="display:none">
-<pre>@inproceedings{LiAAMAS20a,
+    [[doi](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf)] 
+    [[long talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]  
+    [[short talk](https://www.youtube.com/watch?v=snTG2yL-dgI&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=35)] 
+    [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20formation');">bibtex</a>]
+<div id="bibtex-LiAAMAS20formation" style="display:none">
+<pre>@inproceedings{LiAAMAS20formation,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
   title     = {Moving Agents in Formation in Congested Environments},
   booktitle = {Proceedings of the International Joint Conference on Autonomous Agents and Mult-Agent Systems (AAMAS)},
@@ -415,7 +422,7 @@ You can also find my articles on
 }
 </pre></div>     
 
-* [Model AI Assignments 2020](https://jiaoyangli.me/publications/).                                     
+* [Model AI Assignments 2020](https://jiaoyangli.me/publications/EAAI20).                                     
     Todd W.Neller, Stephen Keeley, Michael Guerzhoy, Wolfgang Hoenig, **Jiaoyang Li**, Sven Koenig, Ameet Soni, Krista Thomason, Lisa Zhang, Bibin Sebatian, Cinjon Resnick, Avital Oliver, Surya Bhupatiraju, Kumar Krishna Agrawal, James Allingham, Sejong Yoon, Johnathan Chen, Tom Larsen, Marion Neumann, Narges Norouzi, Ryan Hausen and Matthew Evett.  
     <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, pages 13509-13511, 2020.          
     [[doi](https://aaai.org/ojs/index.php/AAAI/article/view/7072/6926)] [[website](http://modelai.gettysburg.edu/2020/mapf/)]   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-EAAI20');">bibtex</a>]
@@ -429,7 +436,7 @@ You can also find my articles on
 }
 </pre></div>    
 
-* [Mutex Propagation for SAT-based Multi-Agent Path Finding](https://jiaoyangli.me/publications/).                                     
+* [Mutex Propagation for SAT-based Multi-Agent Path Finding](https://jiaoyangli.me/publications/SurynekPRIMA20).                                     
     Pavel Surynek, **Jiaoyang Li**, Han Zhang, T. K. Satish Kumar and Sven Koenig.
     <i>International Conference on Principles and Practice of Multi-Agent Systems (**PRIMA**)</i>, 2020.          
     [[pdf](https://jiaoyang-li.github.io/files/2020-PRIMA.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SurynekPRIMA20');">bibtex</a>]
