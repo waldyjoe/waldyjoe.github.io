@@ -245,12 +245,14 @@ You can also find my articles on
 }
 </pre></div>  
 
-* [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/).                     
+* [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiAAAI21eecbs).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12353-12362, 2021.        
-    [[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17466)] [[code](https://github.com/Jiaoyang-Li/EECBS)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21a');">bibtex</a>]
-<div id="bibtex-LiAAAI21a" style="display:none">
-<pre>@inproceedings{LiAAAI21a,
+    [[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17466)] 
+    [[code](https://github.com/Jiaoyang-Li/EECBS)] 
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21eecbs');">bibtex</a>]
+<div id="bibtex-LiAAAI21eecbs" style="display:none">
+<pre>@inproceedings{LiAAAI21eecbs,
   author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
   title     = { {EECBS}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
@@ -259,13 +261,17 @@ You can also find my articles on
 }
 </pre></div>   
 
-* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](https://jiaoyangli.me/publications/).                      
+* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](https://jiaoyangli.me/publications/LiAAAI21lifelong).                      
     **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.           
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11272-11281, 2021.        
     A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
-    [[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17344)] [[code](https://github.com/Jiaoyang-Li/RHCR)] [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21b');">bibtex</a>]
-<div id="bibtex-LiAAAI21b" style="display:none">
-<pre>@inproceedings{LiAAAI21b,
+    [[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17344)] 
+    [[code](https://github.com/Jiaoyang-Li/RHCR)]
+    [[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  
+    [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] 
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21lifelong');">bibtex</a>]
+<div id="bibtex-LiAAAI21lifelong" style="display:none">
+<pre>@inproceedings{LiAAAI21lifelong,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
@@ -274,7 +280,7 @@ You can also find my articles on
 }
 </pre></div>   
 
-* [Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances](https://jiaoyangli.me/publications/).               
+* [Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances](https://jiaoyangli.me/publications/ChenAAAI21).               
     Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11237-11245, 2021.        
     [[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17340)] [[code](https://github.com/jkchengh/s2m2)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21');">bibtex</a>]
@@ -288,12 +294,14 @@ You can also find my articles on
 }
 </pre></div>   
 
-* [Symmetry Breaking for k-Robust Multi-Agent Path Finding](https://jiaoyangli.me/publications/).          
+* [Symmetry Breaking for k-Robust Multi-Agent Path Finding](https://jiaoyangli.me/publications/ChenAAAI21symmetry).          
     Zhe Chen, Daniel Harabor, **Jiaoyang Li** and Peter J. Stuckey.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12267-12274, 2021.        
-    [[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17456)] [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21b');">bibtex</a>]
-<div id="bibtex-ChenAAAI21b" style="display:none">
-<pre>@inproceedings{ChenAAAI21b,
+    [[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17456)] 
+    [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)] 
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21symmetry');">bibtex</a>]
+<div id="bibtex-ChenAAAI21symmetry" style="display:none">
+<pre>@inproceedings{ChenAAAI21symmetry,
   author    = {Zhe Chen and Daniel Harabor and Jiaoyang Li and Peter J. Stuckey},
   title     = {Symmetry Breaking for k-Robust Multi-Agent Path Finding},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
@@ -302,11 +310,12 @@ You can also find my articles on
 }
 </pre></div> 
 
-* [A Hierarchical Approach to Multi-Agent Path Finding](https://jiaoyangli.me/publications/).          
+* [A Hierarchical Approach to Multi-Agent Path Finding](https://jiaoyangli.me/publications/ZhangHPLAN21).          
     Han Zhang, Mingze Yao, Ziang Liu, **Jiaoyang Li**, Lucas Terr, Shao-Hung Chan, T. K. Satish Kumar and Sven Koenig.          
     <i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.        
     A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.         
-    [[pdf](https://jiaoyang-li.github.io/files/2021-HPLAN.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangHPLAN21');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2021-HPLAN.pdf)] 
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangHPLAN21');">bibtex</a>]
 <div id="bibtex-ZhangHPLAN21" style="display:none">
 <pre>@inproceedings{ZhangHPLAN21,
   author    = {Han Zhang and Mingze Yao and Ziang Liu and Jiaoyang Li and Lucas Terr and Shao-Hung Chan and T. K. Satish Kumar and Sven Koenig},
@@ -316,7 +325,7 @@ You can also find my articles on
 }
 </pre></div> 
 
-* [Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World](https://jiaoyangli.me/publications/).          
+* [Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World](https://jiaoyangli.me/publications/Laurent21).          
     Florian Laurent, Manuel Schneider, Christian Scheller, Jeremy Watson, **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chan, Konstantin Makhnev, Oleg Svidchenko, Vladimir Egorov, Dmitry Ivanov, Aleksei Shpilman, Evgenija Spirovska, Oliver Tanevski, Aleksandar Nikov, Ramon Grunder, David Galevski, Jakov Mitrovski, Guillaume Sartoretti, Zhiyao Luo, Mehul Damani, Nilabha Bhattacharya, Shivam Agarwal, Adrian Egli, Erik Nygren and Sharada Mohanty.          
     <i>NeurIPS 2020 Competition and Demonstration Track</i>, PMLR, volume 133, pages 275-301, 2021.                
     [[doi](http://proceedings.mlr.press/v133/laurent21a.html)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Laurent21');">bibtex</a>]
