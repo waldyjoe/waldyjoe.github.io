@@ -10,10 +10,10 @@ author_profile: true
 **Jiaoyang Li**, Andrew Tinka, Scott Kiesel, Joseph W. Durham, T. K. Satish Kumar and Sven Koenig.           
 <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11272-11281, 2021.        
 A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1898-1900, 2020.            
-[[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17344)] 
-[[code](https://github.com/Jiaoyang-Li/RHCR)] 
-[[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  
-[[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")] 
+[[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17344)]
+[[code](https://github.com/Jiaoyang-Li/RHCR)]
+[[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]
+[[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21lifelong');">bibtex</a>]
 <div id="bibtex-LiAAAI21lifelong" style="display:none">
 <pre>@inproceedings{LiAAAI21lifelong,
