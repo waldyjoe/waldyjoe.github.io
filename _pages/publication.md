@@ -58,7 +58,7 @@ You can also find my articles on
 <div id="bibtex-VaramballySoCS22" style="display:none">
 <pre>@inproceedings{VaramballySoCS22,
   author    = {Sumanth Varambally and Jiaoyang Li and Sven Koenig},
-  title     = {Which {MAPF} Model Works Best for Automated Warehousing?},
+  title     = {Which \{MAPF\} Model Works Best for Automated Warehousing?},
   booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
   year      = {2022}
 }
@@ -137,7 +137,7 @@ You can also find my articles on
 <div id="bibtex-LiAAAI22" style="display:none">
 <pre>@inproceedings{LiAAAI22,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-  title     = {{MAPF-LNS2}: Repairing Multi-Agent Path Finding via Large Neighborhood Search},
+  title     = { {MAPF-LNS2}: Repairing Multi-Agent Path Finding via Large Neighborhood Search},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   year      = {2022}
 }
