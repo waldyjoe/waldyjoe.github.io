@@ -85,7 +85,7 @@ Success rate is the percentage of MAPF instances solved within a runtime limit o
 
 
 ## Symmetry Reasoning for MAPF
-<img src="images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;"  alt="symmetry"/>
+<img src="https://jiaoyangli.me/images/rectangle.png" title="rectangle symmetry" style="float:left;width:250pt;padding-right:10px;"  alt="symmetry"/>
 One of the reasons MAPF problems are so hard to solve is due to a phenomena called pairwise path symmetry, which occurs when two agents have many equivalent paths, all of which appear promising, but which are
 pairwise incompatible because they result in a collision. 
 The symmetry arises commonly in practice and can produce an exponential explosion in the space of possible collision resolutions, leading to unacceptable runtimes for currently state-of-the-art MAPF algorithms that employ heuristic search, such as Conflict-based Search (CBS).
@@ -105,7 +105,7 @@ Relevant publications:
 
 
 ## Heuristics for MAPF with Conflict-Based Search
-<img src="images/heuristics.png" title="heuristic graph" style="float:left;width:250pt;padding-right:10px;" alt="heuristics"/>
+<img src="https://jiaoyangli.me/images/heuristics.png" title="heuristic graph" style="float:left;width:250pt;padding-right:10px;" alt="heuristics"/>
 Conflict-Based Search (CBS) and its enhancements are among the strongest algorithms for MAPF. 
 However, existing variants of CBS do not use any heuristics that estimate future work.
 Introducing admissibles heuristics to guide the high-level search of CBS can significantly reduce the size of the CBS search tree and its runtime.
@@ -123,7 +123,7 @@ Relevant publications:
 
 
 ## Large Neighborhood Search for MAPF
-<img src="../images/lns-framework.png" title="LNS framework" style="float:left;width:300pt;padding-right:10px;" alt="heuristics"/>
+<img src="https://jiaoyangli.me/images/lns-framework.png" title="LNS framework" style="float:left;width:300pt;padding-right:10px;" alt="heuristics"/>
 Sometimes, we are interested in a good solution but not necessarily a proof of how good the solution is. 
 Since providing optimality proofs is computationally expensive, 
 We develop stochastic local search algorithms 

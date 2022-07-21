@@ -1,15 +1,21 @@
 ---
-author_profile: true
+layout: archive
 title: "MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search"
-collection:
 permalink: /publications/LiAAAI22/
-excerpt: 
-date: 2018-06-24
-venue: 'AAAI Conference on Artificial Intelligence (**AAAI**)'
-paperurl:
-citation: 'MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search. (2021). &quot;
-citation: 'MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search.&quot; 
-In <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.'
+author_profile: true
 ---
 
-[Download paper here](https://jiaoyang-li.github.io/files/2022-AAAI-1.pdf)
+{% include base_path %}
+
+[MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyang-li.github.io/files/2022-AAAI-1.pdf).     
+    **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.  
+    [[code](https://github.com/Jiaoyang-Li/MAPF-LNS2)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI22');">bibtex</a>]
+<div id="bibtex-LiAAAI22" style="display:none">
+<pre>@inproceedings{LiAAAI22,
+  author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
+  title     = {MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search},
+  booktitle = {Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI)},
+  year      = {2022}
+}
+</pre></div>  
