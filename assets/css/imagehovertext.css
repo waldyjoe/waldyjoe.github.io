@@ -136,3 +136,15 @@
   /*justify-content: space-around;*/
   /*justify-content: flex-start;*/
 }
+
+.container{flex-grow:1;margin:0 auto;position:relative;width:auto}
+.tile.is-child{margin:0!important}
+.tile.is-parent{padding:.75rem}
+.tile.is-ancestor{margin-left:-.75rem;margin-right:-.75rem;margin-top:-.75rem}
+.card {
+    background-color:#fff;
+    box-shadow:0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02);
+    color:#4a4a4a;
+    max-width:100%;
+    position:relative
+}
