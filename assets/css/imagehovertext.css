@@ -63,43 +63,6 @@
     transform: translateY(0);
 }
 
-.content {
-  margin-left:0.5em;
-  margin-right:0.5em;
-}
-
-.section-heading {
-  text-align: center;
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
-.paper .title {
-  font-size: 1.0rem;
-  margin-top: 0.0em;
-  margin-bottom: 0.5em;
-}
-
-.paper .author {
-  font-size: 0.9rem;
-  margin-top: 0.5em;
-  margin-bottom: 0.0em;
-}
-
-.paper .venue {
-  font-size: 0.9rem;
-  font-style: italic;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
-.paper .note {
-  font-size: 0.8rem;
-  font-style: italic;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
 .tile .card {
     display:flex;
     flex-direction: column;
@@ -107,11 +70,6 @@
     /*max-width: 25rem;*/
     /*flex-grow: 0;*/
     /*justify-content: flex-start;*/
-}
-.tile .card-footer {
-    margin-top: auto;
-    flex-wrap: wrap;
-    /*font-size: 1.25rem;*/
 }
 
 .tile .card .card-content .columns {

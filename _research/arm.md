@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Multi-Arm Assembly
 <p style="text-align:center;">
     <img src="https://jiaoyangli.me/images/lego-2x.gif" title="robotic arms" width="200pt" />
     <img src="https://jiaoyangli.me/images/carhouse-2x.gif" title="robotic arms" width="200pt" />

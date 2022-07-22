@@ -29,10 +29,10 @@ The diagram below summarizes the empirical performance of some of our MAPF algor
 in comparison to some baseline MAPF algorithms (dashed lines).
 Success rate is the percentage of MAPF instances solved within a runtime limit of one minute.
 <p style="text-align:center;">
-<img src="https://jiaoyangli.me/images/benchmark.png" title="mapf demo" width="500pt" alt="benchmark"/>
+<img src="https://jiaoyangli.me/images/benchmark.png" title="mapf demo" width="800pt" alt="benchmark"/>
 </p>
 <details>
-    <summary>Show the details of this empirical result.</summary>
+    <summary>Show more details of this empirical result.</summary>
     The experiments were conducted on AWS EC2 instances “m4.large” with a runtime of 1 minute. 
     The MAPF instances are the 25 instances in the ``random'' scenario on map ``Paris_1_256'' 
     from <a href="https://movingai.com/benchmarks/mapf/index.html">the MAPF benchmark suite</a>. 
@@ -143,7 +143,7 @@ Relevant publications:
 
 
 ## Large Neighborhood Search for MAPF
-<img src="https://jiaoyangli.me/images/lns-framework.png" title="LNS framework" style="float:left;width:300pt;padding-right:10px;" alt="heuristics"/>
+<img src="https://jiaoyangli.me/images/lns-framework.png" title="LNS framework" style="float:left;width:500pt;padding-right:10px;" alt="heuristics"/>
 Sometimes, we are interested in a good solution but not necessarily a proof of how good the solution is. 
 Since providing optimality proofs is computationally expensive, 
 We develop Large Neighbor Search (LNS) algorithms 
@@ -172,3 +172,6 @@ and determine the stopping criterion for LNS.
 Relevant publications: 
 [1] [ML-guided LNS for MAPF](https://jiaoyangli.me/publications/HuangAAAI22), and
 [5] [ML-guided prioritized planning for MAPF](https://jiaoyangli.me/publications/ZhangSoCS22).
+
+
+<!-- Other methods: hierarchical mapf, incremental CBS, flex distribution -->
