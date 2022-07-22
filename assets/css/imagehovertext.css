@@ -72,21 +72,10 @@
     /*justify-content: flex-start;*/
 }
 
-.tile .card .card-content .columns {
-  margin-top: 0.0em;
-  margin-bottom: 0.0em;
-}
-
 /*.card .card-image {
   text-align: center;
 }
 */
-.tile .card .card-image .image img {
-  display: block;
-  max-height:100px;
-  width: auto;
-  height: auto;
-}
 
 .is-flex-wrap {
   flex-wrap: wrap;
