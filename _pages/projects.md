@@ -44,13 +44,7 @@ and traffic management for airports, railway networks, and road intersections wi
                 <p class="image__title"> Coordination of Large Robot Teams in Automated Warehouses </p>
                 <div class="image">
                     <a href="https://jiaoyangli.me/research/warehouse/">
-                        <!--<video width="320" autoplay loop>
-                            <source src="../images/Single+_800agents-8x.mp4" type="video/mp4">
-                        </video>
-                        <video width="320" autoplay loop>
-                            <source src="../images/PBS_w=10_800agents-8x.mp4" type="video/mp4">
-                        </video>-->
-                        <img class="image__img" src="../images/warehouse-5x.gif" alt="MAPF">
+                        <img class="image__img" src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="MAPF">
                         <div class="image__overlay image__overlay--blur">
                             <p class="image__description">
                                 Combing task planning, path planning, and execution

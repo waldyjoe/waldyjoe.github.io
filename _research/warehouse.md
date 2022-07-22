@@ -8,31 +8,32 @@ author_profile: true
 {% include base_path %}
 
 <!--
-<img src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" title="warehouse demo" style="float:left;width:250pt;padding-right:10px;" />
+<img src="https://jiaoyangli.me/images/PBS_w=10_800agents-8x.mp4" title="warehouse demo" style="float:left;width:250pt;padding-right:10px;" />
 <figure class="video_container">
   <video width="320" autoplay loop>
-    <source src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" type="video/mp4">
-    <source src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" type="video/mp4">
+    <source src="https://jiaoyangli.me/images/Single+_800agents-8x.mp4" type="video/mp4">
+    <source src="https://jiaoyangli.me/images/PBS_w=10_800agents-8x.mp4" type="video/mp4">
   </video>
 </figure>
 <video width="320" height="240" controls>
-  <source src="https://jiaoyang-li.github.io/images/warehouse.mkv" type="video/mkv">
+  <source src="https://jiaoyangli.me/images/images/warehouse.mkv" type="video/mkv">
 </video>
 --> 
 
+(**This page is still under construction.**)
 
 
- <div id="wrapper" align="center" style="float:left;width:250pt;padding-right:10px;"> 
-     <video id="single-agent" width="300pt"  autoplay loop controls> 
-         <source type="video/mp4" src="https://jiaoyang-li.github.io/images/Single+_800agents-8x.mp4" /> 
-     </video>
+<div id="wrapper" align="center" style="float:left;width:250pt;padding-right:10px;"> 
+    <video id="single-agent" width="300pt"  autoplay loop controls> 
+        <source type="video/mp4" src="https://jiaoyangli.me/images/Single+_800agents-8x.mp4" /> 
+    </video>
     <figcaption>Traditional single-agent solver</figcaption>
-     <video id="multi-agent" width="300pt"  autoplay loop controls> 
-         <source type="video/mp4" src="https://jiaoyang-li.github.io/images/PBS_w=10_800agents-8x.mp4" /> 
-     </video>
-     <figcaption>Our MAPF solver</figcaption>
-     <div class="clear"></div> 
- </div>
+    <video id="multi-agent" width="300pt"  autoplay loop controls> 
+        <source type="video/mp4" src="https://jiaoyangli.me/images/PBS_w=10_800agents-8x.mp4" /> 
+    </video>
+    <figcaption>Our MAPF solver</figcaption>
+    <div class="clear"></div> 
+</div>
 Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. However, MAPF is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. 
 There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.               
 

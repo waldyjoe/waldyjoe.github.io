@@ -13,12 +13,15 @@ Han Zhang, Pavel Surynek, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.
 [[doi](https://doi.org/10.1016/j.artint.2022.103766)]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
-<pre>@article{ZhangAIJ22,
-  author    = {Han Zhang and Pavel Surynek and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
-  title     = {Multi-Agent Path Finding with Mutex Propagation},
-  journal   = {Artificial Intelligence},
-  pages     = {103766},
-  year      = {2022},
-  doi       = {https://doi.org/10.1016/j.artint.2022.103766},
-}
+<pre>
+    '''
+    @article{ZhangAIJ22,
+      author    = {Han Zhang and Pavel Surynek and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+      title     = {Multi-Agent Path Finding with Mutex Propagation},
+      journal   = {Artificial Intelligence},
+      pages     = {103766},
+      year      = {2022},
+      doi       = {https://doi.org/10.1016/j.artint.2022.103766},
+    }
+    '''
 </pre></div>  
