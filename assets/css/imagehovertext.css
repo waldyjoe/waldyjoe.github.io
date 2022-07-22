@@ -84,7 +84,7 @@
   /*justify-content: flex-start;*/
 }
 
-.container{flex-grow:1;margin:0 auto;position:relative;width:auto}
+/*.container{flex-grow:1;margin:0 auto;position:relative;width:auto}*/
 .tile.is-child{margin:0!important}
 .tile.is-parent{padding:.75rem}
 .tile.is-ancestor{margin-left:-.75rem;margin-right:-.75rem;margin-top:-.75rem}
