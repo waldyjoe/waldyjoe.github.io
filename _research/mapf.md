@@ -74,7 +74,7 @@ Success rate is the percentage of MAPF instances solved within a runtime limit o
         Check out the code <a href="https://github.com/Jiaoyang-Li/CBSH2-RTC">here</a>.  
     </li>
     </ul>
-    In terms of solultion quality of suboptimal algorithms, PBS find very close-to-optimal solutions. 
+    In terms of solution quality of suboptimal algorithms, PBS find very close-to-optimal solutions. 
     For instance, for 400 agents, PBS finds solutions 0.17% better than 
         EECBS(1.01) (which finds solutions provably at most 1% worse than optimal) on average. 
     For 800 agents, PBS finds solutions 0.31% better than EECBS(1.02) on average.
@@ -130,7 +130,7 @@ Introducing more informed but potentially inadmissible heuristics to guide the h
 Highlights: 
 The addition of the admissible heuristics proposed in [2] can 
 reduce the number of expanded nodes and runtime of CBS by up to **a factor of 50** and 
-thus an handle up to **3 times more agents** than possible before within one minute.
+thus can handle up to **3 times more agents** than possible before within one minute.
 The bounded-suboptimal MAPF algorithm proposed in [4] can 
 find solutions that are **provably at most 2% worse than optimal** with **1,000 agents** in one minute, 
 while, on the same map, state-of-the-art optimal algorithms can handle at most 200 agents.             
@@ -151,7 +151,7 @@ that repeatedly replan paths for subsets of agents via prioritized planning.
 They give up optimality guarantees 
 but find near-optimal solutions for thousands of agents in practice, 
 solve 80\% of the most challenging instances in the MAPF benchmark suite 
-(while previously best suboptimal algorithms solve at most 65\%), and 
+(while previously the best suboptimal algorithms solve at most 65\%), and 
 improve the solution quality by up to 36 times. 
 
 Relevant publications: 

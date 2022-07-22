@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 <p style="text-align:center;">
-    <img src="https://jiaoyangli.me/images/lego-2x.gif" title="robotic arms" width="200pt" />
-    <img src="https://jiaoyangli.me/images/carhouse-2x.gif" title="robotic arms" width="200pt" />
-    <img src="https://jiaoyangli.me/images/bar.gif" title="robotic arms" width="200pt" />
-    <img src="https://jiaoyangli.me/images/vault-2x.gif" title="robotic arms" width="200pt" />
+    <img src="https://jiaoyangli.me/images/lego-2x.gif" width="200pt" alt="Lego"/>
+    <img src="https://jiaoyangli.me/images/carhouse-2x.gif" width="200pt" alt="Cardhouse"/>
+    <img src="https://jiaoyangli.me/images/bar.gif" width="200pt" alt="Bar"/>
+    <img src="https://jiaoyangli.me/images/vault-2x.gif" width="200pt" alt="Vault"/>
 </p>
 
 Multi-robot assembly systems are becoming increasingly appealing in manufacturing 

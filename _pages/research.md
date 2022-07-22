@@ -44,16 +44,19 @@ Relevant publications:
 <img src="/images/heuristics.png" title="heuristic graph" style="float:left;width:250pt;padding-right:10px;" />
 Conflict-Based Search (CBS) and its enhancements are among the strongest algorithms for MAPF. 
 However, existing variants of CBS do not use any heuristics that estimate future work.
-Introducing admissibles heuristics to guide the high-level search of CBS can significantly reduce the size of the CBS search tree and its runtime.
-Introducing more informed but potentially inadmissible heuritics to guide the high-level search of bounded-suboptimal CBS with Explicit Estimation Search can further reduce the size of its search tree and its runtime.           
+Introducing admissible heuristics to guide the high-level search of CBS can significantly reduce the size of the CBS search tree and its runtime.
+Introducing more informed but potentially inadmissible heuristic to guide the high-level search of bounded-suboptimal CBS with Explicit Estimation Search can further reduce the size of its search tree and its runtime.           
 
 Highlights: 
-The addition of the admissible heuristics proposed in [2] can reduce the number of expanded nodes and runtime of CBS by up to **a factor of 50** and thus an handle up to **3 times more agents** than possible before within one minute.
-The bounded-suboptimal MAPF algorithm proposed in [3] can find solutions that are **provably at most 2% worse than optimal** with **1,000 agents** in one minute, while, on the
-same map, state-of-the-art optimal algorithms can handle at most 200 agents.             
+The addition of the admissible heuristics proposed in [2] 
+can reduce the number of expanded nodes and runtime of CBS by up to **a factor of 50** 
+and thus can handle up to **3 times more agents** than possible before within one minute.
+The bounded-suboptimal MAPF algorithm proposed in [3] can find solutions 
+that are **provably at most 2% worse than optimal** with **1,000 agents** in one minute, 
+while, on the same map, state-of-the-art optimal algorithms can handle at most 200 agents.             
 
 Relevant publications: 
-[1] [CG heuristicy for CBS](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "ICAPS 2018"), 
+[1] [CG heuristic for CBS](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965 "ICAPS 2018"), 
 [2] [DG and WDG heuristics for CBS](https://www.ijcai.org/proceedings/2019/0063.pdf "IJCAI 2019"), and
 [3] [inadmissible heuristic for bounded-suboptimal CBS](https://arxiv.org/abs/2010.01367 "AAAI 2021").
 
@@ -68,7 +71,7 @@ Relevant publications:
   </video>
 </figure>
 <video width="320" height="240" controls>
-  <source src="ttps://jiaoyang-li.github.io/images/warehouse.mkv" type="video/mkv">
+  <source src="https://jiaoyang-li.github.io/images/warehouse.mkv" type="video/mkv">
 </video>
 --> 
 
@@ -85,10 +88,11 @@ Relevant publications:
      <figcaption>Our MAPF solver</figcaption>
      <div class="clear"></div> 
  </div>
-Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. However, MAPF is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.               
+Today, in automated warehouses, mobile robots already autonomously move inventory pods or flat packages from one location to another. Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. However, MAPF is only the “one-shot” variant of the actual problem in many applications. Typically, after an agent reaches its goal location, it does not stop and wait there forever. Instead, it is assigned a new goal location and required to keep moving, which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. 
+There are two challenges in this problem, namely how to assign tasks to agents and how to decompose the lifelong problem to one-shot MAPF problems.               
 
 Highlights:
-The RHCR algorithm propoased in [3] can produce high-quality solutions for **1,000 agents** (= **38.9% of the empty cells** on the map) for simulated warehouse instances. The left videos show the performance of 800 agents on the same map with tradional single-agent solver and RHCR.
+The RHCR algorithm proposed in [3] can produce high-quality solutions for **1,000 agents** (= **38.9% of the empty cells** on the map) for simulated warehouse instances. The left videos show the performance of 800 agents on the same map with traditional single-agent solver and RHCR.
 
 Relevant publications: 
 [1] [MAPF with online task assignment](https://dl.acm.org/citation.cfm?id=3091243 "AAMAS 2017"), 
@@ -99,15 +103,15 @@ Relevant publications:
 ## MAPF for Traffic Management
 <img src="/images/flatland.gif" title="flatland demo" style="float:left;width:250pt;padding-right:10px;" />
 
-MAPF can also be used for traffic manangement for autonomous vehicle, trains, or airplanes. This can reduce traffic congestion, energy consumption, and air pollution. The main challenges of applying MAPF to traffic management systems are two-fold. First, the systems are neither perfect nor deterministic. For example, the environment might cause unexpected disturbances, the communication network might not be stable, the agents might have incomplete knowledge of the environment, and the agents might not be able to execute their deterministic MAPF plans perfectly. We need to take such uncertainties into account during path planning and generate robust plans. Second, the sysmtem needs to operate thousands of (or even more) agents in real-time, so extremely efficient MAPF algorithms are required.          
+MAPF can also be used for traffic management for autonomous vehicle, trains, or airplanes. This can reduce traffic congestion, energy consumption, and air pollution. The main challenges of applying MAPF to traffic management systems are two-fold. First, the systems are neither perfect nor deterministic. For example, the environment might cause unexpected disturbances, the communication network might not be stable, the agents might have incomplete knowledge of the environment, and the agents might not be able to execute their deterministic MAPF plans perfectly. We need to take such uncertainties into account during path planning and generate robust plans. Second, the system needs to operate thousands of (or even more) agents in real-time, so extremely efficient MAPF algorithms are required.          
 
 Highlights:
 The MAPF-based software we developed for the NeurIPS'20 Flatland Challenge in [1] can plan collision-free paths for **more than 3000 agents** within a few minutes and
-deliver deadlock-free actions **in real-time** during execution that are robust to unexpexted delays. It outperformed all other solutions, including all reinforcement learning solutions, to **win the overall first place** in both rounds. A comparison of our solution with top reinforcement learning solutions can be found in [2].
+deliver deadlock-free actions **in real-time** during execution that are robust to unexpected delays. It outperformed all other solutions, including all reinforcement learning solutions, to **win the overall first place** in both rounds. A comparison of our solution with top reinforcement learning solutions can be found in [2].
 
 Relevant publications: 
-[1] [railway planing and replaning](https://jiaoyangli.me/files/2021-ICAPS.pdf "ICAPS 2021") (**winner of the NeurIPS'20 Flatland Challenge**),
-[2] [railway planing and replaning with MAPF and MARL](http://proceedings.mlr.press/v133/laurent21a.html), and
+[1] [railway planing and replanning](https://jiaoyangli.me/files/2021-ICAPS.pdf "ICAPS 2021") (**winner of the NeurIPS'20 Flatland Challenge**),
+[2] [railway planing and replanning with MAPF and MARL](http://proceedings.mlr.press/v133/laurent21a.html), and
 [3] [airport taxiway planning](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930 "AIAA 2019").         
 
 ## MAPF for Heterogeneous and Nonholonomic Robots
@@ -117,7 +121,7 @@ Relevant publications:
   <img src="/images/bar.gif" title="robotic arms" style="width:250pt" />
   <figcaption>Multi-arm assembly</figcaption>
 </div>
-Agents in MAPF are unrealistic and homogeneous, in the sense that each agent occupies exactly one vertex at any timestep and traverses exactly one edge or wait at its current vertex from one timestep to the next one. In the real world, however, agents might be of different shapes and have different kinematic constraints. Moreover, agents sometimes are required to move to their goal locations while maintaining a desired formation (i.e., spatial pattern), in order to reduce the system cost, increase the robustness and efficiency of the system. Notably, in addition to the traditional mobile robots/drones that naviage in a 2D/3D space, MAPF can be also used for planning trajectories for robotic arms! See the demo on the left (the work is under review at RAL/ICRA2022).
+Agents in MAPF are unrealistic and homogeneous, in the sense that each agent occupies exactly one vertex at any timestep and traverses exactly one edge or wait at its current vertex from one timestep to the next one. In the real world, however, agents might be of different shapes and have different kinematic constraints. Moreover, agents sometimes are required to move to their goal locations while maintaining a desired formation (i.e., spatial pattern), in order to reduce the system cost, increase the robustness and efficiency of the system. Notably, in addition to the traditional mobile robots/drones that navigate in a 2D/3D space, MAPF can be also used for planning trajectories for robotic arms! See the demo on the left (the work is under review at RAL/ICRA2022).
 
 
 Relevant publications: 

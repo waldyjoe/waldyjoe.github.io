@@ -11,15 +11,15 @@ redirect_from:
 
 I am an assistant professor in [the Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
 I received my Ph.D. degree in Computer Science at [University of Southern California](https://www.usc.edu/) in 2022, advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
-I received my B.Eng degree from Department of Automation, School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
+I received my B.Eng. degree from Department of Automation, School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
 I am interested in a variety of topics related to Artificial Intelligence and optimization, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
 You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 
 # News   
 * \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
-* \[2022/05\] Orgnazing AAMAS-22 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas22.github.io/). 
-* \[2022/05\] Orgnazing AAMAS-22 tutorial on [Recent Advances in Multi-Agent Path Finding](http://mapf.info/index.php/Tutorial/AAMAS-22). 
+* \[2022/05\] Organizing AAMAS-22 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas22.github.io/). 
+* \[2022/05\] Organizing AAMAS-22 tutorial on [Recent Advances in Multi-Agent Path Finding](http://mapf.info/index.php/Tutorial/AAMAS-22). 
 * \[2022/02\] 4 papers accepted to [SoCS 2022](https://sites.google.com/unibs.it/socs2022). 
 * \[2022/02\] 1 paper accepted to [ICRA 2022](https://www.icra2022.org/). 
 * \[2021/12\] Our paper on MAPF with precedence constraints was accepted to [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/). 
@@ -43,7 +43,7 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
       [2021.02] I gave 2 virtual talks on our EECBS paper and RHCR paper at <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>.
     </li>
     <li>
-      [2020.12] Our team "An_Old_Driver" won both <a href="https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465">Round 1</a> and <a href="https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010">Round 2</a> of the <a href="https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge">2020 Flatland Challenge</a>, a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competation track.
+      [2020.12] Our team "An_Old_Driver" won both <a href="https://discourse.aicrowd.com/t/round-1-has-finished-round-2-is-starting-soon/3465">Round 1</a> and <a href="https://discourse.aicrowd.com/t/neurips-2020-flatland-winners/4010">Round 2</a> of the <a href="https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge">2020 Flatland Challenge</a>, a rail scheduling competition. I gave a virtual talk at the NeurIPS 2020 competition track.
     </li>
     <li>
       [2020.12] 4 papers accepted to <a href="https://aaai.org/Conferences/AAAI-21/"> AAAI 2021</a>.
@@ -58,7 +58,7 @@ You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
       [2020.05] <a href="https://underline.io/speakers/307-jiaoyang-li"> 2 virtual talks</a> at <a href="https://aamas2020.conference.auckland.ac.nz/"> AAMAS 2020</a>.
     </li>
     <li>
-      [2020.04] Our paper "Multi-Agent Path Finding with Mutex Propogation" received the outstanding student paper award at <a href="https://icaps20.icaps-conference.org/program/awards/"> ICAPS 2020</a>.
+      [2020.04] Our paper "Multi-Agent Path Finding with Mutex Propagation" received the outstanding student paper award at <a href="https://icaps20.icaps-conference.org/program/awards/"> ICAPS 2020</a>.
     </li>
     <li>
       [2020.04] 2 papers accepted to <a href="https://www.ijcai20.org/"> IJCAI 2020</a>.
