@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Drone Swarms Coordination"
-permalink: /research/mapf/
+title: "MAPF Generalizations for Heterogeneous and Nonholonomic Robots"
+permalink: /research/drones/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## MAPF for Heterogeneous and Nonholonomic Robots
 <div id="wrapper" align="center" style="float:left;width:150pt;padding-right:10px;"> 
   <img src="/images/arena.gif" title="mobile robots" style="width:250pt" />
   <figcaption>Mobile robot team</figcaption>
