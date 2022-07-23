@@ -28,21 +28,15 @@ and traffic management for airports, railway networks, and road intersections wi
     <div class="tile is-ancestor is-flex-wrap">
         <!-- MAPF -->
         <div class="tile is-parent">
-            <div class="tile is-child card">
-                <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
-                <div class="image">
-                    <a href="https://jiaoyangli.me/research/mapf/">
-                        <img class="image__img" src="../images/mapf-demo.gif" alt="MAPF">
-                        <div class="image__overlay image__overlay--blur">
-                            <p class="image__description">
-                                Developing principled algorithms to solve challenging MAPF instances
-                                via a variety of AI and optimization technologies, such as
-                                constraint reasoning, heuristic search, stochastic local search, and machine learning.
-                            </p>
-                        </div>
-                    </a>
+            <a href="https://jiaoyangli.me/research/mapf/">
+                <div class="tile is-child card">
+                    <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
+                    <img src="../images/mapf-demo.gif" alt="MAPF" style="float:left;width:250pt;padding-right:10px;" />
+                    We developing principled algorithms to solve challenging MAPF instances 
+                    via a variety of AI and optimization technologies, such as
+                    constraint reasoning, heuristic search, stochastic local search, and machine learning.
                 </div>
-            </div>
+            </a>
         </div>
         <!-- warehouse -->
         <div class="tile is-parent">
@@ -131,5 +125,3 @@ and traffic management for airports, railway networks, and road intersections wi
         </div>
     </div>
 </div>
-
-<br style = "line-height:5;">
