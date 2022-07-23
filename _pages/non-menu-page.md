@@ -81,7 +81,7 @@ and traffic management for airports, railway networks, and road intersections wi
     margin-left: 0.25em;
     margin-right: 0.25em;
     text-align: center;
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: normal
 }
 

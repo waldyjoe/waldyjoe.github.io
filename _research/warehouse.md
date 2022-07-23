@@ -84,3 +84,8 @@ how we overlap planning and execution to avoid robot idle time during replanning
 
 Relevant publications: 
 [1] [Different MAPF models for warehouse robots](https://jiaoyangli.me/publications/VaramballySoCS22).
+
+
+<div style="float: right;">
+    <button onclick="location.href='https://jiaoyangli.me/research/'" type="button">Back to the Research page</button>
+</div>
