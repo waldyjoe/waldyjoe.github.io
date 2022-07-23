@@ -39,9 +39,11 @@ and traffic management for airports, railway networks, and road intersections wi
 /*.container{flex-grow:1;margin:0 auto;position:relative;width:auto}*/
 .flex-child{
     padding:.75rem;
-    min-width:30%;
+    min-width:220px;
     flex: 1;
     margin-right: 20px;
+    margin-top: 20px;
+    align-items: center
 }
 
 .card {
@@ -60,24 +62,9 @@ and traffic management for airports, railway networks, and road intersections wi
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2);
 }
 
-/* Add some padding inside the card container 
-.card .container {
-  padding: 2px 16px;
-  flex-direction: column;
-  flex: 1;
-  display: flex;
-  text-align: left;
-}*/
-
-.is-flex-wrap {
-  flex-wrap: wrap;
-  /*flex-grow: 0;*/
-  /*justify-content: space-around;*/
-  /*justify-content: flex-start;*/
-}
-
 .image {
     align-self: center;
+    align-items: center;
     position: relative;
     width: 250px;
     margin-top: 1.0em;
@@ -97,9 +84,9 @@ and traffic management for airports, railway networks, and road intersections wi
 }
 
 .image__description {
-    font-size: 1em;
     margin-top: 0.25em;
     margin-left: 0.25em;
+    margin-right: 0.25em;
     text-align: center;
 }
 
@@ -109,9 +96,8 @@ and traffic management for airports, railway networks, and road intersections wi
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.5);
     color: #ffffff;
-    font-family: 'Quicksand', sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -137,49 +123,6 @@ and traffic management for airports, railway networks, and road intersections wi
     transform: translateY(0);
 }
 </style>
-<!--
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <a href="https://jiaoyangli.me/research/mapf/">
-        <b>Foundations of Multi-Agent Path Finding (MAPF)</b>
-      </a>
-      <img src="https://jiaoyangli.me/images/mapf-demo.gif" alt="MAPF" width="200pt">
-      <div class="container">
-        We develop principled algorithms to solve challenging MAPF instances 
-        via a variety of AI and optimization technologies, such as
-        constraint reasoning, heuristic search, stochastic local search, and machine learning.
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="MAPF" width="200pt">
-      <div class="container">
-        <a href="https://jiaoyangli.me/research/mapf/">
-        <b>Coordination of Large Robot Teams in Automated Warehouses</b>
-        </a>
-        We develop principled algorithms to solve challenging MAPF instances 
-        via a variety of AI and optimization technologies, such as
-        constraint reasoning, heuristic search, stochastic local search, and machine learning.
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img src="https://jiaoyangli.me/images/bar.gif" alt="MAPF" width="200pt">
-      <div class="container">
-        <a href="https://jiaoyangli.me/research/mapf/">
-        <b>Foundations of Multi-Agent Path Finding (MAPF)</b>
-        </a>
-        We develop principled algorithms to solve challenging MAPF instances 
-        via a variety of AI and optimization technologies, such as
-        constraint reasoning, heuristic search, stochastic local search, and machine learning.
-      </div>
-    </div>
-  </div>
-</div>
--->
 
 
 <div class="flex-container is-flex-wrap">
@@ -191,7 +134,7 @@ and traffic management for airports, railway networks, and road intersections wi
                 <img class="image__img" src="https://jiaoyangli.me/images/mapf-demo.gif" alt="MAPF" />
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
-                        We developing principled algorithms to solve challenging MAPF instances 
+                        We develop principled algorithms to solve challenging MAPF instances 
                         via a variety of AI and optimization technologies, such as
                         constraint reasoning, heuristic search, stochastic local search, and machine learning.
                     </p>
@@ -207,7 +150,7 @@ and traffic management for airports, railway networks, and road intersections wi
                 <img class="image__img" src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="warehouse">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
-                        Combing task planning, path planning, and execution
+                        We combine task planning, path planning, and execution
                         to coordinate thousands of mobile robots
                         to fulfill delivery tasks in automated warehouses.
                     </p>
@@ -215,63 +158,66 @@ and traffic management for airports, railway networks, and road intersections wi
             </a>
         </div>
     </div>
-        <!-- robotic arms -->
-            <div class="flex-child card">
-                <p class="image__title"> Multi-Arm Assembly </p>
-                <div class="image">
-                    <a href="https://jiaoyangli.me/research/arm/">
-                        <img class="image__img" src="../images/bar.gif" alt="Robotic Arms">
-                        <div class="image__overlay image__overlay--blur">
-                            <p class="image__description">
-                                Developing combined task and motion planning frameworks
-                                to jointly plan safe, low-cost plans
-                                for a team of robots to assemble complex spatial structures.
-                            </p>
-                        </div>
-                    </a>
+    <!-- robotic arms -->
+    <div class="flex-child card">
+        <p class="image__title"> Multi-Arm Assembly </p>
+        <div class="image">
+            <a href="https://jiaoyangli.me/research/arm/">
+                <img class="image__img" src="https://jiaoyangli.me/images/bar.gif" alt="Robotic Arms">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We develop combined task and motion planning frameworks
+                        to jointly plan safe, low-cost plans
+                        for a team of robots to assemble complex spatial structures.
+                    </p>
                 </div>
-            </div>
-        <!-- traffic -->
-            <div class="flex-child card">
-                <p class="image__title"> Intelligent Traffic Management </p>
-                <div class="image">
-                    <a href="https://jiaoyangli.me/research/traffic/">
-                        <img class="image__img" src="../images/flatland.gif" alt="Railway Planning">
-                        <div class="image__overlay image__overlay--blur">
-                            <p class="image__description">
-                                Developing intelligent planning systems to coordinate
-                                trains, airplanes, autonomous vehicle, etc. on complex road networks under uncertainty.
-                            </p>
-                        </div>
-                    </a>
+            </a>
+        </div>
+    </div>
+    <!-- traffic -->
+    <div class="flex-child card">
+        <p class="image__title"> Intelligent Traffic Management </p>
+        <div class="image">
+            <a href="https://jiaoyangli.me/research/traffic/">
+                <img class="image__img" src="https://jiaoyangli.me/images/flatland.gif" alt="Railway Planning">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We develop intelligent planning systems to coordinate
+                        trains, airplanes, autonomous vehicle, etc. on complex road networks under uncertainty.
+                    </p>
                 </div>
-            </div>
-        <!-- drones -->
-            <div class="flex-child card">
-                <p class="image__title"> MAPF Generalizations for Heterogeneous and Nonholonomic Robots </p>
-                <div class="image">
-                    <a href="https://jiaoyangli.me/research/drones/">
-                        <img class="image__img" src="../images/drone_side.gif" alt="Drones">
-                        <!--<img class="image__img" src="../images/drone_top.gif" alt="Robotic Arms">-->
-                        <div class="image__overlay image__overlay--blur">
-                            <p class="image__description">
-                                Develop principled algorithms for solving MAPF.
-                                Drone Swarms Coordination
-                            </p>
-                        </div>
-                    </a>
+            </a>
+        </div>
+    </div>
+    <!-- drones -->
+    <div class="flex-child card">
+        <p class="image__title"> Planning for Heterogeneous and Nonholonomic Robots </p>
+        <div class="image">
+            <a href="https://jiaoyangli.me/research/drones/">
+                <img class="image__img" src="../images/drone_side.gif" alt="Drones">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We generalize MAPF algorithms to coordinate teams of 
+                        heterogeneous and nonholonomic robots 
+                        by considering various practical constraints from robotics.
+                    </p>
                 </div>
-            </div>
-        <!-- others -->
-            <div class="flex-child card">
-                <p class="image__title"> Other Projects </p>
-                <div class="image">
-                    <a href="https://jiaoyangli.me/research/others/">
-                        <img class="image__img" src="../images/3d-fastmap.png" alt="FastMap">
-                        <div class="image__overlay image__overlay--blur">
-                            <p class="image__description"> Graph embeddings, multi-agent meeting problems, etc. </p>
-                        </div>
-                    </a>
+            </a>
+        </div>
+    </div>
+    <!-- others -->
+    <div class="flex-child card">
+        <p class="image__title"> Other Projects </p>
+        <div class="image">
+            <a href="https://jiaoyangli.me/research/others/">
+                <img class="image__img" src="https://jiaoyangli.me/images/3d-fastmap.png" alt="FastMap">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description"> 
+                        We perform other planning and search related projects, 
+                        such as graph embeddings, multi-agent meeting problems, etc. 
+                    </p>
                 </div>
-            </div>
+            </a>
+        </div>
+    </div>
 </div>

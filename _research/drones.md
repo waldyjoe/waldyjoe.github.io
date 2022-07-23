@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MAPF Generalizations for Heterogeneous and Nonholonomic Robots"
+title: "Planning for Heterogeneous and Nonholonomic Robots"
 permalink: /research/drones/
 author_profile: true
 ---
@@ -22,7 +22,7 @@ MAPF can be also used for planning trajectories for robotic arms!
 <p style="text-align:center;">
     <img src="https://jiaoyangli.me/images/arena.gif" width="200pt" alt="arena"/>
     <!--<img src="https://jiaoyangli.me/images/maze.gif" width="200pt" alt="maze"/>-->
-    <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="200pt" alt="3Dmaze"/>
+    <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="200pt" alt="3D maze"/>
     <!--<img src="https://jiaoyangli.me/images/drone_top.gif" width="400pt" alt="drone-side" />
     <img src="https://jiaoyangli.me/images/drone_side.gif" width="200pt" alt="drone-top" />-->
     <img src="https://jiaoyangli.me/images/bar.gif" width="200pt" alt="arm" />
