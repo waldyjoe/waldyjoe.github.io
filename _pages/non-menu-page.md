@@ -137,9 +137,9 @@ and traffic management for airports, railway networks, and road intersections wi
     </div>
     <!-- warehouse -->
     <div class="flex-child card">
-        <p class="image__title"> Coordination of Large Robot Teams in Automated Warehouses </p>
-        <div class="image">
-            <a href="https://jiaoyangli.me/research/warehouse/">
+        <a href="https://jiaoyangli.me/research/warehouse/">
+            <p class="image__title"> Coordination of Large Robot Teams in Automated Warehouses </p>
+            <div class="image">
                 <img class="image__img" src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="warehouse">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
@@ -148,14 +148,14 @@ and traffic management for airports, railway networks, and road intersections wi
                         to fulfill delivery tasks in automated warehouses.
                     </p>
                 </div>
-            </a>
-        </div>
+            </div>
+        </a>
     </div>
     <!-- robotic arms -->
     <div class="flex-child card">
-        <p class="image__title"> Multi-Arm Assembly </p>
-        <div class="image">
-            <a href="https://jiaoyangli.me/research/arm/">
+        <a href="https://jiaoyangli.me/research/arm/">
+            <p class="image__title"> Multi-Arm Assembly </p>
+            <div class="image">
                 <img class="image__img" src="https://jiaoyangli.me/images/bar.gif" alt="Robotic Arms">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
@@ -164,14 +164,14 @@ and traffic management for airports, railway networks, and road intersections wi
                         for a team of robots to assemble complex spatial structures.
                     </p>
                 </div>
-            </a>
-        </div>
+            </div>
+        </a>
     </div>
     <!-- traffic -->
     <div class="flex-child card">
-        <p class="image__title"> Intelligent Traffic Management </p>
-        <div class="image">
-            <a href="https://jiaoyangli.me/research/traffic/">
+        <a href="https://jiaoyangli.me/research/traffic/">
+            <p class="image__title"> Intelligent Traffic Management </p>
+            <div class="image">
                 <img class="image__img" src="https://jiaoyangli.me/images/flatland.gif" alt="Railway Planning">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
@@ -179,14 +179,14 @@ and traffic management for airports, railway networks, and road intersections wi
                         trains, airplanes, autonomous vehicle, etc. on complex road networks under uncertainty.
                     </p>
                 </div>
-            </a>
-        </div>
+            </div>
+        </a>
     </div>
     <!-- drones -->
     <div class="flex-child card">
-        <p class="image__title"> Planning for Heterogeneous and Nonholonomic Robots </p>
-        <div class="image">
-            <a href="https://jiaoyangli.me/research/drones/">
+        <a href="https://jiaoyangli.me/research/drones/">
+            <p class="image__title"> Planning for Heterogeneous and Nonholonomic Robots </p>
+            <div class="image">
                 <img class="image__img" src="../images/drone_side.gif" alt="Drones">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
@@ -195,8 +195,8 @@ and traffic management for airports, railway networks, and road intersections wi
                         by considering various practical constraints from robotics.
                     </p>
                 </div>
-            </a>
-        </div>
+            </div>
+        </a>
     </div>
     <!-- others -->
     <!-- 

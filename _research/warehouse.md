@@ -52,6 +52,7 @@ Relevant publications:
 
 ## Scalability and Solution Quality
 
+<img src="https://jiaoyangli.me/images/single-vs-mapf.png" title="Single vs MAPF" style="float:left;width:200pt;padding-left:10px;"  alt="mapf demo"/>
 The principled way of solving this challenge is to develop efficient and effective MAPF algorithms. 
 More details can be found in our research on [Foundations of MAPF](https://jiaoyangli.me/research/mapf/).
 
@@ -62,7 +63,9 @@ This is a challenge but also an important property that we can make use of when 
 
 Highlights:
 The RHCR algorithm proposed in [1] can produce high-quality solutions for **1,000 agents** (= **38.9% of the empty cells** on the map) for simulated warehouse instances. 
-The videos shown at the top of the page show the performance of 800 agents on the same map with traditional single-agent solver and RHCR.
+The videos shown at the top of the page 
+show the performance of 800 agents on the same map with traditional single-agent solver and RHCR, and 
+the figure on the left summarizes the throughput results with different numbers of agents.
 
 Relevant publications: 
 [1] [rolling-horizon collision resolution](https://jiaoyangli.me/publications/LiAAAI21lifelong).
