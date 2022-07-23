@@ -56,52 +56,65 @@ You can also find my articles on
 
 * [Which MAPF Model Works Best for Automated Warehousing?](https://jiaoyangli.me/publications/VaramballySoCS22)          
     Sumanth Varambally, **Jiaoyang Li** and Sven Koenig.       
-    <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.   
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-model.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-VaramballySoCS22');">bibtex</a>]
+    <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 190-198, 2022.   
+    [[doi](https://ojs.aaai.org/index.php/SOCS/article/view/21750)]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-model.pdf)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-VaramballySoCS22');">bibtex</a>]
 <div id="bibtex-VaramballySoCS22" style="display:none">
 <pre>@inproceedings{VaramballySoCS22,
   author    = {Sumanth Varambally and Jiaoyang Li and Sven Koenig},
   title     = {Which \{MAPF\} Model Works Best for Automated Warehousing?},
   booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
+  pages     = {190--198},
   year      = {2022}
 }
 </pre></div>  
 
 * [Learning a Priority Ordering for Prioritized Planning in Multi-Agent Path Finding](https://jiaoyangli.me/publications/ZhangSoCS22).        
     Shuyang Zhang, **Jiaoyang Li**, Taoan Huang, Sven Koenig and Bistra Dilkina.       
-    <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.      
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-pp.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22');">bibtex</a>]
+    <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 208-216, 2022.      
+    [[doi](https://ojs.aaai.org/index.php/SOCS/article/view/21769)
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-pp.pdf)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22');">bibtex</a>]
 <div id="bibtex-ZhangSoCS22" style="display:none">
 <pre>@inproceedings{ZhangSoCS22,
   author    = {Shuyang Zhang and Jiaoyang Li and Taoan Huang and Sven Koenig and Bistra Dilkina},
   title     = {Learning a Priority Ordering for Prioritized Planning in Multi-Agent Path Finding},
   booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
+  pages     = {208--216},
   year      = {2022}
 }
 </pre></div>  
 
 * [Multi-Train Path Finding Revisited](https://jiaoyangli.me/publications/ChenSoCS22).        
     Zhe Chen, **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
-    <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.      
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-train.pdf)] [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenSoCS22');">bibtex</a>]
+    <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 38-46, 2022.      
+    [[doi](https://ojs.aaai.org/index.php/SOCS/article/view/21750)]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-train.pdf)]
+    [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenSoCS22');">bibtex</a>]
 <div id="bibtex-ChenSoCS22" style="display:none">
 <pre>@inproceedings{ChenSoCS22,
   author    = {Zhe Chen and Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
   title     = {Multi-Train Path Finding Revisited},
   booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
+  pages     = {38--46},
   year      = {2022}
 }
 </pre></div>  
 
 * [Mutex Propagation in Multi-Agent Path Finding for Large Agents](https://jiaoyangli.me/publications/ZhangSoCS22mutex) (short paper).        
     Han Zhang, Yutong Li, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
-    <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2022.      
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-mutex.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22mutex');">bibtex</a>]
+    <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 249-253, 2022.      
+    [[doi](https://ojs.aaai.org/index.php/SOCS/article/view/21776)]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-mutex.pdf)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22mutex');">bibtex</a>]
 <div id="bibtex-ZhangSoCS22mutex" style="display:none">
 <pre>@inproceedings{ZhangSoCS22mutex,
   author    = {Han Zhang and Yutong Li and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
   title     = {Mutex Propagation in Multi-Agent Path Finding for Large Agents},
   booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
+  pages     = {249--253},
   year      = {2022}
 }
 </pre></div>  

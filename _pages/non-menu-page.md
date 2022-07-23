@@ -24,6 +24,40 @@ and traffic management for airports, railway networks, and road intersections wi
 
 <link rel="stylesheet" href="../assets/css/imagehovertext.css">
 
+<style>
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+</style>
+
+<div class="card">
+  <img src="https://jiaoyangli.me/images/mapf-demo.gif" alt="Avatar" width="200pt">
+  <div class="container">
+    <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
+    <p>Architect & Engineer</p>
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://jiaoyangli.me/images/mapf-demo.gif" alt="Avatar" width="200pt">
+  <div class="container">
+    <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
+    <p>Architect & Engineer</p>
+  </div>
+</div>
+
 <div class="container">
     <div class="tile is-ancestor is-flex-wrap">
         <!-- MAPF -->
@@ -31,7 +65,7 @@ and traffic management for airports, railway networks, and road intersections wi
             <a href="https://jiaoyangli.me/research/mapf/">
                 <div class="tile is-child card">
                     <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
-                    <img src="../images/mapf-demo.gif" alt="MAPF" style="float:left;width:250pt;padding-right:10px;" />
+                    <img src="../images/mapf-demo.gif" alt="MAPF" style="float:left;width:200pt;" />
                     We developing principled algorithms to solve challenging MAPF instances 
                     via a variety of AI and optimization technologies, such as
                     constraint reasoning, heuristic search, stochastic local search, and machine learning.
