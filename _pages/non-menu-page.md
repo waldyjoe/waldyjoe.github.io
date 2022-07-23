@@ -101,7 +101,6 @@ and traffic management for airports, railway networks, and road intersections wi
     color: #ffffff;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
     opacity: 0;
     transition: opacity 0.25s;
@@ -151,7 +150,7 @@ and traffic management for airports, railway networks, and road intersections wi
                 <img class="image__img" src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="warehouse">
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
-                        We combine task planning, path planning, and execution
+                        We combine task planning, path planning, and execution control
                         to coordinate thousands of mobile robots
                         to fulfill delivery tasks in automated warehouses.
                     </p>
@@ -207,6 +206,7 @@ and traffic management for airports, railway networks, and road intersections wi
         </div>
     </div>
     <!-- others -->
+    <!-- 
     <div class="flex-child card">
         <p class="image__title"> Other Projects </p>
         <div class="image">
@@ -220,5 +220,6 @@ and traffic management for airports, railway networks, and road intersections wi
                 </div>
             </a>
         </div>
-    </div>
+    </div> 
+    -->
 </div>
