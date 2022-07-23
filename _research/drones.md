@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+(**This page is still under construction.**)
 
 Agents in MAPF are unrealistic and homogeneous, 
 in the sense that each agent occupies exactly one vertex at any timestep and 
@@ -37,5 +38,5 @@ Relevant publications:
 
 
 ## Moving in formation
-[3] [agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
+[1] [agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
 
