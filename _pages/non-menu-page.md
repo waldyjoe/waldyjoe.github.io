@@ -39,11 +39,12 @@ and traffic management for airports, railway networks, and road intersections wi
 /*.container{flex-grow:1;margin:0 auto;position:relative;width:auto}*/
 .flex-child{
     padding:.75rem;
-    min-width:220px;
+    min-width:300px;
     flex: 1;
     margin-right: 20px;
     margin-top: 20px;
-    align-items: center
+    align-items: center;
+    text-align: center
 }
 
 .card {
@@ -68,12 +69,12 @@ and traffic management for airports, railway networks, and road intersections wi
     position: relative;
     width: 250px;
     margin-top: 1.0em;
+    text-align: center
 }
 
 .image__title {
     font-size: 1em;
     font-weight: bold;
-    align-self: center;
     text-align: center;
     margin-top: 1.0em;
 }

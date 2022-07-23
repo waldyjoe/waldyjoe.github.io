@@ -171,7 +171,8 @@ and determine the stopping criterion for LNS.
 
 Relevant publications: 
 [1] [ML-guided LNS for MAPF](https://jiaoyangli.me/publications/HuangAAAI22), and
-[5] [ML-guided prioritized planning for MAPF](https://jiaoyangli.me/publications/ZhangSoCS22).
+[2] [ML-guided prioritized planning for MAPF](https://jiaoyangli.me/publications/ZhangSoCS22).
 
+<button type="button" onclick="https://jiaoyangli.me/research/" style="float: right;">Back to the Research page</button>
 
 <!-- Other methods: hierarchical mapf, incremental CBS, flex distribution -->
