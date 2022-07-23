@@ -58,14 +58,14 @@ and traffic management for airports, railway networks, and road intersections wi
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2);
 }
 
-/* Add some padding inside the card container */
+/* Add some padding inside the card container 
 .card .container {
   padding: 2px 16px;
   flex-direction: column;
   flex: 1;
   display: flex;
   text-align: left;
-}
+}*/
 
 .is-flex-wrap {
   flex-wrap: wrap;
@@ -121,19 +121,16 @@ and traffic management for airports, railway networks, and road intersections wi
 
 <div class="flex-container is-flex-wrap">
         <!-- MAPF -->
-        <div class="flex-parent">
-            <a href="https://jiaoyangli.me/research/mapf/">
                 <div class="flex-child card">
+<a href="https://jiaoyangli.me/research/mapf/">
                     <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
                     <img src="../images/mapf-demo.gif" alt="MAPF" style="float:left;width:200pt;" />
                     We developing principled algorithms to solve challenging MAPF instances 
                     via a variety of AI and optimization technologies, such as
                     constraint reasoning, heuristic search, stochastic local search, and machine learning.
+</a>
                 </div>
-            </a>
-        </div>
         <!-- warehouse -->
-        <div class="flex-parent">
             <div class="flex-child card">
                 <p class="image__title"> Coordination of Large Robot Teams in Automated Warehouses </p>
                 <div class="image">
@@ -149,9 +146,7 @@ and traffic management for airports, railway networks, and road intersections wi
                     </a>
                 </div>
             </div>
-        </div>
         <!-- robotic arms -->
-        <div class="flex-parent">
             <div class="flex-child card">
                 <p class="image__title"> Multi-Arm Assembly </p>
                 <div class="image">
@@ -167,9 +162,7 @@ and traffic management for airports, railway networks, and road intersections wi
                     </a>
                 </div>
             </div>
-        </div>
         <!-- traffic -->
-        <div class="flex-parent">
             <div class="flex-child card">
                 <p class="image__title"> Intelligent Traffic Management </p>
                 <div class="image">
@@ -184,9 +177,7 @@ and traffic management for airports, railway networks, and road intersections wi
                     </a>
                 </div>
             </div>
-        </div>
         <!-- drones -->
-        <div class="flex-parent">
             <div class="flex-child card">
                 <p class="image__title"> MAPF Generalizations for Heterogeneous and Nonholonomic Robots </p>
                 <div class="image">
@@ -202,9 +193,7 @@ and traffic management for airports, railway networks, and road intersections wi
                     </a>
                 </div>
             </div>
-        </div>
         <!-- others -->
-        <div class="flex-parent">
             <div class="flex-child card">
                 <p class="image__title"> Other Projects </p>
                 <div class="image">
@@ -216,5 +205,4 @@ and traffic management for airports, railway networks, and road intersections wi
                     </a>
                 </div>
             </div>
-        </div>
 </div>
