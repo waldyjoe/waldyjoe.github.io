@@ -22,7 +22,7 @@ multi-arm assembly,
 character control in video games,
 and traffic management for airports, railway networks, and road intersections with autonomous cars.
 
-<link rel="stylesheet" href="../assets/css/imagehovertext.css">
+<link rel="stylesheet" href="https://jiaoyangli.me/assets/css/imagehovertext.css">
 
 <style>
 /* Float four columns side by side */
