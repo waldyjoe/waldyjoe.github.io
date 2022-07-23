@@ -50,17 +50,21 @@ and traffic management for airports, railway networks, and road intersections wi
   flex-direction: column;
   max-width: 100%;
   border-radius: 5px;
+  text-align: center;
 }
 
 /* On mouse-over, add a deeper shadow */
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2);
 }
 
 /* Add some padding inside the card container */
-.container {
+.card .container {
   padding: 2px 16px;
   flex-direction: column;
+  flex: 1;
+  display: flex;
+  text-align: left;
 }
 
 .is-flex-wrap {
@@ -70,15 +74,15 @@ and traffic management for airports, railway networks, and road intersections wi
   /*justify-content: flex-start;*/
 }
 </style>
-
+<!--
 <div class="row">
   <div class="column">
     <div class="card">
+      <a href="https://jiaoyangli.me/research/mapf/">
+        <b>Foundations of Multi-Agent Path Finding (MAPF)</b>
+      </a>
       <img src="https://jiaoyangli.me/images/mapf-demo.gif" alt="MAPF" width="200pt">
       <div class="container">
-        <a href="https://jiaoyangli.me/research/mapf/">
-        <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
-        </a>
         We develop principled algorithms to solve challenging MAPF instances 
         via a variety of AI and optimization technologies, such as
         constraint reasoning, heuristic search, stochastic local search, and machine learning.
@@ -90,7 +94,7 @@ and traffic management for airports, railway networks, and road intersections wi
       <img src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="MAPF" width="200pt">
       <div class="container">
         <a href="https://jiaoyangli.me/research/mapf/">
-        <h4><b>Coordination of Large Robot Teams in Automated Warehouses</b></h4>
+        <b>Coordination of Large Robot Teams in Automated Warehouses</b>
         </a>
         We develop principled algorithms to solve challenging MAPF instances 
         via a variety of AI and optimization technologies, such as
@@ -103,7 +107,7 @@ and traffic management for airports, railway networks, and road intersections wi
       <img src="https://jiaoyangli.me/images/bar.gif" alt="MAPF" width="200pt">
       <div class="container">
         <a href="https://jiaoyangli.me/research/mapf/">
-        <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
+        <b>Foundations of Multi-Agent Path Finding (MAPF)</b>
         </a>
         We develop principled algorithms to solve challenging MAPF instances 
         via a variety of AI and optimization technologies, such as
@@ -112,6 +116,9 @@ and traffic management for airports, railway networks, and road intersections wi
     </div>
   </div>
 </div>
+-->
+
+
 <div class="container">
     <div class="tile is-ancestor is-flex-wrap">
         <!-- MAPF -->

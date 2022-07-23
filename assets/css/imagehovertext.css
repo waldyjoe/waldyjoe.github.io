@@ -86,7 +86,10 @@
 }
 
 /*.container{flex-grow:1;margin:0 auto;position:relative;width:auto}*/
-.tile.is-child{margin:0!important}
+.tile.is-child{
+    margin:0!important;
+    width:250px
+}
 .tile.is-parent{padding:.75rem}
 .tile.is-ancestor{margin-left:-.75rem;margin-right:-.75rem;margin-top:-.75rem}
 .card {
