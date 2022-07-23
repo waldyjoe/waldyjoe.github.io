@@ -22,24 +22,26 @@ multi-arm assembly,
 character control in video games,
 and traffic management for airports, railway networks, and road intersections with autonomous cars.
 
-<link rel="stylesheet" href="https://jiaoyangli.me/assets/css/imagehovertext.css">
+<!--<link rel="stylesheet" href="https://jiaoyangli.me/assets/css/imagehovertext.css">-->
 
 <style>
-/* Float four columns side by side */
-.column {
-  float: left;
-  width: 33%;
-  padding: 0 10px;
+.flex-container {
+    display: flex;
 }
 
-/* Remove extra left and right margins, due to padding in columns */
-.row {margin: 0 -5px;}
+.is-flex-wrap {
+  flex-wrap: wrap;
+  /*flex-grow: 0;*/
+  /*justify-content: space-around;*/
+  /*justify-content: flex-start;*/
+}
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+/*.container{flex-grow:1;margin:0 auto;position:relative;width:auto}*/
+.flex-child{
+    padding:.75rem;
+    min-width:30%;
+    flex: 1;
+    margin-right: 20px;
 }
 
 .card {
@@ -72,6 +74,67 @@ and traffic management for airports, railway networks, and road intersections wi
   /*flex-grow: 0;*/
   /*justify-content: space-around;*/
   /*justify-content: flex-start;*/
+}
+
+.image {
+    align-self: center;
+    position: relative;
+    width: 250px;
+    margin-top: 1.0em;
+}
+
+.image__title {
+    font-size: 1em;
+    font-weight: bold;
+    align-self: center;
+    text-align: center;
+    margin-top: 1.0em;
+}
+
+.image__img {
+    display: block;
+    width: 100%;
+}
+
+.image__description {
+    font-size: 1em;
+    margin-top: 0.25em;
+    margin-left: 0.25em;
+    text-align: center;
+}
+
+.image__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+.image__overlay--blur {
+    backdrop-filter: blur(5px);
+}
+
+.image__overlay > * {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
+
+.image__overlay:hover {
+    opacity: 1;
+}
+
+.image__overlay:hover > * {
+    transform: translateY(0);
 }
 </style>
 <!--
@@ -120,32 +183,38 @@ and traffic management for airports, railway networks, and road intersections wi
 
 
 <div class="flex-container is-flex-wrap">
-        <!-- MAPF -->
-                <div class="flex-child card">
-<a href="https://jiaoyangli.me/research/mapf/">
-                    <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
-                    <img src="../images/mapf-demo.gif" alt="MAPF" style="float:left;width:200pt;" />
-                    We developing principled algorithms to solve challenging MAPF instances 
-                    via a variety of AI and optimization technologies, such as
-                    constraint reasoning, heuristic search, stochastic local search, and machine learning.
-</a>
+    <!-- MAPF -->
+    <div class="flex-child card">
+        <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
+        <div class="image">
+            <a href="https://jiaoyangli.me/research/mapf/">            
+                <img class="image__img" src="https://jiaoyangli.me/images/mapf-demo.gif" alt="MAPF" />
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        We developing principled algorithms to solve challenging MAPF instances 
+                        via a variety of AI and optimization technologies, such as
+                        constraint reasoning, heuristic search, stochastic local search, and machine learning.
+                    </p>
                 </div>
-        <!-- warehouse -->
-            <div class="flex-child card">
-                <p class="image__title"> Coordination of Large Robot Teams in Automated Warehouses </p>
-                <div class="image">
-                    <a href="https://jiaoyangli.me/research/warehouse/">
-                        <img class="image__img" src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="MAPF">
-                        <div class="image__overlay image__overlay--blur">
-                            <p class="image__description">
-                                Combing task planning, path planning, and execution
-                                to coordinate thousands of mobile robots
-                                to fulfill delivery tasks in automated warehouses.
-                            </p>
-                        </div>
-                    </a>
+            </a>
+        </div>
+    </div>
+    <!-- warehouse -->
+    <div class="flex-child card">
+        <p class="image__title"> Coordination of Large Robot Teams in Automated Warehouses </p>
+        <div class="image">
+            <a href="https://jiaoyangli.me/research/warehouse/">
+                <img class="image__img" src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="warehouse">
+                <div class="image__overlay image__overlay--blur">
+                    <p class="image__description">
+                        Combing task planning, path planning, and execution
+                        to coordinate thousands of mobile robots
+                        to fulfill delivery tasks in automated warehouses.
+                    </p>
                 </div>
-            </div>
+            </a>
+        </div>
+    </div>
         <!-- robotic arms -->
             <div class="flex-child card">
                 <p class="image__title"> Multi-Arm Assembly </p>
