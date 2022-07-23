@@ -77,6 +77,9 @@
   text-align: center;
 }
 */
+.flex-container {
+    display: flex;
+}
 
 .is-flex-wrap {
   flex-wrap: wrap;
@@ -86,12 +89,14 @@
 }
 
 /*.container{flex-grow:1;margin:0 auto;position:relative;width:auto}*/
-.tile.is-child{
+.flex-child{
     margin:0!important;
     width:250px
 }
-.tile.is-parent{padding:.75rem}
-.tile.is-ancestor{margin-left:-.75rem;margin-right:-.75rem;margin-top:-.75rem}
+.flex-parent{
+    padding:.75rem;
+    flex: 1;
+}
 .card {
     background-color:#fff;
     box-shadow:0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02);
