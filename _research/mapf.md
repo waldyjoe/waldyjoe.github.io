@@ -173,6 +173,8 @@ Relevant publications:
 [1] [ML-guided LNS for MAPF](https://jiaoyangli.me/publications/HuangAAAI22), and
 [2] [ML-guided prioritized planning for MAPF](https://jiaoyangli.me/publications/ZhangSoCS22).
 
-<button type="button" onclick="https://jiaoyangli.me/research/" style="float: right;">Back to the Research page</button>
+<div style="float: right;">
+    <a href="https://jiaoyangli.me/research/"><strong>Back to the Research page</strong></a>
+</div>
 
 <!-- Other methods: hierarchical mapf, incremental CBS, flex distribution -->

@@ -7,19 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-(**This page is still under construction.**)
-
 <div>
-    <div id="wrapper" style="float:left;width:250pt;padding:10px;"> 
+    <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center"> 
         <video id="single-agent" width="300pt"  autoplay loop controls> 
             <source type="video/mp4" src="https://jiaoyangli.me/images/Single+_800agents-8x.mp4" /> 
         </video>
-        <figcaption>Traditional single-agent solver</figcaption>
+        <figcaption>Traditional single-agent solver for automated warehouses</figcaption>
+    </div>
+    <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center">
         <video id="multi-agent" width="300pt"  autoplay loop controls> 
             <source type="video/mp4" src="https://jiaoyangli.me/images/PBS_w=10_800agents-8x.mp4" /> 
         </video>
-        <figcaption>Our MAPF solver</figcaption>
-        <div class="clear"></div> 
+        <figcaption>Our MAPF solver for automated warehouses</figcaption>
     </div>
     Today, in automated warehouses, 
     mobile robots already autonomously move inventory pods or flat packages from one location to another. 
@@ -53,17 +52,35 @@ Relevant publications:
 
 ## Scalability and Solution Quality
 
+The principled way of solving this challenge is to develop efficient and effective MAPF algorithms. 
+More details can be found in our research on [Foundations of MAPF](https://jiaoyangli.me/research/mapf/).
+
+Additionally, MAPF is only the “one-shot” variant of the actual problem in the automated warehouses. 
+Typically, after an agent reaches its goal location, it does not stop and wait there forever, 
+which requires us to call MAPF solvers periodically to plan and replan in an online manner.
+This is a challenge but also an important property that we can make use of when we develop MAPF algorithms.
+
 Highlights:
 The RHCR algorithm proposed in [1] can produce high-quality solutions for **1,000 agents** (= **38.9% of the empty cells** on the map) for simulated warehouse instances. 
-The left videos show the performance of 800 agents on the same map with traditional single-agent solver and RHCR.
+The videos shown at the top of the page show the performance of 800 agents on the same map with traditional single-agent solver and RHCR.
 
 Relevant publications: 
 [1] [rolling-horizon collision resolution](https://jiaoyangli.me/publications/LiAAAI21lifelong).
 
 
-
-
 ## Combined Planning and Execution
 
+
+<img src="https://jiaoyangli.me/images/warehouse-5x.gif" style="float:left;width:200pt;padding:10px;"  alt="warehouse"/>
+MAPF algorithms can find high-quality collision-free plans for automated warehousing 
+under simplified assumptions about the robot dynamics. 
+However, these simplifying assumptions pose challenging implementational issues 
+since the robots cannot follow the plans precisely. 
+Therefore, some recent  research  has  focused  on  more  complicated MAPF models to close the gap.
+But, robot dynamics are complex and almost impossible to be modeled perfectly.
+We therefore study how  to combine (task and path) planning with execution control from two perspectives,
+namely what planning model works best in terms of maximizing final throughput and minimizing planning time, and
+how we overlap planning and execution to avoid robot idle time during replanning.
+
 Relevant publications: 
-[1] [Different MAPF models for warehouses](https://jiaoyangli.me/publications/VaramballySoCS22)
+[1] [Different MAPF models for warehouse robots](https://jiaoyangli.me/publications/VaramballySoCS22).
