@@ -25,10 +25,31 @@ and traffic management for airports, railway networks, and road intersections wi
 <link rel="stylesheet" href="../assets/css/imagehovertext.css">
 
 <style>
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 33%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
+  padding: 0.75rem;
+  flex-direction: column;
+  max-width: 100%;
+  border-radius: 5px;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -39,25 +60,58 @@ and traffic management for airports, railway networks, and road intersections wi
 /* Add some padding inside the card container */
 .container {
   padding: 2px 16px;
+  flex-direction: column;
+}
+
+.is-flex-wrap {
+  flex-wrap: wrap;
+  /*flex-grow: 0;*/
+  /*justify-content: space-around;*/
+  /*justify-content: flex-start;*/
 }
 </style>
 
-<div class="card">
-  <img src="https://jiaoyangli.me/images/mapf-demo.gif" alt="Avatar" width="200pt">
-  <div class="container">
-    <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
-    <p>Architect & Engineer</p>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://jiaoyangli.me/images/mapf-demo.gif" alt="MAPF" width="200pt">
+      <div class="container">
+        <a href="https://jiaoyangli.me/research/mapf/">
+        <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
+        </a>
+        We develop principled algorithms to solve challenging MAPF instances 
+        via a variety of AI and optimization technologies, such as
+        constraint reasoning, heuristic search, stochastic local search, and machine learning.
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="https://jiaoyangli.me/images/warehouse-5x.gif" alt="MAPF" width="200pt">
+      <div class="container">
+        <a href="https://jiaoyangli.me/research/mapf/">
+        <h4><b>Coordination of Large Robot Teams in Automated Warehouses</b></h4>
+        </a>
+        We develop principled algorithms to solve challenging MAPF instances 
+        via a variety of AI and optimization technologies, such as
+        constraint reasoning, heuristic search, stochastic local search, and machine learning.
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="https://jiaoyangli.me/images/bar.gif" alt="MAPF" width="200pt">
+      <div class="container">
+        <a href="https://jiaoyangli.me/research/mapf/">
+        <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
+        </a>
+        We develop principled algorithms to solve challenging MAPF instances 
+        via a variety of AI and optimization technologies, such as
+        constraint reasoning, heuristic search, stochastic local search, and machine learning.
+      </div>
+    </div>
   </div>
 </div>
-
-<div class="card">
-  <img src="https://jiaoyangli.me/images/mapf-demo.gif" alt="Avatar" width="200pt">
-  <div class="container">
-    <h4><b>Foundations of Multi-Agent Path Finding (MAPF)</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div>
-
 <div class="container">
     <div class="tile is-ancestor is-flex-wrap">
         <!-- MAPF -->
