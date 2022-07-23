@@ -31,20 +31,14 @@ and traffic management for airports, railway networks, and road intersections wi
 
 .is-flex-wrap {
   flex-wrap: wrap;
-  /*flex-grow: 0;*/
-  /*justify-content: space-around;*/
-  /*justify-content: flex-start;*/
 }
 
-/*.container{flex-grow:1;margin:0 auto;position:relative;width:auto}*/
 .flex-child{
     padding:.75rem;
     min-width:300px;
     flex: 1;
     margin-right: 20px;
     margin-top: 20px;
-    align-items: center;
-    text-align: center
 }
 
 .card {
@@ -55,7 +49,6 @@ and traffic management for airports, railway networks, and road intersections wi
   flex-direction: column;
   max-width: 100%;
   border-radius: 5px;
-  text-align: center;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -64,12 +57,11 @@ and traffic management for airports, railway networks, and road intersections wi
 }
 
 .image {
-    align-self: center;
-    align-items: center;
     position: relative;
     width: 250px;
     margin-top: 1.0em;
-    text-align: center
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .image__title {
@@ -89,6 +81,8 @@ and traffic management for airports, railway networks, and road intersections wi
     margin-left: 0.25em;
     margin-right: 0.25em;
     text-align: center;
+    font-size: 0.9em;
+    font-weight: normal
 }
 
 .image__overlay {
@@ -128,19 +122,18 @@ and traffic management for airports, railway networks, and road intersections wi
 <div class="flex-container is-flex-wrap">
     <!-- MAPF -->
     <div class="flex-child card">
-        <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
-        <div class="image">
-            <a href="https://jiaoyangli.me/research/mapf/">            
+        <a href="https://jiaoyangli.me/research/mapf/">
+            <p class="image__title"> Foundations of Multi-Agent Path Finding (MAPF) </p>
+            <div class="image">
                 <img class="image__img" src="https://jiaoyangli.me/images/mapf-demo.gif" alt="MAPF" />
                 <div class="image__overlay image__overlay--blur">
                     <p class="image__description">
-                        We develop principled algorithms to solve challenging MAPF instances 
-                        via a variety of AI and optimization technologies, such as
-                        constraint reasoning, heuristic search, stochastic local search, and machine learning.
+                        We develop efficient and effective algorithms to solve challenging MAPF instances 
+                        via a variety of AI and optimization technologies.
                     </p>
                 </div>
-            </a>
-        </div>
+            </div>
+        </a>
     </div>
     <!-- warehouse -->
     <div class="flex-child card">
