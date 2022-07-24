@@ -36,3 +36,7 @@ Relevant publications:
 [1] [railway planing and replanning](https://jiaoyangli.me/publications/LiICAPS21) (**winner of the NeurIPS'20 Flatland Challenge**),
 [2] [railway planing and replanning with MAPF and MARL](https://jiaoyangli.me/publications/Laurent21), and
 [3] [airport taxiway planning](https://jiaoyangli.me/publications/LiAIAA19).         
+
+<div style="float: right;">
+    <button onclick="location.href='https://jiaoyangli.me/research/'" type="button">Back to the Research page</button>
+</div>

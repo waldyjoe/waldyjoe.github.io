@@ -40,3 +40,6 @@ Relevant publications:
 ## Moving in formation
 [1] [agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
 
+<div style="float: right;">
+    <button onclick="location.href='https://jiaoyangli.me/research/'" type="button">Back to the Research page</button>
+</div>

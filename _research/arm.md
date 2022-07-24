@@ -26,3 +26,7 @@ that ensures each robot is simultaneously productive, and not idle, is challengi
 Relevant publications: 
 [1] [multi-arm assembly](https://arxiv.org/abs/2203.02475 "Preprint 2022 2019"), and
 [2] [multi-arm coordination with handover tasks](https://jiaoyangli.me/publications/ZhangCASE22).
+
+<div style="float: right;">
+    <button onclick="location.href='https://jiaoyangli.me/research/'" type="button">Back to the Research page</button>
+</div>
