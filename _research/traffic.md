@@ -12,8 +12,8 @@ author_profile: true
     <figcaption>Rail planning and replanning</figcaption>
 </div>
 <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center">
-    <img src="../images/airport-2x.gif" alt="airport" style="height:120pt;width:auto" />
-    <figcaption>Airport superface coordination</figcaption>
+    <img src="https://jiaoyangli.me/images/airport-2x.gif" alt="airport" style="height:120pt;width:auto" />
+    <figcaption>Airport surface coordination</figcaption>
 </div>
 
 MAPF can be used for traffic management for autonomous vehicle, trains, or airplanes. 

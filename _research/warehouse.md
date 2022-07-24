@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center"> 
-    <video id="single-agent" width="300pt"  autoplay loop controls> 
+    <video id="single-agent" height="180pt"  autoplay loop controls> 
         <source type="video/mp4" src="https://jiaoyangli.me/images/Single+_800agents-8x.mp4" /> 
     </video>
     <figcaption>Traditional single-agent solver for automated warehouses</figcaption>
 </div>
 <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center">
-    <video id="multi-agent" width="300pt"  autoplay loop controls> 
+    <video id="multi-agent" height="180pt"  autoplay loop controls> 
         <source type="video/mp4" src="https://jiaoyangli.me/images/PBS_w=10_800agents-8x.mp4" /> 
     </video>
     <figcaption>Our MAPF solver for automated warehouses</figcaption>
