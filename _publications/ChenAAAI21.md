@@ -9,7 +9,7 @@ author_profile: true
 
 Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.    
 <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11237-11245, 2021.        
-[[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17340)] 
+[[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17340)] 
 [[code](https://github.com/jkchengh/s2m2)] 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21');">bibtex</a>]
 <div id="bibtex-ChenAAAI21" style="display:none">

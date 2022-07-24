@@ -1,15 +1,25 @@
 ---
+layout: archive
+title: "EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding"
+permalink: /publications/LiAAAI21eecbs/
 author_profile: true
-title: "A Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search"
-collection:
-permalink: /publications/LiAIJ21
-excerpt: 
-date: 2018-06-24
-venue: 'Artificial Intelligence (AIJ)'
-paperurl:
-citation: 'Jiaoyang Li, Daniel Harabor, Peter J. Stuckey, Hang Ma, Graeme Gange and Sven Koenig. (2021). 
-&quot;A Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search.&quot; 
-<i>Artificial Intelligence (AIJ)</i>, vol 301, pages 103574, 2021.'
 ---
 
-[Download paper here](http://jiaoyang-li.github.io/files/2018-ICAPS.pdf)
+{% include base_path %}
+
+**Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
+<i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12353-12362, 2021.        
+[[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17466)]
+[[pdf](https://jiaoyangli.me/publications/LiAAAI21eecbs)]
+[[talk](https://slideslive.com/38947778/eecbs-a-boundedsuboptimal-search-for-multiagent-path-finding)]
+[[code](https://github.com/Jiaoyang-Li/EECBS)]
+[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21eecbs');">bibtex</a>]
+<div id="bibtex-LiAAAI21eecbs" style="display:none">
+<pre>@inproceedings{LiAAAI21eecbs,
+  author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
+  title     = { {EECBS}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {12353--12362},
+  year      = {2021}
+}
+</pre></div>  

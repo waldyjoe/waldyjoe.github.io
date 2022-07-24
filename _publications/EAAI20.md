@@ -9,7 +9,7 @@ author_profile: true
                   
 Todd W.Neller, Stephen Keeley, Michael Guerzhoy, Wolfgang Hoenig, **Jiaoyang Li**, Sven Koenig, Ameet Soni, Krista Thomason, Lisa Zhang, Bibin Sebatian, Cinjon Resnick, Avital Oliver, Surya Bhupatiraju, Kumar Krishna Agrawal, James Allingham, Sejong Yoon, Johnathan Chen, Tom Larsen, Marion Neumann, Narges Norouzi, Ryan Hausen and Matthew Evett.  
 <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, pages 13509-13511, 2020.          
-[[doi](https://aaai.org/ojs/index.php/AAAI/article/view/7072/6926)] 
+[[publisher](https://aaai.org/ojs/index.php/AAAI/article/view/7072/)] 
 [[website](http://modelai.gettysburg.edu/2020/mapf/)]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-EAAI20');">bibtex</a>]
 <div id="bibtex-EAAI20" style="display:none">
