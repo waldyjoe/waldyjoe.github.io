@@ -7,11 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-.publi-bibtex-button{
-
-}
-</style>
 (**Winner of the NeurIPS'20 Flatland Challenge**).         
 **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chan, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
 <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.      
