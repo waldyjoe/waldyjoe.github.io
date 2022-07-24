@@ -9,6 +9,7 @@ author_profile: true
 
 (**This page is still under construction.**)
 
+<img src="/images/mapf-app-framework.png" style="float:left;width:300pt;padding:10px;"  alt="Multi-Robot Coordination Framework"/>
 Agents in MAPF are unrealistic and homogeneous, 
 in the sense that each agent occupies exactly one vertex at any timestep and 
 traverses exactly one edge or wait at its current vertex from one timestep to the next one. 
@@ -22,15 +23,15 @@ MAPF can be also used for planning trajectories for robotic arms!
 ## From Discrete Graphs and Timesteps to Continuous Space and Time
 <div style="display: flex; flex-wrap: wrap; text-align: center">
     <div style="min-width:310px;flex: 1;margin: 5px;">
-        <img src="https://jiaoyangli.me/images/arena.gif" width="200px" alt="arena"/>
+        <img src="/images/arena.gif" width="200px" alt="arena"/>
         <figcaption>Searching in a 2D space.</figcaption>
     </div>
     <div style="min-width:310px;flex: 1;margin: 5px;">
-        <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="308.88px" alt="3D maze"/>
+        <img src="/images/3Dmaze.gif" width="309px" alt="3D maze"/>
         <figcaption>Searching in a 3D space.</figcaption>
     </div>
     <div style="min-width:310px;flex: 1;margin: 5px;">
-        <img src="https://jiaoyangli.me/images/bar.gif" width="200px" alt="arm" />
+        <img src="/images/bar.gif" width="200px" alt="arm" />
         <figcaption>Searching in a high-dimensional space (i.e., configuration space).</figcaption>
     </div>
 </div>
