@@ -9,6 +9,7 @@ pages: 837--845
 year: 2017
 pdfurl: http://jiaoyang-li.github.io/files/2017-AAMAS.pdf
 publisherurl: https://dl.acm.org/citation.cfm?id=3091243
+codeurl:
 authors: [Hang Ma, Jiaoyang Li, T. K. Satish Kumar, Sven Koenig] 
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 collection: publications
@@ -25,6 +26,7 @@ author_profile: true
       {{author}},
     {%- else -%}
       and {{author}}.
+    {%- endunless -%}
   {%- endfor -%} <br>
   <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, pages {{ page.pages }}, {{ page.year }}. <br>
 {% else %}
@@ -43,6 +45,9 @@ author_profile: true
 {%- if page.pdfurl -%}
   [[pdf]({{ page.pdfurl }})]
 {%- endif -%}
+{%- if page.codeurl -%}
+  [[code]({{ page.codeurl }})]
+{%- endif -%}
 [<a href="javascript:void(0)" onclick="(function(target, id) {
   if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') }
   else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, '$('bibtex-' + {{ page.index }})');">bibtex</a>]
@@ -60,9 +65,9 @@ author_profile: true
 {% if page.venue-type == 'proceedings' %}
 <pre>
 @inproceedings{ {{ page.index }},
-  author    = {Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+  author    = { Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig },
   title     = { {{ page.title }} },
-  booktitle = {Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
+  booktitle = {Proceedings of the {{page.venue}} ({{page.venue-abbr}}) },
   pages     = { {{ page.pages }} },
   year      = { {{ page.year }} }
 }
