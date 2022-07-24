@@ -9,7 +9,7 @@ author_profile: true
 
 **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
 <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12353-12362, 2021.        
-[[doi](https://ojs.aaai.org/index.php/AAAI/article/view/17466)]
+[[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17466)]
 [[pdf](https://jiaoyangli.me/publications/LiAAAI21eecbs)]
 [[talk](https://slideslive.com/38947778/eecbs-a-boundedsuboptimal-search-for-multiagent-path-finding)]
 [[code](https://github.com/Jiaoyang-Li/EECBS)]

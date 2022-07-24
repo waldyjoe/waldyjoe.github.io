@@ -33,3 +33,11 @@ A short version appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>,
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
          
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38964051', {
+        presentationId: '38964051',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
