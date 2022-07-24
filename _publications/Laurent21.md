@@ -9,7 +9,7 @@ author_profile: true
 
 Florian Laurent, Manuel Schneider, Christian Scheller, Jeremy Watson, **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chan, Konstantin Makhnev, Oleg Svidchenko, Vladimir Egorov, Dmitry Ivanov, Aleksei Shpilman, Evgenija Spirovska, Oliver Tanevski, Aleksandar Nikov, Ramon Grunder, David Galevski, Jakov Mitrovski, Guillaume Sartoretti, Zhiyao Luo, Mehul Damani, Nilabha Bhattacharya, Shivam Agarwal, Adrian Egli, Erik Nygren and Sharada Mohanty.          
 <i>NeurIPS 2020 Competition and Demonstration Track</i>, PMLR, volume 133, pages 275-301, 2021.                
-[[doi](http://proceedings.mlr.press/v133/laurent21a.html)] 
+[[publisher](http://proceedings.mlr.press/v133/laurent21a.html)] 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Laurent21');">bibtex</a>]
 <div id="bibtex-Laurent21" style="display:none">
 <pre>@inproceedings{Laurent21,

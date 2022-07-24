@@ -10,7 +10,7 @@ author_profile: true
 **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
 <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4127-4135, 2021.         
 A [short version](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1581.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1581-1583, 2021.  
-[[doi](https://www.ijcai.org/proceedings/2021/568)]
+[[publisher](https://www.ijcai.org/proceedings/2021/568)]
 [[code](https://github.com/Jiaoyang-Li/MAPF-LNS)] 
 [[poster](https://jiaoyang-li.github.io/files/posters/MAPF-LNS-poster.pdf "Download poster")] 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI21');">bibtex</a>]

@@ -9,7 +9,7 @@ author_profile: true
                   
 Minghua Liu, Hang Ma, **Jiaoyang Li** and Sven Koenig.      
 <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, pages 1152-1160, 2019.       
-[[doi](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf )]
+[[publisher](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p1152.pdf )]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiuAAMAS19');">bibtex</a>]
 <div id="bibtex-LiuAAMAS19" style="display:none">
 <pre>@inproceedings{LiuAAMAS19,

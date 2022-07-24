@@ -9,8 +9,8 @@ author_profile: true
 
 **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig.       
 <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7627-7634, 2019.      
- A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18380 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 186-187, 2019.     
-[[doi](https://aaai.org/ojs/index.php/AAAI/article/view/4756)]
+A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18380 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 186-187, 2019.     
+[[publisher](https://aaai.org/ojs/index.php/AAAI/article/view/4756)]
 [[poster](https://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")]
 [[slides](https://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI19large');">bibtex</a>]

@@ -10,7 +10,7 @@ author_profile: true
 (**Outstanding Student Paper**).     
 Han Zhang, **Jiaoyang Li**, Pavel Surynek, Sven Koenig and T. K. Satish Kumar.      
 <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 323-332, 2020.                 
-[[doi](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/)] 
+[[publisher](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/)] 
 [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] 
 [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)] 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS20');">bibtex</a>]

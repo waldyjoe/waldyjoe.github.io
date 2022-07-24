@@ -9,7 +9,7 @@ author_profile: true
 
 Hang Ma, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
 <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 837-845, 2017.    
-[[doi](https://dl.acm.org/citation.cfm?id=3091243)]
+[[publisher](https://dl.acm.org/citation.cfm?id=3091243)]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAMAS17');">bibtex</a>]
 <div id="bibtex-MaAAMAS17" style="display:none">
 <pre>@inproceedings{MaAAMAS17,

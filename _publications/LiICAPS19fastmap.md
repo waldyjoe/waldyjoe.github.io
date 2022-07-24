@@ -10,7 +10,7 @@ author_profile: true
 (short paper).    
 **Jiaoyang Li**, Ariel Felner, Sven Koenig and T. K. Satish Kumar.       
 <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 273-278, 2019.   
-[[doi](https://aaai.org/ojs/index.php/ICAPS/article/view/3488/3356)]
+[[publisher](https://aaai.org/ojs/index.php/ICAPS/article/view/3488/3356)]
 [[slides](https://jiaoyang-li.github.io/files/slides/ICAPS19-FastMap.pdf "Download slides")]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS19fastmap');">bibtex</a>]
 <div id="bibtex-LiICAPS19fastmap" style="display:none">

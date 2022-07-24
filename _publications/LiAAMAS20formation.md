@@ -10,7 +10,7 @@ author_profile: true
 **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
 <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, pages 726-734, 2020.       
 A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18535/17676 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 131-132, 2020.       
-[[doi](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf)] 
+[[publisher](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf)] 
 [[long talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]  
 [[short talk](https://www.youtube.com/watch?v=snTG2yL-dgI&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=35)] 
 [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]

@@ -10,7 +10,7 @@ author_profile: true
 (extended abstract).     
 Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
 <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.     
-[[doi](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf)]
+[[publisher](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf)]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WangAAMAS19');">bibtex</a>]
 <div id="bibtex-WangAAMAS19" style="display:none">
 <pre>@inproceedings{WangAAMAS19,

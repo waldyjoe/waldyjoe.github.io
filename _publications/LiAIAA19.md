@@ -10,7 +10,7 @@ author_profile: true
 
 **Jiaoyang Li**, Han Zhang, Mimi Gong, Zi Liang, Weizi Liu, Zhongyi Tong, Liangchen Yi, Robert Morris, Corina Pasareanu and Sven Koenig.    
 <i>AIAA Aviation Forum (**AIAA**)</i>, 2019.       
-[[doi](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930)]
+[[publisher](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2930)]
 [[code](https://github.com/nasa-airport/airport-simulation/tree/scheduler/add-jiaoyang-scheduler "Source code")]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAIAA19');">bibtex</a>]
 <div id="bibtex-LiAIAA19" style="display:none">
