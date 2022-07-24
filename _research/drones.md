@@ -21,16 +21,16 @@ MAPF can be also used for planning trajectories for robotic arms!
 
 ## From Discrete Graphs and Timesteps to Continuous Space and Time
 <div style="display: flex; flex-wrap: wrap; text-align: center">
-    <div style="min-width:200px;flex: 1;margin: 5px;">
-        <img src="https://jiaoyangli.me/images/arena.gif" width="100%" alt="arena"/>
+    <div style="min-width:310px;flex: 1;margin: 5px;">
+        <img src="https://jiaoyangli.me/images/arena.gif" width="200px" alt="arena"/>
         <figcaption>Searching in 2D spaces.</figcaption>
     </div>
-    <div style="min-width:200px;flex: 1;margin: 5px;">
-        <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="100%" alt="3D maze"/>
+    <div style="min-width:310px;flex: 1;margin: 5px;">
+        <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="308.88px" alt="3D maze"/>
         <figcaption>Searching in 3D spaces.</figcaption>
     </div>
-    <div style="min-width:200px;flex: 1;margin: 5px;">
-        <img src="https://jiaoyangli.me/images/bar.gif" style="max-height:200pt" alt="arm" />
+    <div style="min-width:310px;flex: 1;margin: 5px;">
+        <img src="https://jiaoyangli.me/images/bar.gif" width="200px" alt="arm" />
         <figcaption>Searching in high-dimensional spaces.</figcaption>
     </div>
 </div>
@@ -45,9 +45,9 @@ Relevant publications:
 
 ## Moving in formation
 <p style="text-align:center;">
-    <img src="../images/formation-random-4x.gif" style="max-height:200pt" alt="formation-random"/>
-    <img src="../images/formation-tight-4x.gif" style="max-height:200pt" alt="formation-tight"/>
-    <img src="../images/formation-wide-4x.gif" style="max-height:200pt" alt="formation-wide"/>
+    <img src="/images/formation-random-4x.gif" style="max-height:200pt" alt="formation-random"/>
+    <img src="/images/formation-tight-4x.gif" style="max-height:200pt" alt="formation-tight"/>
+    <img src="/images/formation-wide-4x.gif" style="max-height:200pt" alt="formation-wide"/>
 </p>
 
 [1] [agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
