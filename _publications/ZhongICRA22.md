@@ -19,3 +19,9 @@ Xinyi Zhong, **Jiaoyang Li**, Sven Koenig and Hang Ma.
   year      = {2022}
 }
 </pre></div>  
+
+<div style="text-align: center"> 
+    <video style="max-height:180px" controls> 
+        <source type="video/mp4" src="/images/icra22-demo.mp4" /> 
+    </video>
+</div>

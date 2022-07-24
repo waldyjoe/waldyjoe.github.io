@@ -27,10 +27,8 @@ A short version appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>,
 }
 </pre></div>  
  
-<div style="text-align: center"> 
-    <iframe style="display: block; margin: auto; max-width: 500px;"
-        src="https://www.youtube.com/embed/Pw4GBL1UhPA"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</div>
+<iframe style="display: block; margin: auto; max-width: 500px;"
+    src="https://www.youtube.com/embed/Pw4GBL1UhPA"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>

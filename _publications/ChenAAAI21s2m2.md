@@ -23,7 +23,7 @@ Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.
 </pre></div>            
 
 <div style="text-align: center"> 
-    <video style="max-height:180px" controls> 
+    <video style="max-width:500px" controls> 
         <source type="video/mp4" src="/images/S2M2-demo.mp4" /> 
     </video>
 </div>
