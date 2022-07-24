@@ -63,7 +63,7 @@ You can also find my articles on
 <div id="bibtex-VaramballySoCS22" style="display:none">
 <pre>@inproceedings{VaramballySoCS22,
   author    = {Sumanth Varambally and Jiaoyang Li and Sven Koenig},
-  title     = {Which \{MAPF\} Model Works Best for Automated Warehousing?},
+  title     = {Which {MAPF} Model Works Best for Automated Warehousing?},
   booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
   pages     = {190--198},
   year      = {2022}
@@ -405,7 +405,7 @@ You can also find my articles on
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangICAPS20) (**Outstanding Student Paper**).     
     Han Zhang, **Jiaoyang Li**, Pavel Surynek, Sven Koenig and T. K. Satish Kumar.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 323-332, 2020.                 
-    [[doi](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/6531)]
+    [[doi](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/)]
     [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
     [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS20');">bibtex</a>]
