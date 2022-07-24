@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center"> 
-    <img src="https://jiaoyangli.me/images/flatland.gif" alt="flatland" style="height:120pt;width:auto" />
+    <img src="https://jiaoyangli.me/images/flatland.gif" alt="flatland" style="height:150pt;width:auto" />
     <figcaption>Rail planning and replanning</figcaption>
 </div>
 <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center">
-    <img src="https://jiaoyangli.me/images/airport-2x.gif" alt="airport" style="height:120pt;width:auto" />
+    <img src="https://jiaoyangli.me/images/airport-2x.gif" alt="airport" style="height:150pt;width:auto" />
     <figcaption>Airport surface coordination</figcaption>
 </div>
 
