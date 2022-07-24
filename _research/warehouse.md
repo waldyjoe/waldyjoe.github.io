@@ -51,7 +51,7 @@ Relevant publications:
 
 ## Scalability and Solution Quality
 
-<img src="https://jiaoyangli.me/images/single-vs-mapf.png" style="float:left;width:200pt;padding-left:10px;"  alt="Single vs MAPF"/>
+<img src="https://jiaoyangli.me/images/single-vs-mapf.png" style="float:left;width:250pt;padding:10px;"  alt="Single vs MAPF"/>
 The principled way of solving this challenge is to develop efficient and effective MAPF algorithms. 
 More details can be found in our research on [Foundations of MAPF](https://jiaoyangli.me/research/mapf/).
 
