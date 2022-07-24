@@ -29,16 +29,11 @@ A short version appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>,
 }
 </pre></div>  
  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<div style="width: 500px; margin: auto">
-    <div class="embed-responsive embed-responsive-4by3">
-        <iframe style="display: block; margin: auto"
-            src="https://www.youtube.com/embed/Pw4GBL1UhPA"
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-        </iframe>
-    </div>
-</div>
+<iframe style="display: block; margin: auto; width: 500px; text-align: center"
+    src="https://www.youtube.com/embed/Pw4GBL1UhPA"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 <div id="LiICAPS21SlidesLive38964051" style="display:none;width:auto" align="center">
     <div id="presentation-embed-38942745"></div>       

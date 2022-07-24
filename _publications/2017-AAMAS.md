@@ -28,7 +28,7 @@ author_profile: true
   {{ page.title }} <br>
   {%- for author in page.authors -%}
     {%- unless forloop.last -%}
-      {{author}},&nbsp
+      {{author}},&nbsp;
     {%- else -%}
       and {{author}}.
     {%- endunless -%}
@@ -38,7 +38,7 @@ author_profile: true
   {{ page.title }} <br>
   {%- for author in page.authors -%}
     {%- unless forloop.last -%}
-      {{author}},&nbsp
+      {{author}},&nbsp;
     {%- else -%}
       and {{author}}.
     {%- endunless -%}
@@ -46,26 +46,26 @@ author_profile: true
   <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, (in print), {{ page.year }}.
 {% endif %}
 {% if page.publisherurl %}
-  [[publisher]({{ page.publisherurl }})]
+  [[publisher]({{ page.publisherurl }})]&nbsp;
 {%- endif -%}
 {%- if page.pdfurl -%}
-  [[pdf]({{ page.pdfurl }})]
+  [[pdf]({{ page.pdfurl }})]&nbsp;
 {%- endif -%}
 {%- if page.codeurl -%}
-  [[code]({{ page.codeurl }})]
+  [[code]({{ page.codeurl }})]&nbsp;
 {%- endif -%}
 [<a href="javascript:void(0)" onclick="(function(target, id) {
   if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') }
-  else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, '$('bibtex-' + {{ page.index }})');">bibtex</a>]
-<div id="$('bibtex-' + {{ page.index }})" style="display:none">
+  else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, "{{ 'bibtex-' + page.index }}");">bibtex</a>]
+<div id="{{ 'bibtex-' + page.index }}" style="display:none">
   <pre>@inproceedings{ {{ page.index }},
-    author    = { {%- for author in page.authors -%}
+    author    = {&nbsp;{%- for author in page.authors -%}
     {%- unless forloop.last -%}
-      {{author}} and &nbsp
+      {{author}} and&nbsp;
     {%- else -%}
       {{author}}
     {%- endunless -%}
-  {%- endfor -%} },
+  {%- endfor -%}&nbsp;},
     title     = {Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks},
     booktitle = {Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
     pages     = {837--845},
@@ -77,13 +77,13 @@ author_profile: true
 {% if page.venue-type == 'proceedings' %}
 <pre>
 @inproceedings{ {{ page.index }},
-  author    = { {%- for author in page.authors -%}
+  author    = {&nbsp;{%- for author in page.authors -%}
     {%- unless forloop.last -%}
-      {{author}} and &nbsp
+      {{author}} and&nbsp;
     {%- else -%}
       {{author}}
     {%- endunless -%}
-  {%- endfor -%} },
+  {%- endfor -%}&nbsp;},
   title     = { {{ page.title }} },
   booktitle = { Proceedings of the {{page.venue}} ({{page.venue-abbr}}) },
   pages     = { {{ page.pages }} },
@@ -93,7 +93,13 @@ author_profile: true
 {% elsif page.venue-type == 'article' %}
 <pre>
 @article{ {{ page.index }},
-  author    = {Han Zhang and Pavel Surynek and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+  author    = {&nbsp;{%- for author in page.authors -%}
+    {%- unless forloop.last -%}
+      {{author}} and&nbsp;
+    {%- else -%}
+      {{author}}
+    {%- endunless -%}
+  {%- endfor -%}&nbsp;},
   title     = { {{ page.title }} },
   journal   = { {{ page.venue }} },
   pages     = { {{ page.pages }} },
