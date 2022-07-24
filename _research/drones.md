@@ -20,15 +20,21 @@ Notably, in addition to the traditional mobile robots/drones that navigate in a 
 MAPF can be also used for planning trajectories for robotic arms!
 
 ## From Discrete Graphs and Timesteps to Continuous Space and Time
-<p style="text-align:center;">
-    <img src="https://jiaoyangli.me/images/arena.gif" width="200pt" alt="arena"/>
-    <!--<img src="https://jiaoyangli.me/images/maze.gif" width="200pt" alt="maze"/>-->
-    <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="200pt" alt="3D maze"/>
-    <!--<img src="https://jiaoyangli.me/images/drone_top.gif" width="400pt" alt="drone-side" />
-    <img src="https://jiaoyangli.me/images/drone_side.gif" width="200pt" alt="drone-top" />-->
-    <img src="https://jiaoyangli.me/images/bar.gif" width="200pt" alt="arm" />
-</p>
-
+<div style="display: flex; flex-wrap: wrap; text-align: center">
+    <div style="min-width:200px;flex: 1;margin: 5px;">
+        <img src="https://jiaoyangli.me/images/arena.gif" width="100%" alt="arena"/>
+        <figcaption>Searching in 2D spaces.</figcaption>
+    </div>
+    <div style="min-width:200px;flex: 1;margin: 5px;">
+        <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="100%" alt="3D maze"/>
+        <figcaption>Searching in 3D spaces.</figcaption>
+    </div>
+    <div style="min-width:200px;flex: 1;margin: 5px;">
+        <img src="https://jiaoyangli.me/images/bar.gif" style="max-height:200pt" alt="arm" />
+        <figcaption>Searching in high-dimensional spaces.</figcaption>
+    </div>
+</div>
+<div style="clear:both;"></div>
 
 Relevant publications: 
 [1] [agents of different shapes](https://jiaoyangli.me/publications/LiAAAI19large),
@@ -38,6 +44,12 @@ Relevant publications:
 
 
 ## Moving in formation
+<p style="text-align:center;">
+    <img src="../images/formation-random-4x.gif" style="max-height:200pt" alt="formation-random"/>
+    <img src="../images/formation-tight-4x.gif" style="max-height:200pt" alt="formation-tight"/>
+    <img src="../images/formation-wide-4x.gif" style="max-height:200pt" alt="formation-wide"/>
+</p>
+
 [1] [agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
 
 <div style="float: right;">
