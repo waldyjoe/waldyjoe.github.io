@@ -20,11 +20,20 @@ author_profile: true
 
 {% include base_path %}
 
-{% if page.excerpt %}
-  ({{page.excerpt}})
-{% endif %}
+{%- if page.excerpt -%}
+  ({{page.excerpt}})<br>
+{%- endif -%}
 
-{% if page.pages %}
+{%- if page.pages -%}
+  {%- for author in page.authors -%}
+    {%- unless forloop.last -%}
+      {{author}},&nbsp;
+    {%- else -%}
+      and {{author}}.
+    {%- endunless -%}
+  {%- endfor -%} <br>
+  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, pages {{ page.pages }}, {{ page.year }}.<br>
+{%- else -%}
   {{ page.title }} <br>
   {%- for author in page.authors -%}
     {%- unless forloop.last -%}
@@ -33,19 +42,12 @@ author_profile: true
       and {{author}}.
     {%- endunless -%}
   {%- endfor -%} <br>
-  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, pages {{ page.pages }}, {{ page.year }}.
-{% else %}
-  {{ page.title }} <br>
-  {%- for author in page.authors -%}
-    {%- unless forloop.last -%}
-      {{author}},&nbsp;
-    {%- else -%}
-      and {{author}}.
-    {%- endunless -%}
-  {%- endfor -%} <br>
-  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, (in print), {{ page.year }}.
-{% endif %}
-{% if page.publisherurl %}
+  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, (in print), {{ page.year }}.<br>
+{%- endif -%}
+
+{%- assign bibtex-id = {{ 'bibtex-' + page.index }} -%}
+
+{%- if page.publisherurl -%}
   [[publisher]({{ page.publisherurl }})]&nbsp;
 {%- endif -%}
 {%- if page.pdfurl -%}
@@ -56,8 +58,8 @@ author_profile: true
 {%- endif -%}
 [<a href="javascript:void(0)" onclick="(function(target, id) {
   if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') }
-  else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, "{{ 'bibtex-' + page.index }}");">bibtex</a>]
-<div id="{{ 'bibtex-' + page.index }}" style="display:none">
+  else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, '{{ bibtex-id }}');">bibtex</a>]
+<div id="{{ bibtex-id }}" style="display:none">
   <pre>@inproceedings{ {{ page.index }},
     author    = {&nbsp;{%- for author in page.authors -%}
     {%- unless forloop.last -%}

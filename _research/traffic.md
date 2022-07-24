@@ -39,6 +39,13 @@ deliver deadlock-free actions **in real-time** during execution that are robust 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
+<div style="display:flex;justify-content:center;align-items:center; ">
+    <iframe style="width: 500px;"
+        src="https://www.youtube.com/embed/Pw4GBL1UhPA"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 
 Relevant publications: 
 [1] [railway planing and replanning](https://jiaoyangli.me/publications/LiICAPS21) (**winner of the NeurIPS'20 Flatland Challenge**),
