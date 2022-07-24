@@ -2,6 +2,7 @@
 index: MaAAMAS17
 permalink: /publications/2017-AAMAS
 title: "Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks"
+authors: [Hang Ma, Jiaoyang Li, T. K. Satish Kumar, Sven Koenig] 
 venue: 'International Conference on Autonomous Agents and Multi-Agent Systems'
 venue-abbr: 'AAMAS'
 venue-type: 'proceedings'
@@ -10,7 +11,7 @@ year: 2017
 pdfurl: http://jiaoyang-li.github.io/files/2017-AAMAS.pdf
 publisherurl: https://dl.acm.org/citation.cfm?id=3091243
 codeurl:
-authors: [Hang Ma, Jiaoyang Li, T. K. Satish Kumar, Sven Koenig] 
+talkurl:
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 collection: publications
 layout: archive
@@ -18,6 +19,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+{% if page.excerpt %}
+  ({{page.excerpt}})
+{% endif %}
 
 {% if page.pages %}
   {{ page.title }} <br>
@@ -36,6 +41,7 @@ author_profile: true
       {{author}},
     {%- else -%}
       and {{author}}.
+    {%- endunless -%}
   {%- endfor -%} <br>
   <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, (in print), {{ page.year }}. <br>
 {% endif %}
