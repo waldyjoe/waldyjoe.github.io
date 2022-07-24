@@ -27,8 +27,10 @@ A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appear
 }
 </pre></div>  
  
-<iframe style="display: block; margin: auto; max-width: 500px;"
-    src="https://www.youtube.com/embed/Pw4GBL1UhPA"
-    title="YouTube video player" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<div style="text-align:center; width:100%; display: flex; align-items: center; justify-content: center;">
+    <iframe style="max-width: 500px; aspect-ratio: 16/9;"
+        src="https://www.youtube.com/embed/Pw4GBL1UhPA"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>

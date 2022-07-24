@@ -23,15 +23,15 @@ MAPF can be also used for planning trajectories for robotic arms!
 <div style="display: flex; flex-wrap: wrap; text-align: center">
     <div style="min-width:310px;flex: 1;margin: 5px;">
         <img src="https://jiaoyangli.me/images/arena.gif" width="200px" alt="arena"/>
-        <figcaption>Searching in 2D spaces.</figcaption>
+        <figcaption>Searching in a 2D space.</figcaption>
     </div>
     <div style="min-width:310px;flex: 1;margin: 5px;">
         <img src="https://jiaoyangli.me/images/3Dmaze.gif" width="308.88px" alt="3D maze"/>
-        <figcaption>Searching in 3D spaces.</figcaption>
+        <figcaption>Searching in a 3D space.</figcaption>
     </div>
     <div style="min-width:310px;flex: 1;margin: 5px;">
         <img src="https://jiaoyangli.me/images/bar.gif" width="200px" alt="arm" />
-        <figcaption>Searching in high-dimensional spaces.</figcaption>
+        <figcaption>Searching in a high-dimensional space (i.e., configuration space).</figcaption>
     </div>
 </div>
 <div style="clear:both;"></div>
@@ -45,12 +45,12 @@ Relevant publications:
 
 ## Moving in formation
 <p style="text-align:center;">
-    <img src="/images/formation-random-4x.gif" style="max-height:200pt" alt="formation-random"/>
-    <img src="/images/formation-tight-4x.gif" style="max-height:200pt" alt="formation-tight"/>
-    <img src="/images/formation-wide-4x.gif" style="max-height:200pt" alt="formation-wide"/>
+    <img src="/images/formation-random-4x.gif" style="max-height:150pt" alt="formation-random"/>
+    <img src="/images/formation-tight-4x.gif" style="max-height:150pt" alt="formation-tight"/>
+    <img src="/images/formation-wide-4x.gif" style="max-height:150pt" alt="formation-wide"/>
 </p>
 
-[1] [agents that move in formation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf "AAMAS 2020").
+[1] [agents that move in formation](https://jiaoyangli.me/publications/LiAAMAS20).
 
 <div style="float: right;">
     <button onclick="location.href='https://jiaoyangli.me/research/'" type="button">Back to the Research page</button>
