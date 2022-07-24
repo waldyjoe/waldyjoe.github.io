@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Planning for Heterogeneous and Nonholonomic Robots"
+title: "Planning for Complex Robot Teams"
 permalink: /research/drones/
 author_profile: true
 ---
@@ -50,7 +50,7 @@ Relevant publications:
     <img src="/images/formation-wide-4x.gif" style="max-height:150pt" alt="formation-wide"/>
 </p>
 
-[1] [agents that move in formation](https://jiaoyangli.me/publications/LiAAMAS20).
+[1] [agents that move in formation](https://jiaoyangli.me/publications/LiAAMAS20formation).
 
 <div style="float: right;">
     <button onclick="location.href='https://jiaoyangli.me/research/'" type="button">Back to the Research page</button>

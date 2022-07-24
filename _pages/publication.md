@@ -431,7 +431,7 @@ You can also find my articles on
 }
 </pre></div>  
 
-* [Moving Agents in Formation in Congested Environments](https://jiaoyangli.me/publications/LiAAMAS20formation).     
+* [Moving Agents in Formation in Congested Environments](https://jiaoyangli.me/publications/LiAAMAS20).     
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, pages 726-734, 2020.       
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18535/17676 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 131-132, 2020.       
@@ -439,9 +439,9 @@ You can also find my articles on
     [[long talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]
     [[short talk](https://www.youtube.com/watch?v=snTG2yL-dgI&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=35)]
     [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20formation');">bibtex</a>]
-<div id="bibtex-LiAAMAS20formation" style="display:none">
-<pre>@inproceedings{LiAAMAS20formation,
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20');">bibtex</a>]
+<div id="bibtex-LiAAMAS20" style="display:none">
+<pre>@inproceedings{LiAAMAS20,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
   title     = {Moving Agents in Formation in Congested Environments},
   booktitle = {Proceedings of the International Joint Conference on Autonomous Agents and Mult-Agent Systems (AAMAS)},
