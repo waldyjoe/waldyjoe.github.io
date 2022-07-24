@@ -7,31 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-<div>
-    <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center"> 
-        <video id="single-agent" width="300pt"  autoplay loop controls> 
-            <source type="video/mp4" src="https://jiaoyangli.me/images/Single+_800agents-8x.mp4" /> 
-        </video>
-        <figcaption>Traditional single-agent solver for automated warehouses</figcaption>
-    </div>
-    <div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center">
-        <video id="multi-agent" width="300pt"  autoplay loop controls> 
-            <source type="video/mp4" src="https://jiaoyangli.me/images/PBS_w=10_800agents-8x.mp4" /> 
-        </video>
-        <figcaption>Our MAPF solver for automated warehouses</figcaption>
-    </div>
-    Today, in automated warehouses, 
-    mobile robots already autonomously move inventory pods or flat packages from one location to another. 
-    Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. 
-    However, MAPF is only the “one-shot” variant of the actual problem in many applications. 
-    Typically, after an agent reaches its goal location, it does not stop and wait there forever. 
-    Instead, it is assigned a new goal location and required to keep moving, 
-    which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. 
-    There are three challenges in this problem, namely 
-    how to assign tasks to agents, 
-    how to decompose the lifelong problem to one-shot MAPF problems and solve it efficiently, and
-    how to handle robot dynamics and uncertainties during execution.
+<div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center"> 
+    <video id="single-agent" width="300pt"  autoplay loop controls> 
+        <source type="video/mp4" src="https://jiaoyangli.me/images/Single+_800agents-8x.mp4" /> 
+    </video>
+    <figcaption>Traditional single-agent solver for automated warehouses</figcaption>
 </div>
+<div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center">
+    <video id="multi-agent" width="300pt"  autoplay loop controls> 
+        <source type="video/mp4" src="https://jiaoyangli.me/images/PBS_w=10_800agents-8x.mp4" /> 
+    </video>
+    <figcaption>Our MAPF solver for automated warehouses</figcaption>
+</div>
+Today, in automated warehouses, 
+mobile robots already autonomously move inventory pods or flat packages from one location to another. 
+Finding low-cost paths for the robots in real-time is essential for the effectiveness of such systems. 
+However, MAPF is only the “one-shot” variant of the actual problem in many applications. 
+Typically, after an agent reaches its goal location, it does not stop and wait there forever. 
+Instead, it is assigned a new goal location and required to keep moving, 
+which is referred to as lifelong MAPF and characterized by agents constantly being assigned new goal locations. 
+There are three challenges in this problem, namely 
+how to assign tasks to agents, 
+how to decompose the lifelong problem to one-shot MAPF problems and solve it efficiently, and
+how to handle robot dynamics and uncertainties during execution.
+
 
 ## Combined Task and Path Planning
 
@@ -52,7 +51,7 @@ Relevant publications:
 
 ## Scalability and Solution Quality
 
-<img src="https://jiaoyangli.me/images/single-vs-mapf.png" title="Single vs MAPF" style="float:left;width:200pt;padding-left:10px;"  alt="mapf demo"/>
+<img src="https://jiaoyangli.me/images/single-vs-mapf.png" style="float:left;width:200pt;padding-left:10px;"  alt="Single vs MAPF"/>
 The principled way of solving this challenge is to develop efficient and effective MAPF algorithms. 
 More details can be found in our research on [Foundations of MAPF](https://jiaoyangli.me/research/mapf/).
 
