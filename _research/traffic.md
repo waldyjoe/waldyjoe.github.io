@@ -39,7 +39,7 @@ deliver deadlock-free actions **in real-time** during execution that are robust 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
-<div style="display:flex;justify-content:center;align-items:center; ">
+<div style="display:flex;justify-content:center;align-items:center; width: 100%">
     <iframe style="width: 500px;"
         src="https://www.youtube.com/embed/Pw4GBL1UhPA"
         title="YouTube video player" frameborder="0"

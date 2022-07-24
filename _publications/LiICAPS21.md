@@ -17,7 +17,6 @@ A short version appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>,
 [[talk](https://slideslive.com/38942745/2020-flatland-challenge)] 
 [[media](https://viterbischool.usc.edu/news/2021/03/making-the-virtual-trains-run-on-time-usc-team-world-champs-in-ai-challenge/)] 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
-[<a href="#" target="_self" onclick="toggle_visibility('bibtex-LiICAPS21');">SlidesLive-test</a>]
 <div id="bibtex-LiICAPS21" style="display:none">
 <pre>@inproceedings{LiICAPS21,
   author    = {Jiaoyang Li and Zhe Chen and Yi Zheng and Shao-Hung Chan and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
