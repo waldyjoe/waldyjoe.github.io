@@ -57,7 +57,7 @@ author_profile: true
   [[code]({{ page.codeurl }})]&nbsp;
 {%- endif -%}
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, '{{ bibtex-id }}');">bibtex</a>]
-<div id="{{ bibtex-id }}" style="display:none">
+<div id='{{ bibtex-id }}' style="display:none">
   <pre>@inproceedings{ {{ page.index }},
     author    = {&nbsp;{%- for author in page.authors -%}
     {%- unless forloop.last -%}

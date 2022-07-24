@@ -21,7 +21,7 @@ Xinyi Zhong, **Jiaoyang Li**, Sven Koenig and Hang Ma.
 </pre></div>  
 
 <div style="text-align: center"> 
-    <video style="max-height:180px" controls> 
+    <video style="max-width:500px" controls> 
         <source type="video/mp4" src="/images/icra22-demo.mp4" /> 
     </video>
 </div>
