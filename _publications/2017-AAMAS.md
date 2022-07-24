@@ -2,7 +2,7 @@
 index: MaAAMAS17
 permalink: /publications/2017-AAMAS
 title: "Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks"
-authors: [Hang Ma, Jiaoyang Li, T. K. Satish Kumar, Sven Koenig] 
+authors: ['Hang Ma', 'Jiaoyang Li', 'T. K. Satish Kumar', 'Sven Koenig'] 
 venue: 'International Conference on Autonomous Agents and Multi-Agent Systems'
 venue-abbr: 'AAMAS'
 venue-type: 'proceedings'
@@ -28,22 +28,22 @@ author_profile: true
   {{ page.title }} <br>
   {%- for author in page.authors -%}
     {%- unless forloop.last -%}
-      {{author}},
+      {{author}},&nbsp
     {%- else -%}
       and {{author}}.
     {%- endunless -%}
   {%- endfor -%} <br>
-  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, pages {{ page.pages }}, {{ page.year }}. <br>
+  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, pages {{ page.pages }}, {{ page.year }}.
 {% else %}
   {{ page.title }} <br>
   {%- for author in page.authors -%}
     {%- unless forloop.last -%}
-      {{author}},
+      {{author}},&nbsp
     {%- else -%}
       and {{author}}.
     {%- endunless -%}
   {%- endfor -%} <br>
-  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, (in print), {{ page.year }}. <br>
+  <i>{{ page.venue }} (<strong>{{ page.venue-abbr }}</strong>)</i>, (in print), {{ page.year }}.
 {% endif %}
 {% if page.publisherurl %}
   [[publisher]({{ page.publisherurl }})]
@@ -59,7 +59,13 @@ author_profile: true
   else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, '$('bibtex-' + {{ page.index }})');">bibtex</a>]
 <div id="$('bibtex-' + {{ page.index }})" style="display:none">
   <pre>@inproceedings{ {{ page.index }},
-    author    = {Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+    author    = { {%- for author in page.authors -%}
+    {%- unless forloop.last -%}
+      {{author}} and &nbsp
+    {%- else -%}
+      {{author}}
+    {%- endunless -%}
+  {%- endfor -%} },
     title     = {Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks},
     booktitle = {Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
     pages     = {837--845},
@@ -71,9 +77,15 @@ author_profile: true
 {% if page.venue-type == 'proceedings' %}
 <pre>
 @inproceedings{ {{ page.index }},
-  author    = { Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig },
+  author    = { {%- for author in page.authors -%}
+    {%- unless forloop.last -%}
+      {{author}} and &nbsp
+    {%- else -%}
+      {{author}}
+    {%- endunless -%}
+  {%- endfor -%} },
   title     = { {{ page.title }} },
-  booktitle = {Proceedings of the {{page.venue}} ({{page.venue-abbr}}) },
+  booktitle = { Proceedings of the {{page.venue}} ({{page.venue-abbr}}) },
   pages     = { {{ page.pages }} },
   year      = { {{ page.year }} }
 }
