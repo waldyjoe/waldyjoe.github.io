@@ -32,11 +32,16 @@ Highlights:
 The MAPF-based software we developed for the NeurIPS'20 Flatland Challenge in [1] can plan collision-free paths for **more than 3000 agents** within a few minutes and
 deliver deadlock-free actions **in real-time** during execution that are robust to unexpected delays. It outperformed all other solutions, including all reinforcement learning solutions, to **win the overall first place** in both rounds. A comparison of our solution with top reinforcement learning solutions can be found in [2].
 
-<iframe width="400px" style="display: block; margin: auto"
-    src="https://www.youtube.com/embed/Pw4GBL1UhPA"
-    title="YouTube video player" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<div style="width: 500px; margin: auto">
+    <div class="embed-responsive embed-responsive-4by3">
+        <iframe style="display: block; margin: auto"
+            src="https://www.youtube.com/embed/Pw4GBL1UhPA"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
+    </div>
+</div>
 
 Relevant publications: 
 [1] [railway planing and replanning](https://jiaoyangli.me/publications/LiICAPS21) (**winner of the NeurIPS'20 Flatland Challenge**),

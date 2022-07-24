@@ -3,7 +3,7 @@ id: MaAAMAS17
 permalink: /publications/2017-AAMAS
 title: "Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks"
 venue: 'International Conference on Autonomous Agents and Multi-Agent Systems'
-venue-abbr" 'AAMAS'
+venue-abbr: 'AAMAS'
 pages: 837--845
 year: 2017
 pdfurl: http://jiaoyang-li.github.io/files/2017-AAMAS.pdf
