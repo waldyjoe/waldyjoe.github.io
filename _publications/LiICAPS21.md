@@ -10,7 +10,7 @@ author_profile: true
 (**Winner of the NeurIPS'20 Flatland Challenge**).         
 **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chan, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
 <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.      
-A short version appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021.                     
+A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021.                     
 [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/15994)]
 [[demo](https://youtu.be/Pw4GBL1UhPA)] 
 [[code](https://github.com/Jiaoyang-Li/Flatland)] 
