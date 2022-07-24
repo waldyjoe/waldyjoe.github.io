@@ -298,12 +298,14 @@ You can also find my articles on
 }
 </pre></div>   
 
-* [Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances](https://jiaoyangli.me/publications/ChenAAAI21).               
+* [Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances](https://jiaoyangli.me/publications/ChenAAAI21s2m2).               
     Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11237-11245, 2021.        
-    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17340)] [[code](https://github.com/jkchengh/s2m2)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21');">bibtex</a>]
-<div id="bibtex-ChenAAAI21" style="display:none">
-<pre>@inproceedings{ChenAAAI21a,
+    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17340)]
+    [[code](https://github.com/jkchengh/s2m2)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21s2m2');">bibtex</a>]
+<div id="bibtex-ChenAAAI21s2m2" style="display:none">
+<pre>@inproceedings{ChenAAAI21s2m2,
   author    = {Jingkai Chen and Jiaoyang Li and Chuchu Fan and Brian Williams},
   title     = {Scalable and Safe Multi-Agent Motion Planning with Nonlinear Dynamics and Bounded Disturbances},
   booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},

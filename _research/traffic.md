@@ -7,14 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-<div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center"> 
-    <img src="https://jiaoyangli.me/images/flatland.gif" alt="flatland" style="height:150pt;width:auto" />
+<div id="wrapper" style="float: left; width: 46.4%; padding: 10px; text-align: center"> 
+    <img src="https://jiaoyangli.me/images/flatland.gif" alt="flatland" style="max-height:150pt;" />
     <figcaption>Rail planning and replanning</figcaption>
 </div>
-<div id="wrapper" style="float: left; width: 50%; padding: 10px; text-align: center">
-    <img src="https://jiaoyangli.me/images/airport-2x.gif" alt="airport" style="height:150pt;width:auto" />
+<div id="wrapper" style="float: left; width: 53.6%; padding: 10px; text-align: center">
+    <img src="https://jiaoyangli.me/images/airport-2x.gif" alt="airport" style="max-height:150pt;" />
     <figcaption>Airport surface coordination</figcaption>
 </div>
+<div style="clear:both;"></div>
 
 MAPF can be used for traffic management for autonomous vehicle, trains, or airplanes. 
 This can reduce traffic congestion, energy consumption, and air pollution. 
@@ -33,7 +34,7 @@ The MAPF-based software we developed for the NeurIPS'20 Flatland Challenge in [1
 deliver deadlock-free actions **in real-time** during execution that are robust to unexpected delays. It outperformed all other solutions, including all reinforcement learning solutions, to **win the overall first place** in both rounds. A comparison of our solution with top reinforcement learning solutions can be found in [2].
 
 
-<iframe style="display: block; margin: auto; width: 500px; max-width:100%; text-align: center"
+<iframe style="display: block; margin: auto; max-width: 500px; text-align: center"
     src="https://www.youtube.com/embed/Pw4GBL1UhPA"
     title="YouTube video player" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
