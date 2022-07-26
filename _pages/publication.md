@@ -15,8 +15,8 @@ You can also find my articles on
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
     Han Zhang, Pavel Surynek, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.      
     <i>Artificial Intelligence (**AIJ**)</i>, page 1034766, 2021.                           
-    [[publisher](https://doi.org/10.1016/j.artint.2022.103766)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
+    [[publisher](https://doi.org/10.1016/j.artint.2022.103766)]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
 <pre>@article{ZhangAIJ22,
   author    = {Han Zhang and Pavel Surynek and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
@@ -44,7 +44,8 @@ You can also find my articles on
 * [A MIP-Based Approach for Multi-Robot Geometric Task-and-Motion Planning](https://jiaoyangli.me/publications/ZhangCASE22).        
     Hejia Zhang, Shao-Hung Chan, Jie Zhong, **Jiaoyang Li**, Sven Koenig and Stefanos Nikolaidis.       
     <i>IEEE International Conference on Automation Science and Engineering (**CASE**)</i>, (in print), 2022.   
-    [[pdf](https://jiaoyang-li.github.io/files/2022-CASE.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangCASE22');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangCASE22');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-CASE.pdf)] 
 <div id="bibtex-ZhangCASE22" style="display:none">
 <pre>@inproceedings{ZhangCASE22,
   author    = {Hejia Zhang and Shao-Hung Chan and Jie Zhong and Jiaoyang Li and Sven Koenig and Stefanos Nikolaidis},
@@ -57,9 +58,9 @@ You can also find my articles on
 * [Which MAPF Model Works Best for Automated Warehousing?](https://jiaoyangli.me/publications/VaramballySoCS22)          
     Sumanth Varambally, **Jiaoyang Li** and Sven Koenig.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 190-198, 2022.   
-    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21767)]
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-model.pdf)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-VaramballySoCS22');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-model.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21767)]
 <div id="bibtex-VaramballySoCS22" style="display:none">
 <pre>@inproceedings{VaramballySoCS22,
   author    = {Sumanth Varambally and Jiaoyang Li and Sven Koenig},
@@ -73,9 +74,9 @@ You can also find my articles on
 * [Learning a Priority Ordering for Prioritized Planning in Multi-Agent Path Finding](https://jiaoyangli.me/publications/ZhangSoCS22).        
     Shuyang Zhang, **Jiaoyang Li**, Taoan Huang, Sven Koenig and Bistra Dilkina.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 208-216, 2022.      
-    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21769)
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-pp.pdf)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-pp.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21769)
 <div id="bibtex-ZhangSoCS22" style="display:none">
 <pre>@inproceedings{ZhangSoCS22,
   author    = {Shuyang Zhang and Jiaoyang Li and Taoan Huang and Sven Koenig and Bistra Dilkina},
@@ -89,10 +90,10 @@ You can also find my articles on
 * [Multi-Train Path Finding Revisited](https://jiaoyangli.me/publications/ChenSoCS22).        
     Zhe Chen, **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 38-46, 2022.      
-    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21750)]
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-train.pdf)]
-    [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenSoCS22');">bibtex</a>]
+    [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-train.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21750)]
 <div id="bibtex-ChenSoCS22" style="display:none">
 <pre>@inproceedings{ChenSoCS22,
   author    = {Zhe Chen and Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
@@ -106,9 +107,9 @@ You can also find my articles on
 * [Mutex Propagation in Multi-Agent Path Finding for Large Agents](https://jiaoyangli.me/publications/ZhangSoCS22mutex) (short paper).        
     Han Zhang, Yutong Li, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 249-253, 2022.      
-    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21776)]
-    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-mutex.pdf)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22mutex');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-mutex.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21776)]
 <div id="bibtex-ZhangSoCS22mutex" style="display:none">
 <pre>@inproceedings{ZhangSoCS22mutex,
   author    = {Han Zhang and Yutong Li and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
@@ -138,7 +139,9 @@ You can also find my articles on
 * [Multi-Agent Path Finding for Precedence-Constrained Goal Sequences](https://jiaoyangli.me/publications/ZhangAAMAS22).     
     Han Zhang, Jingkai Chen, **Jiaoyang Li**, Brian Williams and Sven Koenig.       
     <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1464-1472, 2022.   
-    [[pdf](https://jiaoyang-li.github.io/files/2022-AAMAS.pdf)] [[code](https://github.com/HanZhang39/MAPF-PC)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAMAS22');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAMAS22');">bibtex</a>]
+    [[code](https://github.com/HanZhang39/MAPF-PC)] 
+    [[pdf](https://jiaoyang-li.github.io/files/2022-AAMAS.pdf)]
 <div id="bibtex-ZhangAAMAS22" style="display:none">
 <pre>@inproceedings{ZhangAAMAS22,
   author    = {Han Zhang and Jingkai Chen and Jiaoyang Li and Brian Williams and Sven Koenig},
@@ -218,8 +221,9 @@ You can also find my articles on
 * [Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search](https://jiaoyangli.me/publications/LiAIJ21).     
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma, Graeme Gange and Sven Koenig.       
     <i>Artificial Intelligence (**AIJ**)</i>, vol 301, pages 103574, 2021.          
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAIJ21');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
     [[publisher](https://doi.org/10.1016/j.artint.2021.103574)]
-    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAIJ21');">bibtex</a>]
 <div id="bibtex-LiAIJ21" style="display:none">
 <pre>@article{LiAIJ21,
   author    = {Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Hang Ma and Graeme Gange and Sven Koenig},
