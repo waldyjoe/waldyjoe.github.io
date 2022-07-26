@@ -14,7 +14,7 @@ You can also find my articles on
 ## 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
     Han Zhang, Pavel Surynek, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.      
-    <i>Artificial Intelligence (**AIJ**)</i>, (in print), 2021.                           
+    <i>Artificial Intelligence (**AIJ**)</i>, page 1034766, 2021.                           
     [[publisher](https://doi.org/10.1016/j.artint.2022.103766)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
@@ -122,7 +122,9 @@ You can also find my articles on
 * [Optimal and Bounded-Suboptimal Multi-Goal Task Assignment and Path Finding](https://jiaoyangli.me/publications/ZhongICRA22).        
     Xinyi Zhong, **Jiaoyang Li**, Sven Koenig and Hang Ma.       
     <i>IEEE International Conference on Robotics and Automation (**ICRA**)</i>, pages 10731-10737, 2022.   
-    [[pdf](https://jiaoyang-li.github.io/files/2022-ICRA.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhongICRA22');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhongICRA22');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-ICRA.pdf)]
+    [[publisher](https://ieeexplore.ieee.org/document/9812020)] 
 <div id="bibtex-ZhongICRA22" style="display:none">
 <pre>@inproceedings{ZhongICRA22,
   author    = {Xinyi Zhong and Jiaoyang Li and Sven Koenig and Hang Ma},
