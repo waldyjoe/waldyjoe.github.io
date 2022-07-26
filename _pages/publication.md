@@ -151,52 +151,65 @@ You can also find my articles on
 
 * [MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyangli.me/publications/LiAAAI22).     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.  
-    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-1.pdf)] [[code](https://github.com/Jiaoyang-Li/MAPF-LNS2)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI22');">bibtex</a>]
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 10256-10265, 2022.  
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI22');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/MAPF-LNS2)]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-1.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21266)]
 <div id="bibtex-LiAAAI22" style="display:none">
 <pre>@inproceedings{LiAAAI22,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
   title     = { {MAPF-LNS2}: Repairing Multi-Agent Path Finding via Large Neighborhood Search},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {10256--10265},
   year      = {2022}
 }
 </pre></div>   
 
 * [Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search](https://jiaoyangli.me/publications/HuangAAAI22).     
     Taoan Huang, **Jiaoyang Li**, Sven Koenig and Bistra Dilkina.       
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.   
-    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-2.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-HuangAAAI22');">bibtex</a>]
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9368-9376, 2022.   
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-HuangAAAI22');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-2.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21168)]
 <div id="bibtex-HuangAAAI22" style="display:none">
 <pre>@inproceedings{HuangAAAI22,
   author    = {Taoan Huang and Jiaoyang Li and Sven Koenig and Bistra Dilkina},
   title     = {Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {9368--9376},
   year      = {2022}
 }
 </pre></div>   
 
 * [Shard Systems: Scalable, Robust and Persistent Multi-Agent Path Finding with Performance Guarantees](https://jiaoyangli.me/publications/LeetAAAI22).     
     Christopher Leet, **Jiaoyang Li** and Sven Koenig.       
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.       
-    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-3.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LeetAAAI22');">bibtex</a>]
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9386-9395, 2022.       
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LeetAAAI22');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-3.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21170)]
 <div id="bibtex-LeetAAAI22" style="display:none">
 <pre>@inproceedings{LeetAAAI22,
   author    = {Christopher Leet and Jiaoyang Li and Sven Koenig},
   title     = {Shard Systems: Scalable, Robust and Persistent Multi-Agent Path Finding with Performance Guarantees},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {9386--9395},
   year      = {2022}
 }
 </pre></div>   
 
 * [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://jiaoyangli.me/publications/ChanAAAI22).     
     Shao-Hung Chan, **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.      
-    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-4.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.      
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2022-AAAI-4.pdf)]
+    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
 <div id="bibtex-ChanAAAI22" style="display:none">
 <pre>@inproceedings{ChanAAAI22,
   author    = {Shao-Hung Chan and Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
   title     = {Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  pages     = {9313--9322},
   year      = {2022}
 }
 </pre></div> 

@@ -51,6 +51,7 @@ Relevant publications:
     <img src="/images/formation-wide-4x.gif" style="max-height:150pt" alt="formation-wide"/>
 </p>
 
+Relevant publications: 
 [1] [agents that move in formation](https://jiaoyangli.me/publications/LiAAMAS20formation).
 
 <div style="float: right;">
