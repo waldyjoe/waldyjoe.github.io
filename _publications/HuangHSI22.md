@@ -9,8 +9,8 @@ author_profile: true
 
 Taoan Huang, Vikas Shivashankar, Michael Caldara, Joseph Durham, **Jiaoyang Li**, Bistra Dilkina and Sven Koenig.
 <i>IJCAI Workshop on Heuristic Search in Industry (**HSI**)</i>, 2022.  
-[[pdf](https://jiaoyang-li.github.io/files/HuangHSI22.pdf)]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-HuangHSI22');">bibtex</a>]
+[[pdf](https://jiaoyang-li.github.io/files/HuangHSI22.pdf)]
 <div id="bibtex-HuangHSI22" style="display:none">
 <pre>@inproceedings{HuangHSI22,
   author    = {Taoan Huang and Vikas Shivashankar and Michael Caldara and Joseph Durham and Jiaoyang Li and Bistra Dilkina and Sven Koenig},
