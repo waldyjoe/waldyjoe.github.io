@@ -10,7 +10,7 @@ You can also find my articles on
 
 {% include base_path %}
 
-[2022](#year2022) | [2017](#year2017)
+[2022](#year2022) | [2021](#year2021]) | [2020](#year2020]) | [2019](#year2019]) | [2018](year2018]) | [2017](#year2017) | [preprints](#preprints) | [Thesis](#thesis)
 
 ## <a name="year2022"></a> 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
@@ -722,6 +722,37 @@ You can also find my articles on
 
 ## <a name="preprints"></a> Preprints
 
+* Cooperative Task and Motion Planning for Multi-Arm Assembly Systems.     
+    Jingkai Chen, **Jiaoyang Li**, Yijiang Huang, Caelan Garrett, Dawei Sun, Chuchu Fan, Andreas Hofmann, Caitlin Mueller, Sven Koenig, Brian C. Williams.  
+    <i>arXiv:2203.02475</i>, 2022.<br>
+    [[arxiv](https://arxiv.org/abs/2203.02475)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Chen22');">bibtex</a>]
+<div id="bibtex-Chen22" style="display:none">
+<pre>@misc{Chen22,
+  doi = {10.48550/ARXIV.2203.02475},
+  url = {https://arxiv.org/abs/2203.02475},
+  author = {Chen, Jingkai and Li, Jiaoyang and Huang, Yijiang and Garrett, Caelan and Sun, Dawei and Fan, Chuchu and Hofmann, Andreas and Mueller, Caitlin and Koenig, Sven and Williams, Brian C.}, 
+  title = {Cooperative Task and Motion Planning for Multi-Arm Assembly Systems}, 
+  publisher = {arXiv},
+  year = {2022}
+}
+</pre></div>
+
+* Multi-Robot Routing with Time Windows: A Column Generation Approach.     
+    Naveed Haghani, **Jiaoyang Li**, Sven Koenig, Gautam Kunapuli, Claudio Contardo, Amelia Regan and Julian Yarkony.  
+    <i>arXiv:2103.08835</i>, 2021.<br>
+    [[arxiv](https://arxiv.org/abs/2103.08835)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Haghani21');">bibtex</a>]
+<div id="bibtex-Haghani21" style="display:none">
+<pre>@misc{Haghani21,
+  doi = {10.48550/ARXIV.2103.08835},
+  url = {https://arxiv.org/abs/2103.08835},
+  author = {Haghani, Naveed and Li, Jiaoyang and Koenig, Sven and Kunapuli, Gautam and Contardo, Claudio and Regan, Amelia and Yarkony, Julian}, 
+  title = {Multi-Robot Routing with Time Windows: A Column Generation Approach}, 
+  publisher = {arXiv},
+  year = {2021}
+}
+</pre></div>
 
 ## <a name="thesis"></a> PhD Thesis
 * [Efficient and Effective Techniques for Large-Scale Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiPhD22).     
