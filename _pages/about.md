@@ -13,10 +13,21 @@ I am an assistant professor in [the Robotics Institute](https://www.ri.cmu.edu/)
 I received my Ph.D. degree in Computer Science at [University of Southern California](https://www.usc.edu/) in 2022, advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
 I received my B.Eng. degree from Department of Automation, School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
 I am interested in a variety of topics related to Artificial Intelligence and optimization, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
-You can find my CV [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
+* Check out my **research** [here](https://jiaoyangli.me/research/).
+* Check out my **publication** [here](https://jiaoyangli.me/piblications/).
+* Check out my **CV** [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
-# News   
+## Research Opportunities
+I am always looking for self-motivated students at all levels.
+* If you are a prospective graduate student and interested in working with me, 
+please apply to one of the [graduate programs](https://www.ri.cmu.edu/ri-education/) offered by the Robotics Institute. 
+Please contact me after you have been admitted.
+* If you are a Carnegie Mellon student and interested in working with me, 
+please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a short description of your background and interests. 
+* If you are an undergraduate student and looking for summer research opportunities, you are highly encouraged to apply to CMU's [RISS program](https://riss.ri.cmu.edu/).
+
+## News   
 * \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
 * \[2022/05\] Organizing AAMAS-22 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas22.github.io/). 
 * \[2022/05\] Organizing AAMAS-22 tutorial on [Recent Advances in Multi-Agent Path Finding](http://mapf.info/index.php/Tutorial/AAMAS-22). 

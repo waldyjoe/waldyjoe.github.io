@@ -10,8 +10,9 @@ You can also find my articles on
 
 {% include base_path %}
 
+[2022](#year2022) | [2017](#year2017)
 
-## 2022  
+## <a name="year2022"></a> 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
     Han Zhang, Pavel Surynek, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.      
     <i>Artificial Intelligence (**AIJ**)</i>, page 1034766, 2021.                           
@@ -218,7 +219,7 @@ You can also find my articles on
 }
 </pre></div> 
 
-## 2021  
+## <a name="year2021"></a> 2021  
 * [Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search](https://jiaoyangli.me/publications/LiAIJ21).     
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma, Graeme Gange and Sven Koenig.       
     <i>Artificial Intelligence (**AIJ**)</i>, vol 301, pages 103574, 2021.          
@@ -387,7 +388,7 @@ You can also find my articles on
 }
 </pre></div> 
 
-## 2020
+## <a name="year2020"></a> 2020
 * [Multi-Directional Heuristic Search](https://jiaoyangli.me/publications/AtzmonIJCAI20).     
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4062-4068, 2020.         
@@ -498,7 +499,7 @@ You can also find my articles on
 }
 </pre></div> 
 
-## 2019
+## <a name="year2019"></a> 2019
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiIJCAI19).   
     **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
@@ -662,7 +663,7 @@ You can also find my articles on
 }
 </pre></div>   
 
-## 2018
+## <a name="year2018"></a> 2018
 * [Multi-Agent Path Finding with Deadlines](https://jiaoyangli.me/publications/MaIJCAI18).     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018.      
@@ -696,7 +697,7 @@ You can also find my articles on
 }
 </pre></div>         
 
-## 2017
+## <a name="year2017"></a> 2017
 * [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://jiaoyangli.me/publications/MaAAMAS17).     
     Hang Ma, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
     <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 837-845, 2017.    
@@ -718,3 +719,8 @@ You can also find my articles on
 * [Optimal Combinations and Variable Departure Intervals for Micro Bus System](https://ieeexplore.ieee.org/document/7914200 "Download pdf").    
     **Jiaoyang Li**, Jianming Hu and Yi Zhang.      
     <i>Tsinghua Science and Technology</i>, 22(3):282-292, 2017.-->
+
+## <a name="preprints"></a> Preprints
+
+
+## <a name="thesis"></a> PhD Thesis
