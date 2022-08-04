@@ -15,7 +15,7 @@ I received my B.Eng. degree from Department of Automation, School of Information
 I am interested in a variety of topics related to Artificial Intelligence and optimization, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
 
 * Check out my **research** [here](https://jiaoyangli.me/research/).
-* Check out my **publications** [here](https://jiaoyangli.me/piblications/).
+* Check out my **publications** [here](https://jiaoyangli.me/publications/).
 * Check out my **CV** [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
 
 ## Research Opportunities
