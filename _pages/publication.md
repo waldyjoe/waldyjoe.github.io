@@ -263,6 +263,7 @@ You can also find my articles on
     [[code](https://github.com/Jiaoyang-Li/Flatland)]
     [[demo](https://youtu.be/Pw4GBL1UhPA)]
     [[media](https://viterbischool.usc.edu/news/2021/03/making-the-virtual-trains-run-on-time-usc-team-world-champs-in-ai-challenge/)]
+    [[pdf](https://jiaoyangli.me/files/2021-ICAPS.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/15994)]
     [[talk](https://slideslive.com/38942745/2020-flatland-challenge)]
 <div id="bibtex-LiICAPS21" style="display:none">
