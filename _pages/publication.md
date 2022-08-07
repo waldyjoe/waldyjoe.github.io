@@ -225,6 +225,7 @@ You can also find my articles on
     <i>Artificial Intelligence (**AIJ**)</i>, vol 301, pages 103574, 2021.          
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAIJ21');">bibtex</a>]
     [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
+    [[pdf](https://jiaoyang-li.github.io/files/2021-AIJ.pdf)]
     [[publisher](https://doi.org/10.1016/j.artint.2021.103574)]
 <div id="bibtex-LiAIJ21" style="display:none">
 <pre>@article{LiAIJ21,
@@ -292,7 +293,7 @@ You can also find my articles on
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12353-12362, 2021.        
     [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17466)]
-    [[pdf](https://jiaoyangli.me/publications/LiAAAI21eecbs)]
+    [[pdf](https://jiaoyangli.me/files/2021-AAAI-1.pdf)]
     [[talk](https://slideslive.com/38947778/eecbs-a-boundedsuboptimal-search-for-multiagent-path-finding)]
     [[code](https://github.com/Jiaoyang-Li/EECBS)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI21eecbs');">bibtex</a>]
