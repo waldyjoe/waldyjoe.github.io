@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Moving Agents in Formation in Congested Environments"
-permalink: /publications/LiAAMAS20formation/
+permalink: /publications/LiAAMAS20/
 author_profile: true
 ---
 
