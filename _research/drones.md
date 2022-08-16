@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<p style="text-align:center;">
+    <img src="/images/mixed-robot-team.png" style="max-height:200pt" alt="mixed-robot-team"/>
+</p>
 <img src="/images/mapf-app-framework.png" style="float:left;width:300pt;padding:10px;"  alt="Multi-Robot Coordination Framework"/>
 Agents in MAPF are unrealistic and homogeneous, 
 in the sense that each agent occupies exactly one vertex at any timestep and 
