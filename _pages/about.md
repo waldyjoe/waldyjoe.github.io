@@ -20,12 +20,15 @@ I am interested in a variety of topics related to Artificial Intelligence and op
 
 ## Research Opportunities
 I am always looking for self-motivated students at all levels.
+
 * If you are a prospective graduate student and interested in working with me, 
 please apply to one of the [graduate programs](https://www.ri.cmu.edu/ri-education/) offered by the Robotics Institute. 
 Please contact me after you have been admitted.
 * If you are a Carnegie Mellon student and interested in working with me, 
 please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a short description of your background and interests. 
 * If you are an undergraduate student and looking for summer research opportunities, you are highly encouraged to apply to CMU's [RISS program](https://riss.ri.cmu.edu/).
+
+I currently do not have any fundings for postdoc positions.
 
 ## News   
 * \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
