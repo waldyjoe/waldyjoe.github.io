@@ -150,8 +150,8 @@ We develop Large Neighbor Search (LNS) algorithms
 that repeatedly replan paths for subsets of agents via prioritized planning. 
 They give up optimality guarantees 
 but find near-optimal solutions for thousands of agents in practice, 
-solve 80\% of the most challenging instances in the MAPF benchmark suite 
-(while previously the best suboptimal algorithms solve at most 65\%), and 
+solve 80% of the most challenging instances in the MAPF benchmark suite 
+(while previously the best suboptimal algorithms solve at most 65%), and 
 improve the solution quality by up to 36 times. 
 
 Relevant publications: 
