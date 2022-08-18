@@ -15,7 +15,7 @@ You can also find my articles on
 ## <a name="year2022"></a> 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
     Han Zhang, Pavel Surynek, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.      
-    <i>Artificial Intelligence (**AIJ**)</i>, page 1034766, 2021.                           
+    <i>Artificial Intelligence (**AIJ**)</i>, page 1034766, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
     [[publisher](https://doi.org/10.1016/j.artint.2022.103766)]
 <div id="bibtex-ZhangICAPS2020" style="display:none">
