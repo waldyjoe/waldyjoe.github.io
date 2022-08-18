@@ -10,7 +10,7 @@ You can also find my articles on
 
 {% include base_path %}
 
-[2022](#year2022) | [2021](#year2021]) | [2020](#year2020]) | [2019](#year2019]) | [2018](year2018]) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
+[2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
 
 ## <a name="year2022"></a> 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
