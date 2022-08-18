@@ -163,8 +163,7 @@ Relevant publications:
 
 ## Learning-Guided Planning
 Machine Learning (ML) can complement the search algorithms and boost their performance 
-by automatically discovering policies that are better than the hand-crafted ones. 
-% and tailoring the randomized heuristics to the instances at hand.
+by automatically discovering policies that are better than the hand-crafted ones and tailoring the randomized heuristics to the instances at hand.
 Examples include learning to generate priority orderings for prioritized planning
 and to select subsets of agents
 and determine the stopping criterion for LNS. 
