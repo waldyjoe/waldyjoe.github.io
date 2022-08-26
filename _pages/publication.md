@@ -14,13 +14,13 @@ You can also find my articles on
 
 ## <a name="year2022"></a> 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
-    Han Zhang, Pavel Surynek, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.      
+    Han Zhang, **Jiaoyang Li**, Pavel Surynek, T. K. Satish Kumar and Sven Koenig.      
     <i>Artificial Intelligence (**AIJ**)</i>, page 1034766, 2022.                           
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS2020');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAIJ22');">bibtex</a>]
     [[publisher](https://doi.org/10.1016/j.artint.2022.103766)]
-<div id="bibtex-ZhangICAPS2020" style="display:none">
+<div id="bibtex-ZhangAIJ22" style="display:none">
 <pre>@article{ZhangAIJ22,
-  author    = {Han Zhang and Pavel Surynek and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
+  author    = {Han Zhang and Jiaoyang Li and Pavel Surynek and T. K. Satish Kumar and Sven Koenig},
   title     = {Multi-Agent Path Finding with Mutex Propagation},
   journal   = {Artificial Intelligence},
   pages     = {103766},
