@@ -78,7 +78,7 @@ You can also find my articles on
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 208-216, 2022.      
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangSoCS22');">bibtex</a>]
     [[pdf](https://jiaoyang-li.github.io/files/2022-SoCS-pp.pdf)]
-    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21769)
+    [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21769)]               
 <div id="bibtex-ZhangSoCS22" style="display:none">
 <pre>@inproceedings{ZhangSoCS22,
   author    = {Shuyang Zhang and Jiaoyang Li and Taoan Huang and Sven Koenig and Bistra Dilkina},
