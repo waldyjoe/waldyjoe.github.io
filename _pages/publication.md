@@ -15,7 +15,7 @@ You can also find my articles on
 ## <a name="year2022"></a> 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
     Han Zhang, **Jiaoyang Li**, Pavel Surynek, T. K. Satish Kumar and Sven Koenig.      
-    <i>Artificial Intelligence (**AIJ**)</i>, page 1034766, 2022.                           
+    <i>Artificial Intelligence (**AIJ**)</i>, volume 311, page 1034766, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAIJ22');">bibtex</a>]
     [[publisher](https://doi.org/10.1016/j.artint.2022.103766)]
 <div id="bibtex-ZhangAIJ22" style="display:none">
@@ -23,6 +23,7 @@ You can also find my articles on
   author    = {Han Zhang and Jiaoyang Li and Pavel Surynek and T. K. Satish Kumar and Sven Koenig},
   title     = {Multi-Agent Path Finding with Mutex Propagation},
   journal   = {Artificial Intelligence},
+  volume    = {311},
   pages     = {103766},
   year      = {2022},
   doi       = {https://doi.org/10.1016/j.artint.2022.103766},
@@ -222,7 +223,7 @@ You can also find my articles on
 ## <a name="year2021"></a> 2021  
 * [Pairwise Symmetry Reasoning for Multi-Agent Path Finding Search](https://jiaoyangli.me/publications/LiAIJ21).     
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma, Graeme Gange and Sven Koenig.       
-    <i>Artificial Intelligence (**AIJ**)</i>, vol 301, pages 103574, 2021.          
+    <i>Artificial Intelligence (**AIJ**)</i>, volume 301, pages 103574, 2021.          
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAIJ21');">bibtex</a>]
     [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
     [[pdf](https://jiaoyang-li.github.io/files/2021-AIJ.pdf)]
