@@ -9,9 +9,10 @@ author_profile: true
 
 Jingkai Chen, **Jiaoyang Li**, Chuchu Fan and Brian Williams.    
 <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11237-11245, 2021.        
-[[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17340)] 
-[[code](https://github.com/jkchengh/s2m2)] 
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21s2m2');">bibtex</a>]
+[[code](https://github.com/jkchengh/s2m2)]
+[[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17340)]
+[[talk](https://slideslive.com/38948396/scalable-and-safe-multiagent-motion-planning-with-nonlinear-dynamics-and-bounded-disturbances?ref=account-79851-presentations)]
 <div id="bibtex-ChenAAAI21s2m2" style="display:none">
 <pre>@inproceedings{ChenAAAI21s2m2,
   author    = {Jingkai Chen and Jiaoyang Li and Chuchu Fan and Brian Williams},
