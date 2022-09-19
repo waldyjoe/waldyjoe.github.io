@@ -10,7 +10,7 @@ author_profile: true
 **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
 <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 193-201, 2020.        
 A [short version](https://www.aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18534/17675 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
-[[publisher](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661/6515)] 
+[[publisher](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6661)] 
 [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] 
 [[long talk](https://youtu.be/ClmfMNErYo8)] 
 [[short talk](https://www.youtube.com/watch?v=ckdSb750gEc&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=31)] 
