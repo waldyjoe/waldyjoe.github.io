@@ -31,6 +31,7 @@ please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a sho
 I currently do not have any fundings for postdoc positions.
 
 ## News   
+* \[CFP\] We are orginazing AAAI-23 workshop on [Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). Please consider submitting your papers to our workshop. The submission deadline is Oct 21st, 2022. 
 * \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
 * \[2022/05\] Organizing AAMAS-22 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas22.github.io/). 
 * \[2022/05\] Organizing AAMAS-22 tutorial on [Recent Advances in Multi-Agent Path Finding](http://mapf.info/index.php/Tutorial/AAMAS-22). 
