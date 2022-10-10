@@ -155,7 +155,7 @@ You can also find my articles on
 }
 </pre></div>   
 
-* [MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyangli.me/publications/LiAAAI22).     
+* [MAPF-LNS2: Fast Repairing for Multi-Agent Path Finding via Large Neighborhood Search](https://jiaoyangli.me/publications/LiAAAI22).     
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 10256-10265, 2022.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI22');">bibtex</a>]
@@ -165,7 +165,7 @@ You can also find my articles on
 <div id="bibtex-LiAAAI22" style="display:none">
 <pre>@inproceedings{LiAAAI22,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-  title     = { {MAPF-LNS2}: Repairing Multi-Agent Path Finding via Large Neighborhood Search},
+  title     = { {MAPF-LNS2}: Fast Repairing for Multi-Agent Path Finding via Large Neighborhood Search},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   pages     = {10256--10265},
   year      = {2022}
@@ -291,7 +291,7 @@ You can also find my articles on
 }
 </pre></div>  
 
-* [EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiAAAI21eecbs).                     
+* [EECBS: A Bounded-Suboptimal Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiAAAI21eecbs).                     
     **Jiaoyang Li**, Wheeler Ruml and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12353-12362, 2021.        
     [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17466)]
@@ -302,7 +302,7 @@ You can also find my articles on
 <div id="bibtex-LiAAAI21eecbs" style="display:none">
 <pre>@inproceedings{LiAAAI21eecbs,
   author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
-  title     = { {EECBS}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
+  title     = { {EECBS}: A Bounded-Suboptimal Search for Multi-Agent Path Finding},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   pages     = {12353--12362},
   year      = {2021}
@@ -505,10 +505,10 @@ You can also find my articles on
 
 ## <a name="year2019"></a> 2019
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiIJCAI19).   
-    **Jiaoyang Li**, Eli Boyarski, Ariel Felner, Hang Ma and Sven Koenig.  
+    **Jiaoyang Li**, Ariel Felner, Eli Boyarski, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
-    [[publisher](https://www.ijcai.org/proceedings/2019/0063.pdf)] [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] [[poster](https://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](https://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI19');">bibtex</a>]
+    [[publisher](https://www.ijcai.org/proceedings/2019/63)] [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] [[poster](https://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](https://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI19');">bibtex</a>]
 <div id="bibtex-LiIJCAI19" style="display:none">
 <pre>@inproceedings{LiIJCAI19,
     author    = {Jiaoyang Li and Ariel Felner and Eli Boyarski and Hang Ma and Sven Koenig},
@@ -687,7 +687,7 @@ You can also find my articles on
 * [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/FelnerICAPS18) (short paper).     
     Ariel Felner, **Jiaoyang Li**, Eli Boyarski, Hang Ma, Liron Cohen, T. K. Satish Kumar and Sven Koenig.       
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.      
-    [[publisher](https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17735/16965)]
+    [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/13883)]
     [[talk](https://youtu.be/GUrYkm0BEM4)]
     [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC "Source code")]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-FelnerICAPS18');">bibtex</a>]

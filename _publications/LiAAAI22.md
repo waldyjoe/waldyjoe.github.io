@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MAPF-LNS2: Repairing Multi-Agent Path Finding via Large Neighborhood Search"
+title: "MAPF-LNS2: Fast Repairing for Multi-Agent Path Finding via Large Neighborhood Search"
 permalink: /publications/LiAAAI22/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ author_profile: true
 <div id="bibtex-LiAAAI22" style="display:none">
 <pre>@inproceedings{LiAAAI22,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-  title     = { {MAPF-LNS2}: Repairing Multi-Agent Path Finding via Large Neighborhood Search},
+  title     = { {MAPF-LNS2}: Fast Repairing for Multi-Agent Path Finding via Large Neighborhood Search},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   pages     = {10256--10265},
   year      = {2022}

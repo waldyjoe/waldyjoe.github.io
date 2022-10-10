@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "EECBS: Bounded-Suboptimal Search for Multi-Agent Path Finding"
+title: "EECBS: A Bounded-Suboptimal Search for Multi-Agent Path Finding"
 permalink: /publications/LiAAAI21eecbs/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
 <div id="bibtex-LiAAAI21eecbs" style="display:none">
 <pre>@inproceedings{LiAAAI21eecbs,
   author    = {Jiaoyang Li and Wheeler Ruml and Sven Koenig},
-  title     = { {EECBS}: Bounded-Suboptimal Search for Multi-Agent Path Finding},
+  title     = { {EECBS}: A Bounded-Suboptimal Search for Multi-Agent Path Finding},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   pages     = {12353--12362},
   year      = {2021}
