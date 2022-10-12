@@ -145,6 +145,7 @@ You can also find my articles on
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAMAS22');">bibtex</a>]
     [[code](https://github.com/HanZhang39/MAPF-PC)] 
     [[pdf](https://jiaoyang-li.github.io/files/2022-AAMAS.pdf)]
+    [[publisher](https://dl.acm.org/doi/abs/10.5555/3535850.3536013)]
 <div id="bibtex-ZhangAAMAS22" style="display:none">
 <pre>@inproceedings{ZhangAAMAS22,
   author    = {Han Zhang and Jingkai Chen and Jiaoyang Li and Brian Williams and Sven Koenig},
@@ -278,12 +279,12 @@ You can also find my articles on
 </pre></div>  
 
 * [Conflict-Based Increasing Cost Search](https://jiaoyangli.me/publications/WalkerICAPS21).       
-    Thayne Walker, Nathan R. Sturtevant, Han Zhang, **Jiaoyang Li**, Ariel Felner and T. K. Satish Kumar.    
+    Thayne Walker, Nathan R. Sturtevant, Ariel Felner, Han Zhang, **Jiaoyang Li** and T. K. Satish Kumar.    
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 385-395, 2021.        
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/15984)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WalkerICAPS21');">bibtex</a>]
 <div id="bibtex-WalkerICAPS21" style="display:none">
 <pre>@inproceedings{WalkerICAPS21,
-  author    = {Thayne Walker and Nathan R. Sturtevant and Han Zhang and Jiaoyang Li and Ariel Felner and T. K. Satish Kumar},
+  author    = {Thayne Walker and Nathan R. Sturtevant and Ariel Felner and Han Zhang and Jiaoyang Li and T. K. Satish Kumar},
   title     = {Conflict-Based Increasing Cost Search},
   booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
   pages     = {385--395},
@@ -410,8 +411,10 @@ You can also find my articles on
 
 * [Iterative-Deepening Conflict-Based Search](https://jiaoyangli.me/publications/BoyarskiIJCAI20).     
     Eli Boyarski, Ariel Felner, Daniel Harabor, Peter J. Stuckey, Liron Cohen, **Jiaoyang Li** and Sven Koenig.      
-    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4084-4090, 2020.            
-    [[publisher](https://www.ijcai.org/Proceedings/2020/0565.pdf)] [[code](https://github.com/eli-b/idcbs)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiIJCAI2020');">bibtex</a>]
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4084-4090, 2020. 
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiIJCAI2020');">bibtex</a>]
+    [[code](https://github.com/eli-b/idcbs)] 
+    [[publisher](https://www.ijcai.org/proceedings/2020/565)] 
 <div id="bibtex-BoyarskiIJCAI2020" style="display:none">
 <pre>@inproceedings{BoyarskiIJCAI20,
   author    = {Eli Boyarski and Ariel Felner and Daniel Harabor and Peter J. Stuckey and Liron Cohen and Jiaoyang Li and Sven Koenig},
@@ -492,13 +495,16 @@ You can also find my articles on
 
 * [Mutex Propagation for SAT-based Multi-Agent Path Finding](https://jiaoyangli.me/publications/SurynekPRIMA20).                                     
     Pavel Surynek, **Jiaoyang Li**, Han Zhang, T. K. Satish Kumar and Sven Koenig.
-    <i>International Conference on Principles and Practice of Multi-Agent Systems (**PRIMA**)</i>, 2020.          
-    [[pdf](https://jiaoyang-li.github.io/files/2020-PRIMA.pdf)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SurynekPRIMA20');">bibtex</a>]
+    <i>International Conference on Principles and Practice of Multi-Agent Systems (**PRIMA**)</i>, pages 248-258, 2020.          
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SurynekPRIMA20');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2020-PRIMA.pdf)]
+    [[publisher](https://link.springer.com/chapter/10.1007/978-3-030-69322-0_16)]   
 <div id="bibtex-SurynekPRIMA20" style="display:none">
 <pre>@inproceedings{SurynekPRIMA20,
   author    = {Pavel Surynek and Jiaoyang Li and Han Zhang and T. K. Satish Kumar and Sven Koenig},
   title     = {Mutex Propagation for {SAT}-based Multi-Agent Path Finding},
   booktitle = {Proceedings of the International Conference on Principles and Practice of Multi-Agent Systems (PRIMA)},
+  pages     = {248--258},
   year      = {2020}
 }
 </pre></div> 
