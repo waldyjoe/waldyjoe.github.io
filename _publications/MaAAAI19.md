@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Searching with Consistent Prioritization for Multi-Agent Path Finding"
-permalink: /publications/LiAAAI19symmetry/
+permalink: /publications/MaAAAI19/
 author_profile: true
 ---
 
