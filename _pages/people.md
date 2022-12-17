@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ARCS Lab members"
+title: "ARCS Lab Members"
 permalink: /people/
 author_profile: true
 ---
