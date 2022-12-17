@@ -10,7 +10,22 @@ You can also find my articles on
 
 {% include base_path %}
 
-[2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
+[2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
+
+## <a name="year2023"></a> 2023  
+* [Intersection Coordination with Priority-Based Search for Autonomous Vehicles](https://jiaoyangli.me/publications/LiAAAI23).     
+    **Jiaoyang Li**, The Anh Hoang, Eugene Lin, Hai L. Vu and Sven Koenig.      
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI23');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/LiAAAI23.pdf)]
+<div id="bibtex-LiAAAI23" style="display:none">
+<pre>@inproceedings{LiAAAI23,
+  author    = {Jiaoyang Li and The Anh Hoang and Eugene Lin and Hai L. Vu and Sven Koenig},
+  title     = {Intersection Coordination with Priority-Based Search for Autonomous Vehicles},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year      = {2022}
+}
+</pre></div>  
 
 ## <a name="year2022"></a> 2022  
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
