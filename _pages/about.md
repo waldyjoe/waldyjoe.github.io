@@ -30,24 +30,36 @@ please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a sho
 
 I currently do not have any fundings for postdoc positions.
 
-## News   
-* \[CFP\] We are orginazing AAAI-23 workshop on [Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). Please consider submitting your papers to our workshop. The submission deadline is Oct 21st, 2022. 
+## News  
+* \[2022/12\] Honored to receive the IFAAMAS Victor Lesser Distinguished Dissertation Award for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
+* \[2022/11\] [Our paper](https://jiaoyangli.me/publications/LiAAAI23) on MAPF for autonomous vehicle coordination was accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). 
+* \[CFP\] We are organizing AAAI-23 workshop on [Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). Please consider submitting your papers to our workshop. The submission deadline is Oct 21st, 2022. 
 * \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
 * \[2022/05\] Organizing AAMAS-22 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas22.github.io/). 
 * \[2022/05\] Organizing AAMAS-22 tutorial on [Recent Advances in Multi-Agent Path Finding](http://mapf.info/index.php/Tutorial/AAMAS-22). 
 * \[2022/02\] 4 papers accepted to [SoCS 2022](https://sites.google.com/unibs.it/socs2022). 
 * \[2022/02\] 1 paper accepted to [ICRA 2022](https://www.icra2022.org/). 
-* \[2021/12\] Our paper on MAPF with precedence constraints was accepted to [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/). 
-* \[2021/12\] 4 papers accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).   
-* \[2021/08\] I was selected to participate in the [Rising Stars in EECS 2021](https://risingstars21-eecs.mit.edu/) workshop at MIT.
-* \[2021.08\] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at [ICAPS 2021](https://icaps21.icaps-conference.org/awards/). Check out our video [here](https://youtu.be/Pw4GBL1UhPA).
-* \[2021.05\] I received a WISE Merit Award from USC.
-* \[2021.05\] I received a Computer Science Best Research Assistant Award from USC.
-
-
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+        [2021.12] Our paper on MAPF with precedence constraints was accepted to <a href="https://aamas2022-conference.auckland.ac.nz/">AAMAS 2022</a>.
+    </li>
+    <li>
+        [2021.12] 4 papers accepted to <a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a>.  
+    </li>
+    <li>
+        [2021.08] I was selected to participate in the <a href="https://risingstars21-eecs.mit.edu/">Rising Stars in EECS 2021</a> workshop at MIT.
+    </li>
+    <li>
+       [2021.08] Our system demonstration on railway planning received the People's Choice Best System Demonstration Award at <a href="https://icaps21.icaps-conference.org/awards/">ICAPS 2021</a>. Check out our video <a href="https://youtu.be/Pw4GBL1UhPA">here</a>. 
+    </li>
+    <li>
+        [2021.05] I received a WISE Merit Award from USC.
+    </li>
+    <li>
+        [2021.05] I received a Computer Science Best Research Assistant Award from USC.
+    </li>
     <li>
       [2021.04] Our MAPF-LNS paper was accepted to <a href="https://ijcai-21.org/">IJCAI 2021</a>.
     </li>
