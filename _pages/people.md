@@ -9,7 +9,7 @@ author_profile: true
 
 <img src="https://jiaoyangli.me/images/logo-white-background.png" title="logo" width="800pt" alt="logo"/>
 
-## Current Members
+<!-- ## Current Members -->
 ### PhD Students
 - [Yulun Zhang](https://yulunzhang.net/) (RI PhD, fall 2022)
 
