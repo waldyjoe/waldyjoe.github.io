@@ -12,7 +12,7 @@ author_profile: true
 
 <!-- ## Current Members -->
 ### PhD Students
-- [Yulun Zhang](https://yulunzhang.net/) (RI PhD, fall 2022)
+- [Yulun Zhang](https://yulunzhang.net/) (RI PhD, Fall 2022)
 
 <img src="https://jiaoyangli.me/images/yulunzhang.jpg" style="float:left;width:100pt;padding-right:10px;"  alt="Yulun Zhang"/>
 <p>
@@ -24,11 +24,8 @@ author_profile: true
 </p>
 <br clear="all">
 
-### Masters and  Undergraduate Students
-- [Alina Chen](https://www.linkedin.com/in/a1inachen/) (CS undergraduate, class of 2025)
-
-- [Shravan Kumar Gulvadi](https://shravangulvadi.wixsite.com/website) (Mechanical Engineering Masters, class of 2022)
-
+### Masters Students
+- [Shravan Kumar Gulvadi](https://shravangulvadi.wixsite.com/website) (Mechanical Engineering Masters, Class 2022)
 
 <img src="https://jiaoyangli.me/images/shravan.jpg" style="float:left;width:100pt;padding-right:10px;" alt="Shravan Kumar Gulvadi"/>
 <p>
@@ -37,11 +34,26 @@ author_profile: true
 </p>
 <br clear="all">
 
-- [Brian Zhang](https://github.com/atomicapple0) (CS undergraduate w/ Robotics Concentration, class of 2023)
+- [Yimin Tang](https://github.com/TachikakaMin) (Master of Science in Robotics, Class 2023)
+
+<img src="https://jiaoyangli.me/images/yimintang.png" style="float:left;width:100pt;padding-right:10px;" alt="Yimin Tang"/>
+<p>
+    Yimin received a B.Eng. in Computer Science from ShanghaiTech University in 2020 
+    and worked as an SDE in Microsoft AzureStack Team for a year. 
+    His research is now focused on Multi-Agent Reinforcement Learning and Multi-Agent Path Finding. 
+    He also participated in some publications related to grasping and human-computer interaction in ICRA and CHI. 
+    He is familiar with traditional data structures and algorithms and has several prizes in NOIP, NOI, and ICPC.
+</p>
+<br clear="all">
+
+
+
+
+### Undergraduate Students
+- [Alina Chen](https://www.linkedin.com/in/a1inachen/) (CS undergraduate, Class 2025)
+
+- [Brian Zhang](https://github.com/atomicapple0) (CS undergraduate w/ Robotics Concentration, Class 2023)
 
 <img src="https://jiaoyangli.me/images/brianzhang.png" style="float:left;width:100pt;padding-right:10px;"  alt="Brian Zhang"/>
 <p>Brian is interested in systems programming and mobile robotics.</p>
 <br clear="all">
-
-<!--### Master Students
-### Undergraduate Students-->
