@@ -21,9 +21,9 @@ author_profile: true
 </pre></div>     
 
 
-<figure style="text-align:center;">
-    <img src="https://jiaoyangli.me/images/MILP-crosswalk.gif" style="max-height:150pt" alt="Mixed Integer Linear Programming"/>
-    <img src="https://jiaoyangli.me/images/PSL-crosswalk.gif" style="max-height:150pt" alt="Our MAPF-Based Algorithm"/>
-    <img src="https://jiaoyangli.me/images/FCFS-crosswalk.gif" style="max-height:150pt" alt="First Come First Served"/>
-    <figcaption>Coordinating vehicles with optimal solver MILP (left), our solver PSL (middle), and greedy solver FCFS (right).</figcaption>
-</figure>
+Coordinating vehicles with optimal solver MILP (left), our solver PSL (middle), and greedy solver FCFS (right):
+<p style="text-align:center;">
+    <img src="/images/MILP-crosswalk.gif" style="max-height:150pt" alt="Mixed Integer Linear Programming"/>
+    <img src="/images/PSL-crosswalk.gif" style="max-height:150pt" alt="Our MAPF-Based Algorithm"/>
+    <img src="/images/FCFS-crosswalk.gif" style="max-height:150pt" alt="First Come First Served"/>
+</p>
