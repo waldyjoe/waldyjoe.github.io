@@ -15,7 +15,7 @@ You can also find my articles on
 ## <a name="year2023"></a> 2023  
 * [Intersection Coordination with Priority-Based Search for Autonomous Vehicles](https://jiaoyangli.me/publications/LiAAAI23).     
     **Jiaoyang Li**, The Anh Hoang, Eugene Lin, Hai L. Vu and Sven Koenig.      
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2022.                           
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI23');">bibtex</a>]
     [[pdf](https://jiaoyang-li.github.io/files/LiAAAI23.pdf)]
 <div id="bibtex-LiAAAI23" style="display:none">
@@ -23,7 +23,7 @@ You can also find my articles on
   author    = {Jiaoyang Li and The Anh Hoang and Eugene Lin and Hai L. Vu and Sven Koenig},
   title     = {Intersection Coordination with Priority-Based Search for Autonomous Vehicles},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-  year      = {2022}
+  year      = {2023}
 }
 </pre></div>  
 
