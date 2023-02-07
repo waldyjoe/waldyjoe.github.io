@@ -156,7 +156,7 @@ improve the solution quality by up to 36 times.
 
 Relevant publications: 
 [1] [LNS for improving solution quality](https://jiaoyangli.me/publications/LiIJCAI21),
-[2] [LNS for increasing success rates](https://jiaoyangli.me/publications/LIAAAI22),
+[2] [LNS for increasing success rates](https://jiaoyangli.me/publications/LiAAAI22),
 [3] [LNS for railway planning and replanning](https://jiaoyangli.me/publications/ICAPS21),
 [4] [machine learning guided LNS for MAPF](https://jiaoyangli.me/publications/HuangAAAI22), and
 [5] [LNS for multi-agent task and path planning](https://jiaoyangli.me/publications/XuIROS22).
