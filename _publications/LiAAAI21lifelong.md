@@ -14,7 +14,8 @@ A [short version](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1898.pdf "Downl
 [[code](https://github.com/Jiaoyang-Li/RHCR)]
 [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17344)]
 [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-lifelongMAPF.pdf "Download slides")]
-[[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]  <div id="bibtex-LiAAAI21lifelong" style="display:none">
+[[talk](https://underline.io/lecture/356-lifelong-multi-agent-path-finding-in-large-scale-warehouses)]        
+<div id="bibtex-LiAAAI21lifelong" style="display:none">
 <pre>@inproceedings{LiAAAI21lifelong,
   author    = {Jiaoyang Li and Andrew Tinka and Scott Kiesel and Joseph W. Durham and T. K. Satish Kumar and Sven Koenig},
   title     = {Lifelong Multi-Agent Path Finding in Large-Scale Warehouses},
