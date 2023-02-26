@@ -31,7 +31,6 @@ please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a sho
 I currently do not have any fundings for postdoc positions.
 
 ## News  
-https://optlearnmas23.github.io/
 * \[CFP\] We are organizing AAMAS-23 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas23.github.io/). Please consider submitting your papers to our workshop. The submission deadline is March 3rd, 2023. <!-- * \[2022/12\] Honored to receive the IFAAMAS Victor Lesser Distinguished Dissertation Award for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)! -->
 * \[2023/02\] Organizing AAAI-23 workshop on [Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). 
 * \[2022/11\] [Our paper](https://jiaoyangli.me/publications/LiAAAI23) on MAPF for autonomous vehicle coordination was accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). 
