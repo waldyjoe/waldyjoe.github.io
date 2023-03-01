@@ -10,7 +10,7 @@ author_profile: true
 (position paper).    
 Roni Stern, Nathan R. Sturtevant, Ariel Felner, Sven Koenig, Hang Ma, , Thayne T. Walker, **Jiaoyang Li**, Dor Atzmon, Liron Cohen, T. K. Satish Kumar, Eli Boyarski and Roman Barták.       
 <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 151-159, 2019.    
-[[publisher](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/viewFile/18341/17457 )]
+[[publisher](https://doi.org/10.1609/socs.v10i1.18510)]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SternSoCS19');">bibtex</a>]
 <div id="bibtex-SternSoCS19" style="display:none">
 <pre>@inproceedings{SternSoCS19,
