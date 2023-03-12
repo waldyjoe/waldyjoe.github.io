@@ -71,7 +71,7 @@ Success rate is the percentage of MAPF instances solved within a runtime limit o
     </li>
     <li>
         MAPF-LNS2 is from <a href="https://jiaoyangli.me/publications/LiAAAI22"> our AAAI'22 paper</a>. 
-        Check out the code <a href="https://github.com/Jiaoyang-Li/CBSH2-RTC">here</a>.  
+        Check out the code <a href="https://github.com/Jiaoyang-Li/MAPF-LNS2">here</a>.  
     </li>
     </ul>
     In terms of solution quality of suboptimal algorithms, PBS find very close-to-optimal solutions. 
