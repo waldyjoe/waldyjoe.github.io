@@ -10,7 +10,7 @@ author_profile: true
 
 **Jiaoyang Li**, Ariel Felner, Eli Boyarski, Hang Ma and Sven Koenig.  
 <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
-A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
+A [short version](https://doi.org/10.1609/socs.v10i1.18481 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
 [[publisher](https://www.ijcai.org/proceedings/2019/63)]
 [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
 [[poster](https://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]

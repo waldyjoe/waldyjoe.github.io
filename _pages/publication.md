@@ -13,10 +13,85 @@ You can also find my articles on
 [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
 
 ## <a name="year2023"></a> 2023  
+
+* [Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search](https://jiaoyangli.me/publications/LamICAPS23).     
+    Edward Lam, Daniel Harabor, Peter J. Stuckey and **Jiaoyang Li**.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2023.     
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LamICAPS23');">bibtex</a>]
+    [[code](https://github.com/ed-lam/bcp-mapf)]
+    [[pdf](https://jiaoyangli.me/files/LamICAPS23.pdf)]
+<div id="bibtex-LamICAPS23" style="display:none">
+<pre>@inproceedings{LamICAPS23,
+  author    = {Edward Lam and Daniel Harabor and Peter J. Stuckey and Jiaoyang Li},
+  title     = {Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search},
+  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2023}
+}
+</pre></div>  
+
+* [Beyond Pairwise Reasoning in Multi-Agent Path Finding](https://jiaoyangli.me/publications/ShenICAPS23).     
+    Bojie Shen, Zhe Chen,  **Jiaoyang Li**, Muhammad Aamir Cheema, Daniel Harabor and Peter J. Stuckey.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2023.     
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenICAPS23');">bibtex</a>]
+    [[code](https://github.com/bshen95/CBSH2-RTC-CHBP)]
+    [[pdf](https://jiaoyangli.me/files/ShenICAPS23.pdf)]
+<div id="bibtex-ShenICAPS23" style="display:none">
+<pre>@inproceedings{ShenICAPS23,
+  author    = {Bojie Shen and Zhe Chen and Jiaoyang Li and Muhammad Aamir Cheema and Daniel Harabor and Peter J. Stuckey},
+  title     = {Beyond Pairwise Reasoning in Multi-Agent Path Finding},
+  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2023}
+}
+</pre></div>  
+
+* [Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/RenICAPS23).     
+    Zhongqiang Ren,  **Jiaoyang Li**, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2023.     
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-RenICAPS23');">bibtex</a>]
+    [[code](https://github.com/wonderren/public_bbmocbs)]
+    [[pdf](https://jiaoyangli.me/files/RenICAPS23.pdf)]
+<div id="bibtex-RenICAPS23" style="display:none">
+<pre>@inproceedings{RenICAPS23,
+  author    = {Zhongqiang Ren and Jiaoyang Li and Han Zhang and Sven Koenig and Sivakumar Rathinam and Howie Choset},
+  title     = {Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding},
+  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2023}
+}
+</pre></div>  
+
+* [Cost Splitting for Multi-Objective Conflict-Based Search](https://jiaoyangli.me/publications/GeICAPS23).     
+    Cheng Ge, Han Zhang, **Jiaoyang Li** and Sven Koenig.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2023.     
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-GeICAPS23');">bibtex</a>]
+    [[pdf](https://jiaoyangli.me/files/GeICAPS23.pdf)]
+<div id="bibtex-GeICAPS23" style="display:none">
+<pre>@inproceedings{GeICAPS23,
+  author    = {Cheng Ge, Han Zhang, Jiaoyang Li and Sven Koenig},
+  title     = {Cost Splitting for Multi-Objective Conflict-Based Search},
+  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2023}
+}
+</pre></div>  
+
+* [Deadline-Aware Multi-Agent Tour Planning](https://jiaoyangli.me/publications/HuangICAPS23).     
+    Taoan Huang, Vikas Shivashankar, Michael Caldara, Joseph Durham, **Jiaoyang Li**, Bistra Dilkina and Sven Koenig.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2023.     
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-HuangICAPS23');">bibtex</a>]
+    [[pdf](https://jiaoyangli.me/files/HuangHSI22.pdf)]
+<div id="bibtex-HuangICAPS23" style="display:none">
+<pre>@inproceedings{HuangICAPS23,
+  author    = {Taoan Huang and Vikas Shivashankar and Michael Caldara and Joseph Durham and Jiaoyang Li and Bistra Dilkina and Sven Koenig},
+  title     = {Deadline-Aware Multi-Agent Tour Planning},
+  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
+  year      = {2023}
+}
+</pre></div>  
+
 * [Intersection Coordination with Priority-Based Search for Autonomous Vehicles](https://jiaoyangli.me/publications/LiAAAI23).     
     **Jiaoyang Li**, The Anh Hoang, Eugene Lin, Hai L. Vu and Sven Koenig.      
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, (in print), 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI23');">bibtex</a>]
+    [[code](https://github.com/theanhhoang/AIM)]
     [[pdf](https://jiaoyang-li.github.io/files/LiAAAI23.pdf)]
 <div id="bibtex-LiAAAI23" style="display:none">
 <pre>@inproceedings{LiAAAI23,
@@ -265,7 +340,11 @@ You can also find my articles on
     **Jiaoyang Li**, Zhe Chen, Daniel Harabor, Peter J. Stuckey and Sven Koenig.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4127-4135, 2021.         
      A [short version](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1581.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 1581-1583, 2021.  
-    [[publisher](https://www.ijcai.org/proceedings/2021/568)] [[code](https://github.com/Jiaoyang-Li/MAPF-LNS)] [[poster](https://jiaoyang-li.github.io/files/posters/MAPF-LNS-poster.pdf "Download poster")] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI21');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI21');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/MAPF-LNS)]
+    [[poster](https://jiaoyang-li.github.io/files/posters/MAPF-LNS-poster.pdf "Download poster")]
+    [[publisher](https://www.ijcai.org/proceedings/2021/568)] 
+
 <div id="bibtex-LiIJCAI21" style="display:none">
 <pre>@inproceedings{LiIJCAI21,
   author    = {Jiaoyang Li and Zhe Chen and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
@@ -300,7 +379,8 @@ You can also find my articles on
 * [Conflict-Based Increasing Cost Search](https://jiaoyangli.me/publications/WalkerICAPS21).       
     Thayne Walker, Nathan R. Sturtevant, Ariel Felner, Han Zhang, **Jiaoyang Li** and T. K. Satish Kumar.    
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 385-395, 2021.        
-    [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/15984)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WalkerICAPS21');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WalkerICAPS21');">bibtex</a>]
+    [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/15984)]     
 <div id="bibtex-WalkerICAPS21" style="display:none">
 <pre>@inproceedings{WalkerICAPS21,
   author    = {Thayne Walker and Nathan R. Sturtevant and Ariel Felner and Han Zhang and Jiaoyang Li and T. K. Satish Kumar},
@@ -367,10 +447,10 @@ You can also find my articles on
 
 * [Symmetry Breaking for k-Robust Multi-Agent Path Finding](https://jiaoyangli.me/publications/ChenAAAI21robust).          
     Zhe Chen, Daniel Harabor, **Jiaoyang Li** and Peter J. Stuckey.    
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12267-12274, 2021.        
-    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17456)]
-    [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)]
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12267-12274, 2021.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21robust');">bibtex</a>]
+    [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)]
+    [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17456)]
 <div id="bibtex-ChenAAAI21robust" style="display:none">
 <pre>@inproceedings{ChenAAAI21robust,
   author    = {Zhe Chen and Daniel Harabor and Jiaoyang Li and Peter J. Stuckey},
@@ -385,8 +465,8 @@ You can also find my articles on
     Han Zhang, Mingze Yao, Ziang Liu, **Jiaoyang Li**, Lucas Terr, Shao-Hung Chan, T. K. Satish Kumar and Sven Koenig.          
     <i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.        
     A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.         
-    [[pdf](https://jiaoyang-li.github.io/files/2021-HPLAN.pdf)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangHPLAN21');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/2021-HPLAN.pdf)]
 <div id="bibtex-ZhangHPLAN21" style="display:none">
 <pre>@inproceedings{ZhangHPLAN21,
   author    = {Han Zhang and Mingze Yao and Ziang Liu and Jiaoyang Li and Lucas Terr and Shao-Hung Chan and T. K. Satish Kumar and Sven Koenig},
@@ -396,10 +476,25 @@ You can also find my articles on
 }
 </pre></div> 
 
+* [Nested ECBS for Bounded-Suboptimal Multi-Agent Path Finding](https://jiaoyangli.me/publications/ChanWoMAPF20).    
+    Shao-Hung Chan, **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Graeme Gange, Liron Cohen and Sven Koenig.          
+    <i>IJCAI Workshop on Multi-Agent Path Finding (**WoMAPF**)</i>, 2020.       
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanWoMAPF20');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/ChanWoMAPF20.pdf)]
+<div id="bibtex-ChanWoMAPF20" style="display:none">
+<pre>@inproceedings{ChanWoMAPF20,
+  author    = {Shao-Hung Chan and Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Graeme Gange and Liron Cohen and Sven Koenig},
+  title     = {Nested ECBS for Bounded-Suboptimal Multi-Agent Path Finding},
+  booktitle = {IJCAI Workshop on Multi-Agent Path Finding},
+  year      = {2020}
+}
+</pre></div> 
+
 * [Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World](https://jiaoyangli.me/publications/Laurent21).          
     Florian Laurent, Manuel Schneider, Christian Scheller, Jeremy Watson, **Jiaoyang Li**, Zhe Chen, Yi Zheng, Shao-Hung Chan, Konstantin Makhnev, Oleg Svidchenko, Vladimir Egorov, Dmitry Ivanov, Aleksei Shpilman, Evgenija Spirovska, Oliver Tanevski, Aleksandar Nikov, Ramon Grunder, David Galevski, Jakov Mitrovski, Guillaume Sartoretti, Zhiyao Luo, Mehul Damani, Nilabha Bhattacharya, Shivam Agarwal, Adrian Egli, Erik Nygren and Sharada Mohanty.          
     <i>NeurIPS 2020 Competition and Demonstration Track</i>, PMLR, volume 133, pages 275-301, 2021.                
-    [[publisher](http://proceedings.mlr.press/v133/laurent21a.html)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Laurent21');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Laurent21');">bibtex</a>]
+    [[publisher](http://proceedings.mlr.press/v133/laurent21a.html)] 
 <div id="bibtex-Laurent21" style="display:none">
 <pre>@inproceedings{Laurent21,
   title     = {Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World},
@@ -417,7 +512,9 @@ You can also find my articles on
     Dor Atzmon, **Jiaoyang Li**, Ariel Felner, Eliran Nachmani, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 4062-4068, 2020.         
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18528/17671 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 121-122, 2020.                
-   [[publisher](https://www.ijcai.org/Proceedings/2020/0562.pdf)] [[talk](https://www.youtube.com/watch?v=W0REYOwnMKg&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=30&t=0s)] [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonIJCAI2020');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonIJCAI2020');">bibtex</a>]
+    [[publisher](https://www.ijcai.org/Proceedings/2020/0562.pdf)] 
+    [[talk](https://www.youtube.com/watch?v=W0REYOwnMKg&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=30&t=0s)]
 <div id="bibtex-AtzmonIJCAI2020" style="display:none">
 <pre>@inproceedings{AtzmonIJCAI20,
   author    = {Dor Atzmon and Jiaoyang Li and Ariel Felner and Eliran Nachmani and Shahaf Shperberg and Nathan Sturtevant and Sven Koenig},
@@ -448,10 +545,13 @@ You can also find my articles on
     **Jiaoyang Li**, Graeme Gange, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 193-201, 2020.        
     A [short version](https://www.aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18534/17675 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 129-130, 2020.       
-    [[publisher](https://ojs.aaai.org//index.php/ICAPS/article/view/6661)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
     [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
+    [[poster](https://jiaoyang-li.github.io/files/posters/corridor-poster.pdf "Download poster")] 
     [[long talk](https://youtu.be/ClmfMNErYo8)]
-    [[short talk](https://www.youtube.com/watch?v=ckdSb750gEc&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=31)] [[poster](https://jiaoyang-li.github.io/files/posters/corridor-poster.pdf "Download poster")]  [[slides](https://jiaoyang-li.github.io/files/slides/ICAPS20-corridor.pdf "Download slides")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS2020');">bibtex</a>]
+    [[publisher](https://ojs.aaai.org//index.php/ICAPS/article/view/6661)]
+    [[short talk](https://www.youtube.com/watch?v=ckdSb750gEc&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=31)] 
+    [[slides](https://jiaoyang-li.github.io/files/slides/ICAPS20-corridor.pdf "Download slides")] 
 <div id="bibtex-LiICAPS2020" style="display:none">
 <pre>@inproceedings{LiICAPS20,
   author    = {Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Hang Ma and Sven Koenig},
@@ -465,10 +565,10 @@ You can also find my articles on
 * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangICAPS20) (**Outstanding Student Paper**).     
     Han Zhang, **Jiaoyang Li**, Pavel Surynek, Sven Koenig and T. K. Satish Kumar.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 323-332, 2020.                 
-    [[publisher](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/)]
-    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
-    [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangICAPS20');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)]
+    [[publisher](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6677/)]
+    [[talk](https://www.youtube.com/watch?v=rzsk4OIBVHU&feature=youtu.be)]
 <div id="bibtex-ZhangICAPS20" style="display:none">
 <pre>@inproceedings{ZhangICAPS20,
   author    = {Han Zhang and Jiaoyang Li and Pavel Surynek and Sven Koenig and T. K. Satish Kumar},
@@ -483,11 +583,11 @@ You can also find my articles on
     **Jiaoyang Li**, Kexuan Sun, Hang Ma, Ariel Felner, T. K. Satish Kumar and Sven Koenig.      
     <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, pages 726-734, 2020.       
     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18535/17676 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 131-132, 2020.       
-    [[publisher](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf)]
-    [[long talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]
-    [[short talk](https://www.youtube.com/watch?v=snTG2yL-dgI&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=35)]
-    [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAMAS20');">bibtex</a>]
+    [[long talk](https://underline.io/lecture/375-moving-agents-in-formation-in-congested-environments)]
+    [[publisher](http://ifaamas.org/Proceedings/aamas2020/pdfs/p726.pdf)]
+    [[slides](https://jiaoyang-li.github.io/files/slides/AAMAS20-MAiF.pdf "Download slides")]
+    [[short talk](https://www.youtube.com/watch?v=snTG2yL-dgI&list=PLd_hcmfMPvAikLAeI18O4fsDOuDM_Pmx1&index=35)]
 <div id="bibtex-LiAAMAS20" style="display:none">
 <pre>@inproceedings{LiAAMAS20,
   author    = {Jiaoyang Li and Kexuan Sun and Hang Ma and Ariel Felner and T. K. Satish Kumar and Sven Koenig},
@@ -501,7 +601,9 @@ You can also find my articles on
 * [Model AI Assignments 2020](https://jiaoyangli.me/publications/EAAI20).                                     
     Todd W.Neller, Stephen Keeley, Michael Guerzhoy, Wolfgang Hoenig, **Jiaoyang Li**, Sven Koenig, Ameet Soni, Krista Thomason, Lisa Zhang, Bibin Sebatian, Cinjon Resnick, Avital Oliver, Surya Bhupatiraju, Kumar Krishna Agrawal, James Allingham, Sejong Yoon, Johnathan Chen, Tom Larsen, Marion Neumann, Narges Norouzi, Ryan Hausen and Matthew Evett.  
     <i>Symposium on Educational Advances in Artificial Intelligence (**EAAI**)</i>, pages 13509-13511, 2020.          
-    [[publisher](https://aaai.org/ojs/index.php/AAAI/article/view/7072/6926)] [[website](http://modelai.gettysburg.edu/2020/mapf/)]   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-EAAI20');">bibtex</a>]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-EAAI20');">bibtex</a>]
+    [[publisher](https://aaai.org/ojs/index.php/AAAI/article/view/7072/6926)] 
+    [[website](http://modelai.gettysburg.edu/2020/mapf/)]
 <div id="bibtex-EAAI20" style="display:none">
 <pre>@inproceedings{EAAI20,
   author    = {Todd W.Neller and Stephen Keeley and Michael Guerzhoy and Wolfgang Hoenig and Jiaoyang Li and Sven Koenig and Ameet Soni and Krista Thomason and Lisa Zhang and Bibin Sebatian and Cinjon Resnick and Avital Oliver and Surya Bhupatiraju and Kumar Krishna Agrawal and James Allingham and Sejong Yoon and Johnathan Chen and Tom Larsen and Marion Neumann and Narges Norouzi and Ryan Hausen and Matthew Evett},
@@ -532,7 +634,7 @@ You can also find my articles on
 * [Improved Heuristics for Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiIJCAI19).   
     **Jiaoyang Li**, Ariel Felner, Eli Boyarski, Hang Ma and Sven Koenig.  
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 442-449, 2019.     
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18378 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
+    A [short version](https://doi.org/10.1609/socs.v10i1.18481 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 182-183, 2019.       
     [[publisher](https://www.ijcai.org/proceedings/2019/63)] [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC)] [[poster](https://jiaoyang-li.github.io/files/posters/cbsh2-poster.pdf "Download poster")]  [[slides](https://jiaoyang-li.github.io/files/slides/cbsh2.pdf "Download slides")] [[code](https://github.com/Jiaoyang-Li/CBSH2 "Source code")]  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiIJCAI19');">bibtex</a>]
 <div id="bibtex-LiIJCAI19" style="display:none">
 <pre>@inproceedings{LiIJCAI19,
@@ -640,7 +742,7 @@ You can also find my articles on
 * [Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiAAAI19symmetry).               
     **Jiaoyang Li**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 6087-6095, 2019.     
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18379 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 184-185, 2019.     
+    A [short version](https://doi.org/10.1609/socs.v10i1.18482 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 184-185, 2019.     
     [[publisher](https://aaai.org/ojs/index.php/AAAI/article/view/4565)]
     [[poster](https://jiaoyang-li.github.io/files/posters/rectangle-poster.pdf "Download poster")]
     [[slides](https://jiaoyang-li.github.io/files/slides/rectangle-slides.pdf "Download slides")]
@@ -659,7 +761,7 @@ You can also find my articles on
 * [Multi-Agent Path Finding for Large Agents](https://jiaoyangli.me/publications/LiAAAI19large).     
     **Jiaoyang Li**, Pavel Surynek, Ariel Felner, Hang Ma, T. K. Satish Kumar and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7627-7634, 2019.      
-     A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18380 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 186-187, 2019.     
+     A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18483/ "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 186-187, 2019.     
     [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/4756)]
     [[poster](https://jiaoyang-li.github.io/files/posters/large-agent-poster.pdf "Download poster")]
     [[slides](https://jiaoyang-li.github.io/files/slides/large-agent-slides.pdf "Download slides")]
@@ -677,7 +779,7 @@ You can also find my articles on
 * [Searching with Consistent Prioritization for Multi-Agent Path Finding](https://jiaoyangli.me/publications/MaAAAI19).     
     Hang Ma, Daniel Harabor, Peter J. Stuckey, **Jiaoyang Li** and Sven Koenig.       
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 7643-7650, 2019.       
-    A [short version](https://aaai.org/ocs/index.php/SOCS/SOCS19/paper/view/18381 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 188-189, 2019.     
+    A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18484 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 188-189, 2019.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAAI19');">bibtex</a>]
     [[code](https://github.com/Jiaoyang-Li/PBS)]
     [[publisher](https://aaai.org/ojs/index.php/AAAI/article/view/4758)]
@@ -695,9 +797,9 @@ You can also find my articles on
 * [Multi-Agent Path Finding with Deadlines](https://jiaoyangli.me/publications/MaIJCAI18).     
     Hang Ma, Glenn Wagner, Ariel Felner, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 417-423, 2018.      
-    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.     
-    [[publisher](https://www.ijcai.org/proceedings/2018/0058.pdf )]
+    A [short version](http://ifaamas.org/Proceedings/aamas2018/pdfs/p2004.pdf "Download pdf") appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 2004-2006, 2019.    
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaIJCAI18');">bibtex</a>]
+    [[publisher](https://www.ijcai.org/proceedings/2018/0058.pdf )]
 <div id="bibtex-MaIJCAI18" style="display:none">
 <pre>@inproceedings{MaIJCAI18,
   author    = {Hang Ma and Glenn Wagner and Ariel Felner and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
@@ -710,11 +812,11 @@ You can also find my articles on
 
 * [Adding Heuristics to Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/FelnerICAPS18) (short paper).     
     Ariel Felner, **Jiaoyang Li**, Eli Boyarski, Hang Ma, Liron Cohen, T. K. Satish Kumar and Sven Koenig.       
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.      
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 83-87, 2018.       
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-FelnerICAPS18');">bibtex</a>]
+    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC "Source code")]
     [[publisher](https://ojs.aaai.org/index.php/ICAPS/article/view/13883)]
     [[talk](https://youtu.be/GUrYkm0BEM4)]
-    [[code](https://github.com/Jiaoyang-Li/CBSH2-RTC "Source code")]
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-FelnerICAPS18');">bibtex</a>]
 <div id="bibtex-FelnerICAPS18" style="display:none">
 <pre>@inproceedings{FelnerICAPS18,
   author    = {Ariel Felner and Jiaoyang Li and Eli Boyarski and Hang Ma and Liron Cohen and T. K. Satish Kumar and Sven Koenig},
@@ -729,8 +831,8 @@ You can also find my articles on
 * [Lifelong Multi-Agent Path Finding for Online Pickup and Delivery Tasks](https://jiaoyangli.me/publications/MaAAMAS17).     
     Hang Ma, **Jiaoyang Li**, T. K. Satish Kumar and Sven Koenig.     
     <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 837-845, 2017.    
-    [[publisher](https://dl.acm.org/citation.cfm?id=3091243)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-MaAAMAS17');">bibtex</a>]
+    [[publisher](https://dl.acm.org/citation.cfm?id=3091243)]
 <div id="bibtex-MaAAMAS17" style="display:none">
 <pre>@inproceedings{MaAAMAS17,
   author    = {Hang Ma and Jiaoyang Li and T. K. Satish Kumar and Sven Koenig},
@@ -753,8 +855,8 @@ You can also find my articles on
 * Cooperative Task and Motion Planning for Multi-Arm Assembly Systems.     
     Jingkai Chen, **Jiaoyang Li**, Yijiang Huang, Caelan Garrett, Dawei Sun, Chuchu Fan, Andreas Hofmann, Caitlin Mueller, Sven Koenig, Brian C. Williams.  
     <i>arXiv:2203.02475</i>, 2022.<br>
-    [[arxiv](https://arxiv.org/abs/2203.02475)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Chen22');">bibtex</a>]
+    [[arxiv](https://arxiv.org/abs/2203.02475)]
 <div id="bibtex-Chen22" style="display:none">
 <pre>@misc{Chen22,
   doi = {10.48550/ARXIV.2203.02475},
@@ -769,8 +871,8 @@ You can also find my articles on
 * Multi-Robot Routing with Time Windows: A Column Generation Approach.     
     Naveed Haghani, **Jiaoyang Li**, Sven Koenig, Gautam Kunapuli, Claudio Contardo, Amelia Regan and Julian Yarkony.  
     <i>arXiv:2103.08835</i>, 2021.<br>
-    [[arxiv](https://arxiv.org/abs/2103.08835)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Haghani21');">bibtex</a>]
+    [[arxiv](https://arxiv.org/abs/2103.08835)]
 <div id="bibtex-Haghani21" style="display:none">
 <pre>@misc{Haghani21,
   doi = {10.48550/ARXIV.2103.08835},
