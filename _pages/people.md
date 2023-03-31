@@ -56,9 +56,3 @@ author_profile: true
 
 <img src="https://jiaoyangli.me/images/yingfeng.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Ying Feng"/>
 <br clear="all">
-
-- [Brian Zhang](https://github.com/atomicapple0) (CS undergraduate w/ Robotics Concentration, Class 2023)
-
-<img src="https://jiaoyangli.me/images/brianzhang.png" style="float:left;width:100pt;padding-right:10px;"  alt="Brian Zhang"/>
-<p>Brian is interested in systems programming and mobile robotics.</p>
-<br clear="all">
