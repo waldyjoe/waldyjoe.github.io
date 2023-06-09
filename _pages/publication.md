@@ -480,6 +480,7 @@ You can also find my articles on
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 12267-12274, 2021.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChenAAAI21robust');">bibtex</a>]
     [[code](https://github.com/nobodyczcz/Lazy-Train-and-K-CBS)]
+    [[preprint](https://jiaoyang-li.github.io/files/ChenAAAI21robust.pdf)]
     [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/17456)]
 <div id="bibtex-ChenAAAI21robust" style="display:none">
 <pre>@inproceedings{ChenAAAI21robust,
