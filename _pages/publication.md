@@ -13,6 +13,35 @@ You can also find my articles on
 [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
 
 ## <a name="year2023"></a> 2023  
+* [Multi-Robot Coordination and Layout Design for Automated Warehousing](https://jiaoyangli.me/publications/ZhangIJCAI23).     
+    Yulun Zhang, Matthew C. Fontaine, Varun Bhatt, Stefanos Nikolaidis and **Jiaoyang Li**.       
+    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, (in print), 2023.         
+    [[arXiv](https://arxiv.org/abs/2305.06436)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangIJCAI23');">bibtex</a>]
+    [[code](https://github.com/lunjohnzhang/warehouse_env_gen_public)]
+    [[pdf](https://jiaoyang-li.github.io/files/posters/ZhangIJCAI23.pdf "Download poster")]          
+<div id="bibtex-ZhangIJCAI23" style="display:none">
+<pre>@inproceedings{ZhangIJCAI23,
+  author    = {Yulun Zhang and Matthew C. Fontaine and Varun Bhatt and Stefanos Nikolaidis and Jiaoyang Li},
+  title     = {Multi-Robot Coordination and Layout Design for Automated Warehousing},
+  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+  year      = {2023}
+}
+</pre></div> 
+
+* [A Fast Rescheduling Algorithm for Real-Time Multi-Robot Coordination](https://jiaoyangli.me/publications/PaulSoCS23) (extended abstract).           
+    Adittyo Paul*, Ying Feng* and **Jiaoyang Li**.       
+    <i>Symposium on Combinatorial Search (**SoCS**)</i>, (in print), 2023.   
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-PaulSoCS23');">bibtex</a>]
+    [[pdf](https://jiaoyang-li.github.io/files/PaulSoCS23.pdf)]
+<div id="bibtex-PaulSoCS23" style="display:none">
+<pre>@inproceedings{PaulSoCS23,
+  author    = {Adittyo Paul and Ying Feng and Jiaoyang Li},
+  title     = {A Fast Rescheduling Algorithm for Real-Time Multi-Robot Coordination},
+  booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
+  year      = {2023}
+}
+</pre></div>  
 
 * [Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search](https://jiaoyangli.me/publications/LamICAPS23).     
     Edward Lam, Daniel Harabor, Peter J. Stuckey and **Jiaoyang Li**.      
@@ -60,7 +89,7 @@ You can also find my articles on
 </pre></div>  
 
 * [Cost Splitting for Multi-Objective Conflict-Based Search](https://jiaoyangli.me/publications/GeICAPS23).     
-    Cheng Ge, Han Zhang, **Jiaoyang Li** and Sven Koenig.      
+    Cheng Ge*, Han Zhang*, **Jiaoyang Li** and Sven Koenig.      
     <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2023.     
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-GeICAPS23');">bibtex</a>]
     [[pdf](https://jiaoyangli.me/files/GeICAPS23.pdf)]
@@ -242,7 +271,7 @@ You can also find my articles on
     [[publisher](https://dl.acm.org/doi/abs/10.5555/3535850.3536013)]
 <div id="bibtex-ZhangAAMAS22" style="display:none">
 <pre>@inproceedings{ZhangAAMAS22,
-  author    = {Han Zhang and Jingkai Chen and Jiaoyang Li and Brian Williams and Sven Koenig},
+  author    = {Han Zhang* and Jingkai Chen* and Jiaoyang Li and Brian Williams and Sven Koenig},
   title     = {Multi-Agent Path Finding for Precedence-Constrained Goal Sequences},
   booktitle = {Proceedings of the International Joint Conference on Autonomous Agents and Mult-Agent Systems (AAMAS)},
   pages     = {1464--1472},
@@ -724,7 +753,7 @@ You can also find my articles on
 }
 </pre></div>   
 
-* [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](https://jiaoyangli.me/publications/WangAAMAS19) (extended abstract).     
+* [A New Constraint Satisfaction Perspective on Multi-Agent Path Finding](https://jiaoyangli.me/publications/WangAAMAS19)3.     
     Jiangxing Wang, **Jiaoyang Li**, Hang Ma, Sven Koenig and T. K. Satish Kumar.       
     <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, pages 2253-2255, 2019.     
     [[publisher](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2253.pdf)]
@@ -853,7 +882,7 @@ You can also find my articles on
 ## <a name="preprints"></a> Preprints
 
 * Cooperative Task and Motion Planning for Multi-Arm Assembly Systems.     
-    Jingkai Chen, **Jiaoyang Li**, Yijiang Huang, Caelan Garrett, Dawei Sun, Chuchu Fan, Andreas Hofmann, Caitlin Mueller, Sven Koenig, Brian C. Williams.  
+    Jingkai Chen, **Jiaoyang Li***, Yijiang Huang*, Caelan Garrett, Dawei Sun, Chuchu Fan, Andreas Hofmann, Caitlin Mueller, Sven Koenig, Brian C. Williams.  
     <i>arXiv:2203.02475</i>, 2022.<br>
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Chen22');">bibtex</a>]
     [[arxiv](https://arxiv.org/abs/2203.02475)]
