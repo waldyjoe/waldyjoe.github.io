@@ -31,17 +31,31 @@ please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a sho
 I currently do not have any fundings for postdoc positions.
 
 ## News  
-* \[CFP\] We are organizing SoCS 2023 [Doctoral Consortium](https://socs23.search-conference.org/doctoral-consortium) and invite all current doctoral students to apply. The submission deadline is May 4th, 2023.<!--We are organizing AAMAS-23 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas23.github.io/). Please consider submitting your papers to our workshop. The submission deadline is March 3rd, 2023.  * \[2022/12\] Honored to receive the IFAAMAS Victor Lesser Distinguished Dissertation Award for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)! -->
+* \[2023/06\] Honored to receive the [IFAAMAS Victor Lesser Distinguished Dissertation Award](https://aamas2023.soton.ac.uk/awards/victor-lesser-dissertation-award/) for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
+* \[2023/05\] Organizing AAMAS-23 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas23.github.io/). 
+* \[2023/05\] Invited talk at OMRON innovation center.
+* \[2023/05\] Honored to receive the USC Viterbi School of Engineering Best Dissertation Award, called the William F. Ballhaus, Jr. Prize for Excellence in Graduate Engineering Research, for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
+* \[2023/04\] [Our paper](https://jiaoyangli.me/publications/ZhangIJCAI23) on layout optimization for multi-robot systems was accepted to [IJCAI 2023](https://ijcai-23.org/). 
+* \[2023/04\] Invited talk at Robotics and Controls Seminar at the University of North Carolina at Charlotte. 
+* \[CFP\] We are organizing SoCS 2023 [Doctoral Consortium](https://socs23.search-conference.org/doctoral-consortium) and invite all current doctoral students to apply. The submission deadline is May 4th, 2023.
 * \[2023/02\] Organizing AAAI-23 workshop on [Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). 
 * \[2022/11\] [Our paper](https://jiaoyangli.me/publications/LiAAAI23) on MAPF for autonomous vehicle coordination was accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). 
-* \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/). 
-* \[2022/05\] Organizing AAMAS-22 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas22.github.io/). 
-* \[2022/05\] Organizing AAMAS-22 tutorial on [Recent Advances in Multi-Agent Path Finding](http://mapf.info/index.php/Tutorial/AAMAS-22). 
-* \[2022/02\] 4 papers accepted to [SoCS 2022](https://sites.google.com/unibs.it/socs2022). 
-* \[2022/02\] 1 paper accepted to [ICRA 2022](https://www.icra2022.org/). 
+* \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/).
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+        [2022.05] Organizing AAMAS-22 workshop on <a href="https://optlearnmas22.github.io/">Optimization and Learning in Multiagent Systems</a>.
+    </li>
+    <li>
+        [2022.05] Organizing AAMAS-22 tutorial on <a href="http://mapf.info/index.php/Tutorial/AAMAS-22">Recent Advances in Multi-Agent Path Finding</a>.
+    </li>
+    <li>
+        [2022.02] 4 papers accepted to <a href="https://sites.google.com/unibs.it/socs2022">SoCS 2022</a>.
+    </li>
+    <li>
+        [2022.02] 1 paper accepted to 、 <a href="https://www.icra2022.org/">ICRA 2022</a>.
+    </li>
     <li>
         [2021.12] Our paper on MAPF with precedence constraints was accepted to <a href="https://aamas2022-conference.auckland.ac.nz/">AAMAS 2022</a>.
     </li>
