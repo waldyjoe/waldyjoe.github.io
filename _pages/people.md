@@ -12,6 +12,16 @@ author_profile: true
 
 <!-- ## Current Members -->
 ### PhD Students
+- [Yorai Shaoul](https://yoraish.com/) (RI PhD, Fall 2022)
+
+<img src="https://jiaoyangli.me/images/yoraishaoul.jpg" style="float:left;width:100pt;padding-right:10px;"  alt="Yorai Shaoul"/>
+<p>
+    Yorai earned a B.Sc. in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology in 2021. 
+    His research interests span multi-robot task and motion planning, robotic manipulation, statistical learning, and computer vision. 
+    He works to harness insights from established planning algorithms to address messy real-world challenges in manipulation.
+</p>
+<br clear="all">
+
 - [Yulun Zhang](https://yulunzhang.net/) (RI PhD, Fall 2022)
 
 <img src="https://jiaoyangli.me/images/yulunzhang.jpg" style="float:left;width:100pt;padding-right:10px;"  alt="Yulun Zhang"/>
@@ -25,6 +35,37 @@ author_profile: true
 <br clear="all">
 
 ### Masters Students
+
+- [He (Rivers) Jiang](https://github.com/DiligentPanda) (Master of Science in Robotics, Class 2024)
+
+<img src="https://jiaoyangli.me/images/hejiang.jpg" style="float:left;width:100pt;padding-right:10px;"  alt="He Jiang"/>
+<p>
+    He Jiang received a Bachelor's degree in Computer Science and Engineering from Shanghai Jiaotong University in 2017 
+    and another Master's degree in Control Science and Engineering from Tsinghua University in 2020. 
+    Then he worked for more than 1 year at Hangzhou High-Tech Zone (Binjiang), China. 
+    He is interested in planning and his current research focuses on Multi-Agent Systems. 
+    Hopefully, he can enjoy his days at CMU and do some meaningful work.  
+    He is also interested in Soccer, Poker, Chinese Chess & Nintendo Switch, by the way.
+</p>
+<br clear="all">
+
+- [Jingtian Yan](https://scholar.google.com/citations?user=JjaOG98AAAAJ&hl=en) (Research Assistant)
+
+<img src="https://jiaoyangli.me/images/jingtianyan.png" style="float:left;width:100pt;padding-right:10px;"  alt="Jingtian Yan"/>
+<p>
+    Jingtian received a B.Sc. from Zhejiang University in 2020 and an M.Sc. from the Carnegie Mellon University in 2023. 
+    His research interests include multi-robot coordination, autonomous exploration, and Multi-Agent Path Finding.
+</p>
+<br clear="all">
+### Undergraduate Students
+
+- [Ying Feng](https://www.linkedin.com/in/yinggggfeng) (CS undergraduate, Class 2024)
+
+<img src="https://jiaoyangli.me/images/yingfeng.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Ying Feng"/>
+<br clear="all">
+
+
+### Alumni
 - [Shravan Kumar Gulvadi](https://shravangulvadi.wixsite.com/website) (Mechanical Engineering Masters, Class 2022)
 
 <img src="https://jiaoyangli.me/images/shravan.jpg" style="float:left;width:100pt;padding-right:10px;" alt="Shravan Kumar Gulvadi"/>
@@ -44,15 +85,4 @@ author_profile: true
     He also participated in some publications related to grasping and human-computer interaction in ICRA and CHI. 
     He is familiar with traditional data structures and algorithms and has several prizes in NOIP, NOI, and ICPC.
 </p>
-<br clear="all">
-
-
-
-
-### Undergraduate Students
-- [Alina Chen](https://www.linkedin.com/in/a1inachen/) (CS undergraduate, Class 2025)
-
-- [Ying Feng](https://www.linkedin.com/in/yinggggfeng) (CS undergraduate, Class 2024)
-
-<img src="https://jiaoyangli.me/images/yingfeng.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Ying Feng"/>
 <br clear="all">

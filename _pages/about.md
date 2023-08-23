@@ -30,7 +30,9 @@ please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a sho
 
 I currently do not have any fundings for postdoc positions.
 
-## News  
+## News 
+* \[2023/07\] Honored to receive the [ICAPS-23 Best Dissertation Award](https://www.icaps-conference.org/icaps-awards/) for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
+* \[2023/07\] Our paper [Deadline-Aware Multi-Agent Tour Planning](https://jiaoyangli.me/publications/HuangICAPS23) received the Best Student Paper Honorable Mention at [ICAPS-23](https://icaps23.icaps-conference.org/)!
 * \[2023/06\] Honored to receive the [IFAAMAS Victor Lesser Distinguished Dissertation Award](https://aamas2023.soton.ac.uk/awards/victor-lesser-dissertation-award/) for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
 * \[2023/05\] Organizing AAMAS-23 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas23.github.io/). 
 * \[2023/05\] Invited talk at OMRON innovation center.
@@ -40,10 +42,12 @@ I currently do not have any fundings for postdoc positions.
 * \[CFP\] We are organizing SoCS 2023 [Doctoral Consortium](https://socs23.search-conference.org/doctoral-consortium) and invite all current doctoral students to apply. The submission deadline is May 4th, 2023.
 * \[2023/02\] Organizing AAAI-23 workshop on [Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). 
 * \[2022/11\] [Our paper](https://jiaoyangli.me/publications/LiAAAI23) on MAPF for autonomous vehicle coordination was accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). 
-* \[2022/06\] Invited talk at ICAPS-22 workshop on [Heuristics and Search for Domain-independent Planning](http://icaps22.icaps-conference.org/workshops/HSDIP/).
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+        [2022.06] Invited talk at ICAPS-22 workshop on <a href="http://icaps22.icaps-conference.org/workshops/HSDIP/">Heuristics and Search for Domain-independent Planning</a>.
+    </li>
     <li>
         [2022.05] Organizing AAMAS-22 workshop on <a href="https://optlearnmas22.github.io/">Optimization and Learning in Multiagent Systems</a>.
     </li>
