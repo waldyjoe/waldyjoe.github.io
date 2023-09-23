@@ -95,7 +95,7 @@ You can also find my articles on
     [[pdf](https://jiaoyangli.me/files/GeICAPS23.pdf)]
 <div id="bibtex-GeICAPS23" style="display:none">
 <pre>@inproceedings{GeICAPS23,
-  author    = {Cheng Ge, Han Zhang, Jiaoyang Li and Sven Koenig},
+  author    = {Cheng Ge and Han Zhang and Jiaoyang Li and Sven Koenig},
   title     = {Cost Splitting for Multi-Objective Conflict-Based Search},
   booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
   year      = {2023}
