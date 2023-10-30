@@ -28,18 +28,21 @@ Please contact me after you have been admitted.
 please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a short description of your background and interests. 
 * If you are an undergraduate student and looking for summer research opportunities, you are highly encouraged to apply to CMU's [RISS program](https://riss.ri.cmu.edu/).
 
-I currently do not have any fundings for postdoc positions.
+I currently do not have any funding for postdoc positions.
 
 ## News 
+* \[CFP\] We are delighted and excited to send out the call for papers and participation for the [17th International Symposium on Combinatorial Search (SoCS)](https://socs24.search-conference.org/). The submission deadline is February 19, 2024. The conference will be held in Kananaskis, AB, Canada during June 6 and June 8, 2024. 
+* \[2023/10\] [One paper](https://jiaoyangli.me/publications/ZhangNeurIPS23) on environment generation accepted to [NeurIPS 2023](https://nips.cc/), [one paper](https://jiaoyangli.me/publications/TangMRS23) on target assignment and pathfinding accepted to [MRS 2023](https://sites.bu.edu/mrs2023/), and [one paper](https://jiaoyangli.me/publications/ZhangAR23) on task and motion planning published at [Autonomous Robots](https://www.springer.com/journal/10514).
+* \[2023/10\] Organizing AAAI-23 Fall Symposium Series on [Agent Teaming in Mixed-Motive Situations](https://successmuri.org/workshops/fss23/).
 * \[2023/07\] Honored to receive the [ICAPS-23 Best Dissertation Award](https://www.icaps-conference.org/icaps-awards/) for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
 * \[2023/07\] Our paper [Deadline-Aware Multi-Agent Tour Planning](https://jiaoyangli.me/publications/HuangICAPS23) received the Best Student Paper Honorable Mention at [ICAPS-23](https://icaps23.icaps-conference.org/)!
+* \[2023/07\] Organizing SoCS-23 [Doctoral Consortium](https://socs23.search-conference.org/doctoral-consortium).
 * \[2023/06\] Honored to receive the [IFAAMAS Victor Lesser Distinguished Dissertation Award](https://aamas2023.soton.ac.uk/awards/victor-lesser-dissertation-award/) for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
 * \[2023/05\] Organizing AAMAS-23 workshop on [Optimization and Learning in Multiagent Systems](https://optlearnmas23.github.io/). 
 * \[2023/05\] Invited talk at OMRON innovation center.
 * \[2023/05\] Honored to receive the USC Viterbi School of Engineering Best Dissertation Award, called the William F. Ballhaus, Jr. Prize for Excellence in Graduate Engineering Research, for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
 * \[2023/04\] [Our paper](https://jiaoyangli.me/publications/ZhangIJCAI23) on layout optimization for multi-robot systems was accepted to [IJCAI 2023](https://ijcai-23.org/). 
 * \[2023/04\] Invited talk at Robotics and Controls Seminar at the University of North Carolina at Charlotte. 
-* \[CFP\] We are organizing SoCS 2023 [Doctoral Consortium](https://socs23.search-conference.org/doctoral-consortium) and invite all current doctoral students to apply. The submission deadline is May 4th, 2023.
 * \[2023/02\] Organizing AAAI-23 workshop on [Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage). 
 * \[2022/11\] [Our paper](https://jiaoyangli.me/publications/LiAAAI23) on MAPF for autonomous vehicle coordination was accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). 
 <details>

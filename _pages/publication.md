@@ -13,6 +13,50 @@ You can also find my articles on
 [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
 
 ## <a name="year2023"></a> 2023  
+* [Arbitrarily Scalable Environment Generators via Neural Cellular Automata](https://jiaoyangli.me/publications/ZhangNeurIPS23).     
+    Yulun Zhang, Matthew C. Fontaine, Varun Bhatt, Stefanos Nikolaidis and **Jiaoyang Li**.       
+    <i>Annual Conference on Neural Information Processing Systems (**NeurIPS**)</i>, (in print), 2023.            
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangNeurIPS23');">bibtex</a>]
+    [[code](https://github.com/lunjohnzhang/warehouse_env_gen_nca_public)]        
+<div id="bibtex-ZhangNeurIPS23" style="display:none">
+<pre>@inproceedings{ZhangNeurIPS23,
+  author    = {Yulun Zhang and Matthew C. Fontaine and Varun Bhatt and Stefanos Nikolaidis and Jiaoyang Li},
+  title     = {Arbitrarily Scalable Environment Generators via Neural Cellular Automata},
+  booktitle = {Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS)},
+  year      = {2023}
+}
+</pre></div>
+
+* [Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks](https://jiaoyangli.me/publications/ZhangAR23).          
+    Hejia Zhang, Shao-Hung Chan, Jie Zhong,  **Jiaoyang Li**, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.            
+    <i>Autonomous Robots</i>, (in print), 2023.               
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAR23');">bibtex</a>]
+    [[publisher](https://doi.org/10.1007/s10514-023-10148-y)]
+<div id="bibtex-ZhangAR23" style="display:none">
+<pre>@article{ZhangAR23,
+  author    = {Hejia Zhang and Shao-Hung Chan and Jie Zhong and Jiaoyang Li and Peter Kolapo and Sven Koenig and Zach Agioutantis and Steven Schafrik and Stefanos Nikolaidis.},
+  title     = {Multi-robot geometric task-and-motion planning for collaborative manipulation tasks},
+  journal   = {Autonomous Robots},
+  year      = {2023},
+  doi       = {https://doi.org/10.1007/s10514-023-10148-y},
+}
+</pre></div>
+
+* [Solving Multi-Agent Target Assignment and Path Finding with a Single Constraint Tree](https://jiaoyangli.me/publications/TangMRS23).     
+    Yimin Tang, Zhongqiang Ren, **Jiaoyang Li** and Katia Sycara.       
+    <i>International Symposium on Multi-Robot and Multi-Agent Systems (**MRS**)</i>, (in print), 2023.         
+    [[arXiv](https://arxiv.org/abs/2307.00663)]
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-TangMRS23');">bibtex</a>]
+    [[code](https://github.com/TachikakaMin/ITA-CBS2)]          
+<div id="bibtex-TangMRS23" style="display:none">
+<pre>@inproceedings{TangMRS23,
+  author    = {Yulun Zhang and Matthew C. Fontaine and Varun Bhatt and Stefanos Nikolaidis and Jiaoyang Li},
+  title     = {Solving Multi-Agent Target Assignment and Path Finding with a Single Constraint Tree},
+  booktitle = {Proceedings of the International Symposium on Multi-Robot and Multi-Agent Systems (MRS)},
+  year      = {2023}
+}
+</pre></div> 
+
 * [Multi-Robot Coordination and Layout Design for Automated Warehousing](https://jiaoyangli.me/publications/ZhangIJCAI23).     
     Yulun Zhang, Matthew C. Fontaine, Varun Bhatt, Stefanos Nikolaidis and **Jiaoyang Li**.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 5503-5511, 2023.         
