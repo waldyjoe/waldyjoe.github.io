@@ -32,7 +32,10 @@ I currently do not have any funding for postdoc positions.
 
 ## News 
 * \[CFP\] We are delighted and excited to send out the call for papers and participation for the [17th International Symposium on Combinatorial Search (SoCS)](https://socs24.search-conference.org/). The submission deadline is February 19, 2024. The conference will be held in Kananaskis, AB, Canada during June 6 and June 8, 2024. 
-* \[2023/10\] [One paper](https://jiaoyangli.me/publications/ZhangNeurIPS23) on environment generation accepted to [NeurIPS 2023](https://nips.cc/), [one paper](https://jiaoyangli.me/publications/TangMRS23) on target assignment and pathfinding accepted to [MRS 2023](https://sites.bu.edu/mrs2023/), and [one paper](https://jiaoyangli.me/publications/ZhangAR23) on task and motion planning published at [Autonomous Robots](https://www.springer.com/journal/10514).
+* \[2023/10\] [One paper](https://jiaoyangli.me/publications/ZhangNeurIPS23) on environment generation accepted to [NeurIPS 2023](https://nips.cc/), 
+              [one paper](https://jiaoyangli.me/publications/TangMRS23) on target assignment and pathfinding accepted to [MRS 2023](https://sites.bu.edu/mrs2023/),
+              [one paper](https://jiaoyangli.me/publications/ZhangAR23) on task and motion planning published at [Autonomous Robots](https://www.springer.com/journal/10514), and
+              [one paper](https://jiaoyangli.me/publications/AtzmonAIJ23) on multi-agent meeting published at [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence).
 * \[2023/10\] Organizing AAAI-23 Fall Symposium Series on [Agent Teaming in Mixed-Motive Situations](https://successmuri.org/workshops/fss23/).
 * \[2023/07\] Honored to receive the [ICAPS-23 Best Dissertation Award](https://www.icaps-conference.org/icaps-awards/) for [my dissertation](https://jiaoyangli.me/publications/LiPhD22)!
 * \[2023/07\] Our paper [Deadline-Aware Multi-Agent Tour Planning](https://jiaoyangli.me/publications/HuangICAPS23) received the Best Student Paper Honorable Mention at [ICAPS-23](https://icaps23.icaps-conference.org/)!

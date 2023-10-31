@@ -57,6 +57,23 @@ You can also find my articles on
 }
 </pre></div> 
 
+* [Conflict-Tolerant and Conflict-Free Multi-Agent Meeting](https://jiaoyangli.me/publications/AtzmonAIJ23).     
+    Dor Atzmon, Ariel Felner, **Jiaoyang Li**, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.      
+    <i>Artificial Intelligence (**AIJ**)</i>, volume 322, page 103950, 2023.                              
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonAIJ23');">bibtex</a>]
+    [[publisher](https://doi.org/10.1016/j.artint.2023.103950)]
+<div id="bibtex-AtzmonAIJ23" style="display:none">
+<pre>@article{AtzmonAIJ23,
+  author    = {Dor Atzmon and Ariel Felner and Jiaoyang Li and Shahaf Shperberg and Nathan Sturtevant and Sven Koenig},
+  title     = {Conflict-Tolerant and Conflict-Free Multi-Agent Meeting},
+  journal   = {Artificial Intelligence},
+  volume    = {322},
+  pages     = {103950},
+  year      = {2023},
+  doi       = {https://doi.org/10.1016/j.artint.2023.10395},
+}
+</pre></div>  
+
 * [Multi-Robot Coordination and Layout Design for Automated Warehousing](https://jiaoyangli.me/publications/ZhangIJCAI23).     
     Yulun Zhang, Matthew C. Fontaine, Varun Bhatt, Stefanos Nikolaidis and **Jiaoyang Li**.       
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 5503-5511, 2023.         
