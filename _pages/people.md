@@ -12,6 +12,16 @@ author_profile: true
 
 <!-- ## Current Members -->
 ### PhD Students
+- [Philip Huang](https://philip-huang.github.io/) (RI PhD, Fall 2023)
+
+<img src="https://jiaoyangli.me/images/philiphuang.jpg" style="float:left;width:100pt;padding-right:10px;"  alt="Philip Huang"/>
+<p>
+    Philip Huang received a BASc in Engineering Science in 2021 and an MSc in Computer Science in 2023 from the University of Toronto. 
+    His research interests include multi-robot collaboration, task and motion planning, and machine learning. 
+    A long-term goal of his research is to develop algorithms that enable individual robots and robot teams to accomplish complex and long-horizon tasks in dynamic and uncertain environments.
+</p>
+<br clear="all">
+
 - [Yorai Shaoul](https://yoraish.com/) (RI PhD, Fall 2022)
 
 <img src="https://jiaoyangli.me/images/yoraishaoul.jpg" style="float:left;width:100pt;padding-right:10px;"  alt="Yorai Shaoul"/>
