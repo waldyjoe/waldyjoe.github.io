@@ -15,7 +15,7 @@ You can also find my articles on
 ## <a name="year2023"></a> 2023  
 * [Arbitrarily Scalable Environment Generators via Neural Cellular Automata](https://jiaoyangli.me/publications/ZhangNeurIPS23).     
     Yulun Zhang, Matthew C. Fontaine, Varun Bhatt, Stefanos Nikolaidis and **Jiaoyang Li**.       
-    <i>Annual Conference on Neural Information Processing Systems (**NeurIPS**)</i>, (in print), 2023.            
+    <i>Conference on Neural Information Processing Systems (**NeurIPS**)</i>, (in print), 2023.            
     [[arXiv](https://arxiv.org/abs/2310.18622)]
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangNeurIPS23');">bibtex</a>]
     [[code](https://github.com/lunjohnzhang/warehouse_env_gen_nca_public)]        
@@ -994,7 +994,7 @@ You can also find my articles on
 </pre></div>
 
 ## <a name="thesis"></a> PhD Thesis
-* [Efficient and Effective Techniques for Large-Scale Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiPhD22).     
+* [Efficient and Effective Techniques for Large-Scale Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiPhD22) (**Best Dissertation Awards by ICAPS, AAMAS, and USC Viterbi School of Engineering**).           
     **Jiaoyang Li**.      
     <i>PhD thesis, Department of Computer Science, University of Southern California, Los Angeles (California)</i>, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiPhD22');">bibtex</a>]
