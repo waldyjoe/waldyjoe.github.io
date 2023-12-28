@@ -6,29 +6,19 @@ author_profile: true
 ---
 
 You can also find my articles on 
-<a href="https://scholar.google.com/citations?user=F5qzvmkAAAAJ&hl=en">my Google Scholar profile</a>.
+<a href="https://scholar.google.com/citations?user=RGZhfxYAAAAJ&hl=en&inst=14102473421921925766">my Google Scholar profile</a>.
 
 {% include base_path %}
 
-[2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2017](#year2017) | [Preprints](#preprints) | [Thesis](#thesis)
+[2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [Thesis](#thesis)
 
 ## <a name="year2023"></a> 2023  
-* [Arbitrarily Scalable Environment Generators via Neural Cellular Automata](https://jiaoyangli.me/publications/ZhangNeurIPS23).     
-    Yulun Zhang, Matthew C. Fontaine, Varun Bhatt, Stefanos Nikolaidis and **Jiaoyang Li**.       
-    <i>Conference on Neural Information Processing Systems (**NeurIPS**)</i>, (in print), 2023.            
-    [[arXiv](https://arxiv.org/abs/2310.18622)]
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangNeurIPS23');">bibtex</a>]
-    [[code](https://github.com/lunjohnzhang/warehouse_env_gen_nca_public)]        
-<div id="bibtex-ZhangNeurIPS23" style="display:none">
-<pre>@inproceedings{ZhangNeurIPS23,
-  author    = {Yulun Zhang and Matthew C. Fontaine and Varun Bhatt and Stefanos Nikolaidis and Jiaoyang Li},
-  title     = {Arbitrarily Scalable Environment Generators via Neural Cellular Automata},
-  booktitle = {Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS)},
-  year      = {2023}
-}
-</pre></div>
+* [Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning](https://www.ijcai.org/proceedings/2023/18).               
+    [[pdf](https://www.ijcai.org/proceedings/2023/0018.pdf)]
+    [[code](https://github.com/waldyjoe/MADPRP)]        
 
-* [Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks](https://jiaoyangli.me/publications/ZhangAR23).          
+
+<!-- * [Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks](https://jiaoyangli.me/publications/ZhangAR23).          
     Hejia Zhang, Shao-Hung Chan, Jie Zhong,  **Jiaoyang Li**, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.            
     <i>Autonomous Robots</i>, (in print), 2023.               
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAR23');">bibtex</a>]
@@ -1006,4 +996,4 @@ You can also find my articles on
   school    = {University of Southern California},
   year={2022}
 }
-</pre></div>
+</pre></div> -->

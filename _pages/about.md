@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaoyang Li"
+title: "Waldy Joe"
 excerpt: "Homepage"
 layout: archive
 author_profile: true
@@ -9,17 +9,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in [the Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
-I received my Ph.D. degree in Computer Science at [University of Southern California](https://www.usc.edu/) in 2022, advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
+I am a Data Scientist (Optimization) in AI Research Center of [Hyundai Motor Group Innovation Center in Singapore](https://www.hyundai.com/sg/home).
+I received my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/) in 2022, advised by Professor [Lau Hoong Chuin](http://www.mysmu.edu/faculty/hclau/).
 I received my B.Eng. degree from Department of Automation, School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
 I am interested in a variety of topics related to Artificial Intelligence and optimization, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
 
-* Check out my **research** [here](https://jiaoyangli.me/research/).
-* Check out my **publications** [here](https://jiaoyangli.me/publications/).
-* Check out my **CV** [here](https://jiaoyang-li.github.io/files/CV-Jiaoyang.pdf).
+* Check out my **research** [here](https://waldyjoe.github.io/research/).
+* Check out my **publications** [here](https://waldyjoe.github.io/publications/).
+<!-- * Check out my **CV** [here](https://waldyjoe.github.io/files/CV-Jiaoyang.pdf). -->
 
 ## Research Opportunities
-I am always looking for self-motivated students at all levels.
+<!-- I am always looking for self-motivated students at all levels.
 
 * If you are a prospective graduate student and interested in working with me, 
 please apply to one of the [graduate programs](https://www.ri.cmu.edu/ri-education/) offered by the Robotics Institute. 
@@ -28,10 +28,10 @@ Please contact me after you have been admitted.
 please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a short description of your background and interests. 
 * If you are an undergraduate student and looking for summer research opportunities, you are highly encouraged to apply to CMU's [RISS program](https://riss.ri.cmu.edu/).
 
-I currently do not have any funding for postdoc positions.
+I currently do not have any funding for postdoc positions. -->
 
 ## News 
-* \[CFP\] We are delighted and excited to send out the call for papers and participation for the [17th International Symposium on Combinatorial Search (SoCS)](https://socs24.search-conference.org/). The submission deadline is February 19, 2024. The conference will be held in Kananaskis, AB, Canada during June 6 and June 8, 2024. 
+<!-- * \[CFP\] We are delighted and excited to send out the call for papers and participation for the [17th International Symposium on Combinatorial Search (SoCS)](https://socs24.search-conference.org/). The submission deadline is February 19, 2024. The conference will be held in Kananaskis, AB, Canada during June 6 and June 8, 2024. 
 * \[2023/10\] [One paper](https://jiaoyangli.me/publications/ZhangNeurIPS23) on environment generation accepted to [NeurIPS 2023](https://nips.cc/), 
               [one paper](https://jiaoyangli.me/publications/TangMRS23) on target assignment and pathfinding accepted to [MRS 2023](https://sites.bu.edu/mrs2023/),
               [one paper](https://jiaoyangli.me/publications/ZhangAR23) on task and motion planning published at [Autonomous Robots](https://www.springer.com/journal/10514), and
@@ -174,4 +174,4 @@ I currently do not have any funding for postdoc positions.
       [2017.08] PhD student at USC! 
     </li>
   </ul>
-</details>
+</details> -->

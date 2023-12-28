@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaoyang Li"
+title                    : "Waldy Joe"
 title_separator          : "-"
-name                     : &name "Jiaoyang Li"
-description              : &description "Assitant Professor at Carnegie Mellon University"
-url                      : https://jiaoyangli.me  # https://Jiaoyang-Li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Waldy Joe"
+description              : &description "Data Scientist (Optimization) at AI Research Center, Hyundai Motor Group Innovation Center in Singapore"
+url                      : https://waldyjoe.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jiaoyang-Li.github.io"
+repository               : "waldyjoe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaoyang Li"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor at Carnegie Mellon University"
-  location         : "Pittsburgh, Pennsylvania"
+  name             : "Waldy Joe"
+  avatar           : "waldy.png"
+  bio              : "Data Scientist (Optimization) at AI Research Center, Hyundai Motor Group Innovation Center in Singapore"
+  location         : "Singapore"
   employer         :
-  googlescholar    : citations?user=F5qzvmkAAAAJ&hl=en
-  email            : jiaoyanl@andrew.cmu.edu
+  googlescholar    : citations?user=RGZhfxYAAAAJ&hl=en
+  email            : waldyjoe@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -93,26 +93,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Jiaoyang-Li
+  github           : waldyjoe
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : jiaoyangli-ai
-  orcid            : 0000-0002-0032-1758
+  linkedin         : waldy-joe-46a399a7
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : JiaoyangLi9
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : UCrAX1BmF4HORDXYR4EMpLXA
+  youtube          : 
   wikipedia        :
-  dblp             : 198/6422-1
-  researchgate     : Jiaoyang_Li
+  dblp             : 266/4485
+  researchgate     : 
 
 
 # Reading Files
