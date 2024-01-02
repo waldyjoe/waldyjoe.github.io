@@ -3,15 +3,12 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "ARCS Lab"
-    url: /people/
-
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
     
   - title: "CV"
-    url: /files/CV-Jiaoyang.pdf
+    url: /files/CV-Waldy.pdf
 

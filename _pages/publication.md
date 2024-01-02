@@ -13,194 +13,36 @@ You can also find my articles on
 [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [Thesis](#thesis)
 
 ## <a name="year2023"></a> 2023  
-* Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning.               
+* When Routing Meets Recommendation: Solving Dynamic Order Recommendations Problem in Peer-to-Peer Logistics Platforms.     
+    Zhiqin Zhang, **Waldy Joe**, Yuyang Er, Hoong Chuin Lau. <i>ICCL2023</i>.     
+    [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-43612-3_2)]
+
+* Dynamic Police Patrol Scheduling with Multi-Agent Reinforcement Learning.     
+    Songhan Wong, **Waldy Joe**, Hoong Chuin Lau. <i>LION17</i>.     
+    [[link](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_38)]
+
+* Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning. 
+    **Waldy Joe**, Hoong Chuin Lau. <i>IJCAI2023</i>.              
     [[pdf](https://www.ijcai.org/proceedings/2023/0018.pdf)]
-    [[code](https://github.com/waldyjoe/MADPRP)]        
+    [[code](https://github.com/waldyjoe/MADPRP)]    
 
-
-<!-- * [Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks](https://jiaoyangli.me/publications/ZhangAR23).          
-    Hejia Zhang, Shao-Hung Chan, Jie Zhong,  **Jiaoyang Li**, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.            
-    <i>Autonomous Robots</i>, (in print), 2023.               
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAR23');">bibtex</a>]
-    [[publisher](https://doi.org/10.1007/s10514-023-10148-y)]
-<div id="bibtex-ZhangAR23" style="display:none">
-<pre>@article{ZhangAR23,
-  author    = {Hejia Zhang and Shao-Hung Chan and Jie Zhong and Jiaoyang Li and Peter Kolapo and Sven Koenig and Zach Agioutantis and Steven Schafrik and Stefanos Nikolaidis.},
-  title     = {Multi-robot geometric task-and-motion planning for collaborative manipulation tasks},
-  journal   = {Autonomous Robots},
-  year      = {2023},
-  doi       = {https://doi.org/10.1007/s10514-023-10148-y},
-}
-</pre></div>
-
-* [Solving Multi-Agent Target Assignment and Path Finding with a Single Constraint Tree](https://jiaoyangli.me/publications/TangMRS23).     
-    Yimin Tang, Zhongqiang Ren, **Jiaoyang Li** and Katia Sycara.       
-    <i>International Symposium on Multi-Robot and Multi-Agent Systems (**MRS**)</i>, (in print), 2023.         
-    [[arXiv](https://arxiv.org/abs/2307.00663)]
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-TangMRS23');">bibtex</a>]
-    [[code](https://github.com/TachikakaMin/ITA-CBS2)]          
-<div id="bibtex-TangMRS23" style="display:none">
-<pre>@inproceedings{TangMRS23,
-  author    = {Yulun Zhang and Matthew C. Fontaine and Varun Bhatt and Stefanos Nikolaidis and Jiaoyang Li},
-  title     = {Solving Multi-Agent Target Assignment and Path Finding with a Single Constraint Tree},
-  booktitle = {Proceedings of the International Symposium on Multi-Robot and Multi-Agent Systems (MRS)},
-  year      = {2023}
-}
-</pre></div> 
-
-* [Conflict-Tolerant and Conflict-Free Multi-Agent Meeting](https://jiaoyangli.me/publications/AtzmonAIJ23).     
-    Dor Atzmon, Ariel Felner, **Jiaoyang Li**, Shahaf Shperberg, Nathan Sturtevant and Sven Koenig.      
-    <i>Artificial Intelligence (**AIJ**)</i>, volume 322, page 103950, 2023.                              
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AtzmonAIJ23');">bibtex</a>]
-    [[publisher](https://doi.org/10.1016/j.artint.2023.103950)]
-<div id="bibtex-AtzmonAIJ23" style="display:none">
-<pre>@article{AtzmonAIJ23,
-  author    = {Dor Atzmon and Ariel Felner and Jiaoyang Li and Shahaf Shperberg and Nathan Sturtevant and Sven Koenig},
-  title     = {Conflict-Tolerant and Conflict-Free Multi-Agent Meeting},
-  journal   = {Artificial Intelligence},
-  volume    = {322},
-  pages     = {103950},
-  year      = {2023},
-  doi       = {https://doi.org/10.1016/j.artint.2023.10395},
-}
-</pre></div>  
-
-* [Multi-Robot Coordination and Layout Design for Automated Warehousing](https://jiaoyangli.me/publications/ZhangIJCAI23).     
-    Yulun Zhang, Matthew C. Fontaine, Varun Bhatt, Stefanos Nikolaidis and **Jiaoyang Li**.       
-    <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 5503-5511, 2023.         
-    [[arXiv](https://arxiv.org/abs/2305.06436)]
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangIJCAI23');">bibtex</a>]
-    [[code](https://github.com/lunjohnzhang/warehouse_env_gen_public)]
-    [[pdf](https://jiaoyang-li.github.io/files/ZhangIJCAI23.pdf "Download poster")]
-    [[publisher](https://doi.org/10.24963/ijcai.2023/611)]     
-<div id="bibtex-ZhangIJCAI23" style="display:none">
-<pre>@inproceedings{ZhangIJCAI23,
-  author    = {Yulun Zhang and Matthew C. Fontaine and Varun Bhatt and Stefanos Nikolaidis and Jiaoyang Li},
-  title     = {Multi-Robot Coordination and Layout Design for Automated Warehousing},
-  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
-  pages     = {5503--5511},
-  year      = {2023}
-}
-</pre></div> 
-
-* [A Fast Rescheduling Algorithm for Real-Time Multi-Robot Coordination](https://jiaoyangli.me/publications/PaulSoCS23) (extended abstract).           
-    Adittyo Paul*, Ying Feng* and **Jiaoyang Li**.       
-    <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 175-176, 2023.   
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-PaulSoCS23');">bibtex</a>]
-    [[pdf](https://jiaoyang-li.github.io/files/PaulSoCS23.pdf)]
-    [[publisher](https://doi.org/10.1609/socs.v16i1.27301)]     
-<div id="bibtex-PaulSoCS23" style="display:none">
-<pre>@inproceedings{PaulSoCS23,
-  author    = {Adittyo Paul and Ying Feng and Jiaoyang Li},
-  title     = {A Fast Rescheduling Algorithm for Real-Time Multi-Robot Coordination},
-  booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
-  pages     = {175--176},
-  year      = {2023}
-}
-</pre></div>  
-
-* [Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search](https://jiaoyangli.me/publications/LamICAPS23).     
-    Edward Lam, Daniel Harabor, Peter J. Stuckey and **Jiaoyang Li**.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 254-258, 2023.     
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LamICAPS23');">bibtex</a>]
-    [[code](https://github.com/ed-lam/bcp-mapf)]
-    [[pdf](https://jiaoyangli.me/files/LamICAPS23.pdf)]
-    [[publisher](https://doi.org/10.1609/icaps.v33i1.27202)]
-<div id="bibtex-LamICAPS23" style="display:none">
-<pre>@inproceedings{LamICAPS23,
-  author    = {Edward Lam and Daniel Harabor and Peter J. Stuckey and Jiaoyang Li},
-  title     = {Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search},
-  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
-  pages     = {254--258},
-  year      = {2023}
-}
-</pre></div>  
-
-* [Beyond Pairwise Reasoning in Multi-Agent Path Finding](https://jiaoyangli.me/publications/ShenICAPS23).     
-    Bojie Shen, Zhe Chen,  **Jiaoyang Li**, Muhammad Aamir Cheema, Daniel Harabor and Peter J. Stuckey.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 384-392, 2023.     
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ShenICAPS23');">bibtex</a>]
-    [[code](https://github.com/bshen95/CBSH2-RTC-CHBP)]
-    [[pdf](https://jiaoyangli.me/files/ShenICAPS23.pdf)]
-    [[publisher](https://doi.org/10.1609/icaps.v33i1.27217)]
-<div id="bibtex-ShenICAPS23" style="display:none">
-<pre>@inproceedings{ShenICAPS23,
-  author    = {Bojie Shen and Zhe Chen and Jiaoyang Li and Muhammad Aamir Cheema and Daniel Harabor and Peter J. Stuckey},
-  title     = {Beyond Pairwise Reasoning in Multi-Agent Path Finding},
-  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
-  pages     = {384--392},
-  year      = {2023}
-}
-</pre></div>  
-
-* [Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding](https://jiaoyangli.me/publications/RenICAPS23).     
-    Zhongqiang Ren,  **Jiaoyang Li**, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 361-369, 2023.     
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-RenICAPS23');">bibtex</a>]
-    [[code](https://github.com/wonderren/public_bbmocbs)]
-    [[pdf](https://jiaoyangli.me/files/RenICAPS23.pdf)]
-    [[publisher]( https://doi.org/10.1609/icaps.v33i1.27214)]
-<div id="bibtex-RenICAPS23" style="display:none">
-<pre>@inproceedings{RenICAPS23,
-  author    = {Zhongqiang Ren and Jiaoyang Li and Han Zhang and Sven Koenig and Sivakumar Rathinam and Howie Choset},
-  title     = {Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding},
-  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
-  pages     = {361--369},
-  year      = {2023}
-}
-</pre></div>  
-
-* [Cost Splitting for Multi-Objective Conflict-Based Search](https://jiaoyangli.me/publications/GeICAPS23).     
-    Cheng Ge*, Han Zhang*, **Jiaoyang Li** and Sven Koenig.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 128-137, 2023.     
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-GeICAPS23');">bibtex</a>]
-    [[pdf](https://jiaoyangli.me/files/GeICAPS23.pdf)]
-    [[publisher](https://doi.org/10.1609/icaps.v33i1.27187)]
-<div id="bibtex-GeICAPS23" style="display:none">
-<pre>@inproceedings{GeICAPS23,
-  author    = {Cheng Ge and Han Zhang and Jiaoyang Li and Sven Koenig},
-  title     = {Cost Splitting for Multi-Objective Conflict-Based Search},
-  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
-  pages     = {128--137},
-  year      = {2023}
-}
-</pre></div>  
-
-* [Deadline-Aware Multi-Agent Tour Planning](https://jiaoyangli.me/publications/HuangICAPS23) (**Best Student Paper Honorable Mention**).       
-    Taoan Huang, Vikas Shivashankar, Michael Caldara, Joseph Durham, **Jiaoyang Li**, Bistra Dilkina and Sven Koenig.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 189-197, 2023.     
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-HuangICAPS23');">bibtex</a>]
-    [[pdf](https://jiaoyangli.me/files/HuangICAPS23.pdf)]
-    [[pubsliher](https://doi.org/10.1609/icaps.v33i1.27194)]
-<div id="bibtex-HuangICAPS23" style="display:none">
-<pre>@inproceedings{HuangICAPS23,
-  author    = {Taoan Huang and Vikas Shivashankar and Michael Caldara and Joseph Durham and Jiaoyang Li and Bistra Dilkina and Sven Koenig},
-  title     = {Deadline-Aware Multi-Agent Tour Planning},
-  booktitle = {Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS)},
-  pages     = {189--197},
-  year      = {2023}
-}
-</pre></div>  
-
-* [Intersection Coordination with Priority-Based Search for Autonomous Vehicles](https://jiaoyangli.me/publications/LiAAAI23).     
-    **Jiaoyang Li**, The Anh Hoang, Eugene Lin, Hai L. Vu and Sven Koenig.      
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 11578-11585, 2023.                           
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiAAAI23');">bibtex</a>]
-    [[code](https://github.com/theanhhoang/AIM)]
-    [[pdf](https://jiaoyang-li.github.io/files/LiAAAI23.pdf)]
-    [[publisher](https://doi.org/10.1609/aaai.v37i10.26368)]
-<div id="bibtex-LiAAAI23" style="display:none">
-<pre>@inproceedings{LiAAAI23,
-  author    = {Jiaoyang Li and The Anh Hoang and Eugene Lin and Hai L. Vu and Sven Koenig},
-  title     = {Intersection Coordination with Priority-Based Search for Autonomous Vehicles},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-  pages     = {11578--11585},
-  year      = {2023}
-}
-</pre></div>  
+* Coordinating Multi-party Vehicle Routing with Location Congestion via Iterative Best Response.  
+    **Waldy Joe**, Hoong Chuin Lau. <i>SN Computer Science, 2023</i>.  
+    [[pdf](https://waldyjoe.github.io/publications/Waldy_SNCompSci2023)]      
 
 ## <a name="year2022"></a> 2022  
-* [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
+
+* Reinforcement Learning Approach to Solve Dynamic Bi-objective Police Patrol Dispatching and Rescheduling Problem.   
+    **Waldy Joe**, Hoong Chuin Lau, Jonathan Pan. <i>ICAPS2022</i>. 
+    [[pdf](https://ojs.aaai.org/index.php/ICAPS/article/download/19831/19590)]
+
+## <a name="year2021"></a> 2021  
+
+* Coordinating multi-party vehicle routing with location congestion via iterative best response.   
+    **Waldy Joe**, Hoong Chuin Lau. <i>EUMAS2021</i>. 
+    [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82254-5_5)]
+
+<!-- * [Multi-Agent Path Finding with Mutex Propagation](https://jiaoyangli.me/publications/ZhangAIJ22).     
     Han Zhang, **Jiaoyang Li**, Pavel Surynek, T. K. Satish Kumar and Sven Koenig.      
     <i>Artificial Intelligence (**AIJ**)</i>, volume 311, page 1034766, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAIJ22');">bibtex</a>]
@@ -949,51 +791,9 @@ You can also find my articles on
     **Jiaoyang Li**, Jianming Hu and Yi Zhang.      
     <i>Tsinghua Science and Technology</i>, 22(3):282-292, 2017.-->
 
-## <a name="preprints"></a> Preprints
-
-* Cooperative Task and Motion Planning for Multi-Arm Assembly Systems.     
-    Jingkai Chen, **Jiaoyang Li***, Yijiang Huang*, Caelan Garrett, Dawei Sun, Chuchu Fan, Andreas Hofmann, Caitlin Mueller, Sven Koenig, Brian C. Williams.  
-    <i>arXiv:2203.02475</i>, 2022.<br>
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Chen22');">bibtex</a>]
-    [[arxiv](https://arxiv.org/abs/2203.02475)]
-<div id="bibtex-Chen22" style="display:none">
-<pre>@misc{Chen22,
-  doi = {10.48550/ARXIV.2203.02475},
-  url = {https://arxiv.org/abs/2203.02475},
-  author = {Chen, Jingkai and Li, Jiaoyang and Huang, Yijiang and Garrett, Caelan and Sun, Dawei and Fan, Chuchu and Hofmann, Andreas and Mueller, Caitlin and Koenig, Sven and Williams, Brian C.}, 
-  title = {Cooperative Task and Motion Planning for Multi-Arm Assembly Systems}, 
-  publisher = {arXiv},
-  year = {2022}
-}
-</pre></div>
-
-* Multi-Robot Routing with Time Windows: A Column Generation Approach.     
-    Naveed Haghani, **Jiaoyang Li**, Sven Koenig, Gautam Kunapuli, Claudio Contardo, Amelia Regan and Julian Yarkony.  
-    <i>arXiv:2103.08835</i>, 2021.<br>
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Haghani21');">bibtex</a>]
-    [[arxiv](https://arxiv.org/abs/2103.08835)]
-<div id="bibtex-Haghani21" style="display:none">
-<pre>@misc{Haghani21,
-  doi = {10.48550/ARXIV.2103.08835},
-  url = {https://arxiv.org/abs/2103.08835},
-  author = {Haghani, Naveed and Li, Jiaoyang and Koenig, Sven and Kunapuli, Gautam and Contardo, Claudio and Regan, Amelia and Yarkony, Julian}, 
-  title = {Multi-Robot Routing with Time Windows: A Column Generation Approach}, 
-  publisher = {arXiv},
-  year = {2021}
-}
-</pre></div>
-
 ## <a name="thesis"></a> PhD Thesis
-* [Efficient and Effective Techniques for Large-Scale Multi-Agent Path Finding](https://jiaoyangli.me/publications/LiPhD22) (**Best Dissertation Awards by ICAPS, AAMAS, and USC Viterbi School of Engineering**).           
-    **Jiaoyang Li**.      
-    <i>PhD thesis, Department of Computer Science, University of Southern California, Los Angeles (California)</i>, 2022.                           
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiPhD22');">bibtex</a>]
-    [[pdf](/files/phd-thesis-final.pdf)]
-<div id="bibtex-LiPhD22" style="display:none">
-<pre>@phdthesis{LiPhD22,
-  title={Efficient and Effective Techniques for Large-Scale Multi-Agent Path Finding},
-  author={Jiaoyang Li},
-  school    = {University of Southern California},
-  year={2022}
-}
-</pre></div> -->
+* Reinforcement learning approach to coordinate real-world multi-agent dynamic routing and scheduling         
+    **Waldy Joe**.      
+    <i>PhD Dissertation, School of Computing and Information System, Singapore Management University, Singapore</i>, 2022.                           
+    [[pdf]()]
+
