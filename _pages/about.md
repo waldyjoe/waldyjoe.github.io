@@ -12,11 +12,12 @@ redirect_from:
 I am a Data Scientist (Optimization) in AI Research Center of [Hyundai Motor Group Innovation Center in Singapore](https://www.hyundai.com/sg/home).
 I received my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/) in 2022, advised by Professor [Lau Hoong Chuin](http://www.mysmu.edu/faculty/hclau/).
 
+
 <!-- * Check out my **research** [here](https://waldyjoe.github.io/research/). -->
 * Check out my **publications** [here](https://waldyjoe.github.io/publications/).
 <!-- * Check out my **CV** [here](https://waldyjoe.github.io/files/CV-Jiaoyang.pdf). -->
 
-## Research Opportunities
+<!-- ## Research Opportunities -->
 <!-- I am always looking for self-motivated students at all levels.
 
 * If you are a prospective graduate student and interested in working with me, 
@@ -28,7 +29,7 @@ please send me an [email](mailto:jiaoyanl@andrew.cmu.edu) with your CV and a sho
 
 I currently do not have any funding for postdoc positions. -->
 
-## News 
+<!-- ## News  -->
 <!-- * \[CFP\] We are delighted and excited to send out the call for papers and participation for the [17th International Symposium on Combinatorial Search (SoCS)](https://socs24.search-conference.org/). The submission deadline is February 19, 2024. The conference will be held in Kananaskis, AB, Canada during June 6 and June 8, 2024. 
 * \[2023/10\] [One paper](https://jiaoyangli.me/publications/ZhangNeurIPS23) on environment generation accepted to [NeurIPS 2023](https://nips.cc/), 
               [one paper](https://jiaoyangli.me/publications/TangMRS23) on target assignment and pathfinding accepted to [MRS 2023](https://sites.bu.edu/mrs2023/),
