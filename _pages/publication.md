@@ -13,7 +13,7 @@ You can also find my articles on
 [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [Thesis](#thesis)
 
 ## <a name="year2023"></a> 2023  
-* [Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning](https://www.ijcai.org/proceedings/2023/18).               
+* Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning.               
     [[pdf](https://www.ijcai.org/proceedings/2023/0018.pdf)]
     [[code](https://github.com/waldyjoe/MADPRP)]        
 

@@ -11,8 +11,6 @@ redirect_from:
 
 I am a Data Scientist (Optimization) in AI Research Center of [Hyundai Motor Group Innovation Center in Singapore](https://www.hyundai.com/sg/home).
 I received my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/) in 2022, advised by Professor [Lau Hoong Chuin](http://www.mysmu.edu/faculty/hclau/).
-I received my B.Eng. degree from Department of Automation, School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
-I am interested in a variety of topics related to Artificial Intelligence and optimization, such as combinatorial algorithms, heuristic search, scheduling and planning for robotics and transportation. My current research focuses on the coordination of large teams of mobile robots. 
 
 <!-- * Check out my **research** [here](https://waldyjoe.github.io/research/). -->
 * Check out my **publications** [here](https://waldyjoe.github.io/publications/).
