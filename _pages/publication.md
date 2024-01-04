@@ -40,18 +40,19 @@ You can also find my articles on
 
 * Coordinating multi-party vehicle routing with location congestion via iterative best response.   
     **Waldy Joe**, Hoong Chuin Lau. <i>EUMAS2021</i>.     
-    [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-82254-5_5)]
+    [[pdf](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7026&context=sis_research)]
 
 ## <a name="year2020"></a> 2020  
 
 * Deep reinforcement learning approach to solve dynamic vehicle routing problem with stochastic customers.   
     **Waldy Joe**, Hoong Chuin Lau. <i>ICAPS2020</i>.     
     [[pdf](https://waldyjoe.github.io/publications/Waldy_ICAPS2020)]
+    [[video](https://www.youtube.com/watch?v=T2Y2iCB_qI4)]
 
 
 ## <a name="thesis"></a> PhD Thesis
 * Reinforcement learning approach to coordinate real-world multi-agent dynamic routing and scheduling         
     **Waldy Joe**.      
     <i>PhD Dissertation, School of Computing and Information System, Singapore Management University, Singapore</i>, 2022.                           
-    [[pdf]()]
+    [[pdf](https://waldyjoe.github.io/publications/Waldy_Dissertation)]
 

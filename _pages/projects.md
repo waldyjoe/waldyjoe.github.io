@@ -7,16 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-My research focuses on developing fundamental algorithms that enable large teams of autonomous agents
-to accomplish collaborative tasks intelligently in dynamic environments.
-Applications of my research include
-mobile robot coordination for automated warehousing and, in general, nonholonomic robot teams,
-drone swarm control,
-multi-arm assembly,
-character control in video games,
-and traffic management for airports, railway networks, and road intersections with autonomous cars.
+My research focuses on...
 
-<link rel="stylesheet" href="../assets/css/imagehovertext.css">
+<!-- <link rel="stylesheet" href="../assets/css/imagehovertext.css">
 
 <div class="container">
     <div class="tile is-ancestor is-flex-wrap">
@@ -126,4 +119,4 @@ and traffic management for airports, railway networks, and road intersections wi
     </div>
 </div>
 
-<br style = "line-height:5;">
+<br style = "line-height:5;"> -->
