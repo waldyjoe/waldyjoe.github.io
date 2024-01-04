@@ -51,7 +51,7 @@ You can also find my articles on
 
 
 ## <a name="thesis"></a> PhD Thesis
-* Reinforcement learning approach to coordinate real-world multi-agent dynamic routing and scheduling         
+* Reinforcement learning approach to coordinate real-world multi-agent dynamic routing and scheduling.         
     **Waldy Joe**.      
     <i>PhD Dissertation, School of Computing and Information System, Singapore Management University, Singapore</i>, 2022.                           
     [[pdf](https://waldyjoe.github.io/publications/Waldy_Dissertation)]
