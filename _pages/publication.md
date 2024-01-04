@@ -47,6 +47,7 @@ You can also find my articles on
 * Deep reinforcement learning approach to solve dynamic vehicle routing problem with stochastic customers.   
     **Waldy Joe**, Hoong Chuin Lau. <i>ICAPS2020</i>.     
     [[pdf](https://waldyjoe.github.io/publications/Waldy_ICAPS2020)]
+    [[poster](https://icaps20.icaps-conference.org/posters/poster16.pdf)]
     [[video](https://www.youtube.com/watch?v=T2Y2iCB_qI4)]
 
 
