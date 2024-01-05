@@ -21,13 +21,13 @@ You can also find my articles on
     Songhan Wong, **Waldy Joe**, Hoong Chuin Lau. <i>LION17</i>.     
     [[link](https://link.springer.com/chapter/10.1007/978-3-031-44505-7_38)]
 
-* Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning. 
+* Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning.      
     **Waldy Joe**, Hoong Chuin Lau. <i>IJCAI2023</i>.              
     [[pdf](https://www.ijcai.org/proceedings/2023/0018.pdf)]
     [[code](https://github.com/waldyjoe/MADPRP)]    
 
-* Coordinating Multi-party Vehicle Routing with Location Congestion via Iterative Best Response.  
-    **Waldy Joe**, Hoong Chuin Lau. <i>SN Computer Science, 2023</i>.  
+* Coordinating Multi-party Vehicle Routing with Location Congestion via Iterative Best Response.      
+    **Waldy Joe**, Hoong Chuin Lau. <i>SN Computer Science, 2023</i>.    
     [[pdf](https://waldyjoe.github.io/publications/Waldy_SNCompSci2023)]      
 
 ## <a name="year2022"></a> 2022  
@@ -45,7 +45,7 @@ You can also find my articles on
 ## <a name="year2020"></a> 2020  
 
 * Deep reinforcement learning approach to solve dynamic vehicle routing problem with stochastic customers.   
-    **Waldy Joe**, Hoong Chuin Lau. <i>ICAPS2020</i>.     
+    **Waldy Joe**, Hoong Chuin Lau. <i>ICAPS2020</i>.      
     [[pdf](https://waldyjoe.github.io/publications/Waldy_ICAPS2020)]
 
 
