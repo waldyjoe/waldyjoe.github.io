@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Waldy Joe"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Data Scientist (Optimization) at AI Research Center, Hyundai Motor Group Innovation Center in Singapore"
   location         : "Singapore"
   employer         :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : waldy-joe-46a399a7
-  orcid            : 
+  orcid            : 0000-0002-7873-2282
   pinterest        :
   soundcloud       :
   stackoverflow    : 
