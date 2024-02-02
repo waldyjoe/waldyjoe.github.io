@@ -15,7 +15,7 @@ You can also find my articles on
 ## <a name="year2023"></a> 2023  
 * When Routing Meets Recommendation: Solving Dynamic Order Recommendations Problem in Peer-to-Peer Logistics Platforms.     
     Zhiqin Zhang, **Waldy Joe**, Yuyang Er, Hoong Chuin Lau. <i>ICCL2023</i>.     
-    [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-43612-3_2)]
+    [[link](https://link.springer.com/chapter/10.1007/978-3-031-43612-3_2)]
 
 * Dynamic Police Patrol Scheduling with Multi-Agent Reinforcement Learning.     
     Songhan Wong, **Waldy Joe**, Hoong Chuin Lau. <i>LION17</i>.     
