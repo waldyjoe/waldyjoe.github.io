@@ -48,9 +48,9 @@ if __name__ == "__main__":
     # Output the VRP result status
     rows = []
     for date in daily_status.keys():
-        rows.append([date, daily_status[status]])
+        rows.append([date, daily_status[date]])
 
-    df_assignment = pd.Dataframe(rows, columns=['Date', 'VRP Solved'])
+    df_assignment = pd.DataFrame(rows, columns=['Date', 'VRP Solved'])
     df_assignment.to_excel("output.xlsx", index=False)
 
 
