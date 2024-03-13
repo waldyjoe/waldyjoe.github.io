@@ -22,6 +22,7 @@ if __name__ == "__main__":
     for date in unique_delivery_dates:
         df_daily_order = df[df['delivery_date'] == date]
         solver = Solver(df_daily_order, 20)
+        # Solve a bin packing problem
         output = solver.solve_min_trucks()
         trucks_per_day[date] = output["Total"]
 
@@ -33,14 +34,18 @@ if __name__ == "__main__":
     # Mission 2
     # formulate the problem as VRP with Time Windows
     daily_status = {}
+    idx = 1
     for date in unique_delivery_dates:
         df_daily_order = df[df['delivery_date'] == date]
         solver = Solver(df_daily_order, 20)
+        # Solve a vrp tw
         status = solver.solve_vrp(minTruck)
         daily_status[date] = status
+        print(str(idx) + " out of " + str(len(unique_delivery_dates)) + " computed")
+        idx += 1
 
 
-
+    # Output the VRP result status
     rows = []
     for date in daily_status.keys():
         rows.append([date, daily_status[status]])
