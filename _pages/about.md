@@ -22,6 +22,6 @@ In my current role in HMGICS, I am working on both research and deployment proje
 - I developed and deployed a novel algorithm to measure the factory's Overall Equipment Effectiveness (OEE) and automate the root cause analysis process in a flexible cell-based car production.
 - I developed model to analyse, visualize and simulate current performance of mobile robot operations.
 
-* Check out my **publications** [here](https://waldyjoe.github.io/publications/).
+Check out my **publications** [here](https://waldyjoe.github.io/publications/).
 
 
