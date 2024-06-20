@@ -16,6 +16,7 @@ You can also find my articles on
 * When Routing Meets Recommendation: Solving Dynamic Order Recommendations Problem in Peer-to-Peer Logistics Platforms.     
     Zhiqin Zhang, **Waldy Joe**, Yuyang Er, Hoong Chuin Lau. <i>ICCL2023</i>.     
     [[link](https://link.springer.com/chapter/10.1007/978-3-031-43612-3_2)]
+    [[project outcome](https://aisingapore.org/tech-offers/ai-based-dynamic-route-optimization-and-driver-job-recommendation-tool/)]
 
 * Dynamic Police Patrol Scheduling with Multi-Agent Reinforcement Learning.     
     Songhan Wong, **Waldy Joe**, Hoong Chuin Lau. <i>LION17</i>.     
