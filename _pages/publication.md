@@ -26,7 +26,7 @@ You can also find my articles on
 * Learning to send reinforcements: coordinating multi-agent dynamic police patrol dispatching and rescheduling via reinforcement learning.      
     **Waldy Joe**, Hoong Chuin Lau. <i>IJCAI2023</i>.              
     [[pdf](https://www.ijcai.org/proceedings/2023/0018.pdf)]
-    [[code](https://github.com/waldyjoe/MADPRP)]    
+    [[code](https://github.com/waldyjoe/MADPRP)]
     [[news](https://medium.com/@aminerscholar_39923/ijcai-2023%E4%B8%A8a-collection-of-papers-on-reinforcement-learning-744906679984)]
 
 * Coordinating Multi-party Vehicle Routing with Location Congestion via Iterative Best Response.      

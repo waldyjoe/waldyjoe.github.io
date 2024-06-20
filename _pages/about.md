@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist (Optimization) in AI Research Center of [Hyundai Motor Group Innovation Center in Singapore](https://www.hyundai.com/sg/hmgics/about-us/vision-mission) (HMGICS).
+I am a Data Scientist (Optimization) in [Hyundai Motor Group Innovation Center in Singapore](https://www.hyundai.com/sg/hmgics/about-us/vision-mission) (HMGICS).
 I received my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/) in 2022, advised by Professor [Lau Hoong Chuin](http://www.mysmu.edu/faculty/hclau/).
 
 My research focuses on the intersections between Artificial Intelligence (AI) and Operations Research (OR), specifically how techniques from both fields of study can synergise to address real-world Combinatorial Optimization Problems (COPs) that are increasingly more complex and dynamic.
