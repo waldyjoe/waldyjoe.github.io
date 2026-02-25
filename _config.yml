@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Waldy Joe"
 title_separator          : "-"
 name                     : &name "Waldy Joe"
-description              : &description "Data Scientist (Optimization), Hyundai Motor Group Innovation Center in Singapore"
+description              : &description ""
 url                      : https://waldyjoe.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "waldyjoe.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Waldy Joe"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist (Optimization), Hyundai Motor Group Innovation Center in Singapore"
+  bio              : "Data Scientist, SWAT Mobility"
   location         : "Singapore"
   employer         :
   googlescholar    : citations?user=RGZhfxYAAAAJ&hl=en
