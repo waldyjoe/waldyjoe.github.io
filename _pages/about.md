@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Science and OR practitioner and researcher. I am currently a Data Scientist | Optimization and Backend Engineer in [SWAT Mobility](https://www.swatmobility.com/), a leading AI vehicle routing optimization firm in South East Asia and Japan. I received my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/) in 2022, advised by Professor [Lau Hoong Chuin](http://www.mysmu.edu/faculty/hclau/).
+I am a Data Science and OR practitioner and researcher. I am currently a Data Scientist \| Optimization and Backend Engineer in [SWAT Mobility](https://www.swatmobility.com/), a leading AI vehicle routing optimization firm in South East Asia and Japan. I received my Ph.D. in Computer Science at [Singapore Management University](https://www.smu.edu.sg/) in 2022, advised by Professor [Lau Hoong Chuin](http://www.mysmu.edu/faculty/hclau/).
 
 My research focuses on the intersections between Artificial Intelligence (AI) and Operations Research (OR), specifically how techniques from both fields of study can synergise to address real-world Combinatorial Optimization Problems (COPs) that are increasingly more complex and dynamic.
 
@@ -24,5 +24,3 @@ In my previous role in [Hyundai Motor Group Innovation Center in Singapore](http
 In my current role, I am working on researching, developing and deploying new advanced routing optimization features to address the ever-changing and complex real-world routing optimization scenarios such as routing with pallet loading constraints, routing with temporal access restrictions and inventory-aware VRP. In particular, I managed the full development lifecycle of advanced routing features, translating complex optimization research into production-ready client solutions. 
 
 Check out my **publications** [here](https://waldyjoe.github.io/publications/).
-
-
